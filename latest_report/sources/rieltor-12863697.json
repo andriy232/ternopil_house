@@ -1,0 +1,38 @@
+{
+  "url": "https://rieltor.ua/ternopol/houses-sale/view/12863697/",
+  "status": 200,
+  "checkedAt": "2026-09-21T22:56:35.479043+03:00",
+  "address": "Глибока вул., 46, Тернопіль",
+  "priceUsd": 143000,
+  "commissionPercent": 5,
+  "areaM2": 190,
+  "livingAreaM2": 160,
+  "kitchenAreaM2": 9,
+  "landSotka": 9,
+  "floors": 1,
+  "rooms": 6,
+  "propertyType": "Приватний будинок",
+  "driveway": "Асфальт",
+  "coordinates": [
+    49.54907989501953,
+    25.61433982849121
+  ],
+  "description": "Великий приватний будинок; потребує ремонту; під усім будинком підвал; газовий котел; центральний водопровід і каналізація; продавець розглядає продаж усього будинку або половин.",
+  "photoUrls": [
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959184268832.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959182309866.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959183635038.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959180601100.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959179930138.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959184184173.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959186614235.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959187560289.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959187678457.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959188086678.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959188554614.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959190006792.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959191770457.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959192122311.jpg",
+    "https://market-images.lunstatic.net/lun-ua/960/720/images/offers/1869959192343964.jpg"
+  ]
+}
