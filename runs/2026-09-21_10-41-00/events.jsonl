@@ -1,0 +1,7 @@
+{"type":"thread.started","thread_id":"01a0c2e9-3ea6-7b43-bced-d4b0a451b3fe"}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_0","type":"agent_message","text":"Відкрию вказану сторінку через вебпошук і перевірю ціну, площу та поточну дату UTC.\n"}}
+{"type":"item.started","item":{"id":"item_1","type":"web_search","id":"exec-83559168-694d-41f0-9b80-bd66ee7ba393","query":"","action":{"type":"other"}}}
+{"type":"item.completed","item":{"id":"item_1","type":"web_search","id":"exec-83559168-694d-41f0-9b80-bd66ee7ba393","query":"https://rieltor.ua/ternopol/houses-sale/view/12924108/","action":{"type":"other"}}}
+{"type":"item.completed","item":{"id":"item_2","type":"agent_message","text":"Сторінка недоступна через інструмент вебперегляду, тому прочитати її та перевірити ціну й площу не вдалося.\n\n- Ціна: не встановлена.\n- Площа: не встановлена.\n- Дата UTC: **2026-09-21**.\n- URL: https://rieltor.ua/ternopol/houses-sale/view/12924108/"}}
+{"type":"turn.completed","usage":{"input_tokens":32858,"cached_input_tokens":26368,"cache_write_input_tokens":0,"output_tokens":259,"reasoning_output_tokens":34}}

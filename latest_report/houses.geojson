@@ -1,0 +1,821 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.61639257,
+          49.54890953
+        ]
+      },
+      "properties": {
+        "id": "stefanyka",
+        "number": 1,
+        "kind": "house",
+        "address": "Стефаника, 19",
+        "district": "Східний",
+        "price": 89900,
+        "section": "active",
+        "mapPrecision": "адресна точка",
+        "reason": "Компроміс: лише 57,3 м² і 4,21 сотки. Відоме місце; заїзд заявлений, фото його не доводять.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0%2019%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:27:08.224709+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.59133467,
+          49.56632737
+        ]
+      },
+      "properties": {
+        "id": "vilkhova",
+        "number": 2,
+        "kind": "house",
+        "address": "Вільхова, номер не підтверджено",
+        "district": "Новий світ",
+        "price": 120000,
+        "section": "active",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Номер невідомий. Два маркери дають ≈93 і ≈243 м до колії; висотки на вулиці є. Повну відповідність не підтверджено.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%92%D1%96%D0%BB%D1%8C%D1%85%D0%BE%D0%B2%D0%B0%20%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:31:23.677400+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6060396,
+          49.5461873
+        ]
+      },
+      "properties": {
+        "id": "zamonastyrska",
+        "number": 5,
+        "kind": "house",
+        "address": "Замонастирська, 36",
+        "district": "Центр",
+        "price": 70000,
+        "section": "excluded",
+        "mapPrecision": "адресна точка",
+        "reason": "Відсіяно: ≈27 м від адресної точки до колії. Маркер оголошення зміщений.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%97%D0%B0%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80%D1%81%D1%8C%D0%BA%D0%B0%2C%2036%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:26:47.491952+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6056463,
+          49.5478561
+        ]
+      },
+      "properties": {
+        "id": "divocha",
+        "number": 6,
+        "kind": "house",
+        "address": "Дівоча, 4",
+        "district": "Східний",
+        "price": 74000,
+        "section": "excluded",
+        "mapPrecision": "адресна точка",
+        "reason": "Відсіяно: кутова ділянка на роздоріжжі біля Татарської. Два заїзди не усувають цей недолік.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%94%D1%96%D0%B2%D0%BE%D1%87%D0%B0%2C%204%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T10:31:49.420Z",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6042018,
+          49.5476365
+        ]
+      },
+      "properties": {
+        "id": "tatarska53",
+        "number": 7,
+        "kind": "house",
+        "address": "Татарська, імовірно 53",
+        "district": "Східний",
+        "price": 95000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено: 47 м² і 4,35 сотки за $95 000 — слабкий варіант під перебудову; точний номер із агрегатора не доведено.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B0%2C%20%D1%96%D0%BC%D0%BE%D0%B2%D1%96%D1%80%D0%BD%D0%BE%2053%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:27:04.880691+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6112587,
+          49.5495122
+        ]
+      },
+      "properties": {
+        "id": "hlyboka",
+        "number": 8,
+        "kind": "house",
+        "address": "Глибока, ймовірно 29",
+        "district": "Східний",
+        "price": 105000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено: площа землі суперечлива — 3 проти 1,5 сотки; навпроти ймовірного №29 велика багатоповерхівка. Потрібні точна адреса й документи.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%93%D0%BB%D0%B8%D0%B1%D0%BE%D0%BA%D0%B0%2029%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:27:13.195657+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5937548,
+          49.5367157
+        ]
+      },
+      "properties": {
+        "id": "bilohirska",
+        "number": 9,
+        "kind": "house",
+        "address": "Білогірська, 34",
+        "district": "Східний / південна межа — уточнити",
+        "price": 118000,
+        "section": "excluded",
+        "mapPrecision": "номер на фото + адреса Google Maps",
+        "reason": "Відсіяно: це Білогірська, 34 — номер підтверджено на фото. До колії ≈51 м від адресної точки. На задньому плані також висока житлова забудова.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%91%D1%96%D0%BB%D0%BE%D0%B3%D1%96%D1%80%D1%81%D1%8C%D0%BA%D0%B0%2C%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B5%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T10:38:08.893Z",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.560401916503906,
+          49.55345153808594
+        ]
+      },
+      "properties": {
+        "id": "zagreb",
+        "number": 13,
+        "kind": "house",
+        "address": "Загребельна, 26",
+        "district": "Дружба",
+        "price": 87000,
+        "section": "excluded",
+        "mapPrecision": "номер у рекламі; маркер не звірений з адресою",
+        "reason": "Відсіяно: опис прямо пропонує 1/2 будинку.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%97%D0%B0%D0%B3%D1%80%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%2C%2026%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:26:44.815655+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.645715713500977,
+          49.53163528442383
+        ]
+      },
+      "properties": {
+        "id": "land-franka",
+        "number": 16,
+        "kind": "land",
+        "address": "Ділянка · Івана Франка, номер невідомий",
+        "district": "Великі Гаї",
+        "price": 9000,
+        "section": "excluded",
+        "mapPrecision": "маркер оголошення; межі не встановлені",
+        "reason": "Відсіяно: садівництво A.01.05, а житлова забудова лише як можлива майбутня зміна призначення.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%20%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0%2C%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B5%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%2C%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D1%96%20%D0%93%D0%B0%D1%97",
+        "checkedAt": "2026-09-21T10:31:48.591Z",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.541667938232422,
+          49.589420318603516
+        ]
+      },
+      "properties": {
+        "id": "land-pro150",
+        "number": 20,
+        "kind": "land",
+        "address": "Ділянка · Проєктна, 150 — зі слів продавця",
+        "district": "Пронятин",
+        "price": 15000,
+        "section": "excluded",
+        "mapPrecision": "маркер оголошення; межі не встановлені",
+        "reason": "Не включено: комунікації поруч, садочок ≤500 м не підтверджений. У продажу дві ділянки; перевірені 1,98 сотки мають ОСГ-призначення.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82%D0%BD%D0%B0%2C%20150%20%E2%80%94%20%D0%B7%D1%96%20%D1%81%D0%BB%D1%96%D0%B2%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B2%D1%86%D1%8F%2C%20%D0%9F%D1%80%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%BD",
+        "checkedAt": "2026-09-21T13:27:31.374395+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.527700424194336,
+          49.541866302490234
+        ]
+      },
+      "properties": {
+        "id": "land-pid27",
+        "number": 21,
+        "kind": "land",
+        "address": "Ділянка · 27,41 сотки, кадастр …0722",
+        "district": "Підгороднє",
+        "price": 15000,
+        "section": "excluded",
+        "mapPrecision": "маркер оголошення; межі не встановлені",
+        "reason": "Відсіяно: попри ярлик «під забудову», кадастровий блок указує 01.03 — особисте селянське господарство.",
+        "map": "https://www.google.com/maps/search/?api=1&query=27%2C41%20%D1%81%D0%BE%D1%82%D0%BA%D0%B8%2C%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%20%E2%80%A60722%2C%20%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%94",
+        "checkedAt": "2026-09-21T13:27:32.228155+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.670949935913086,
+          49.50896072387695
+        ]
+      },
+      "properties": {
+        "id": "land-haiolha",
+        "number": 22,
+        "kind": "land",
+        "address": "Ділянка · Княгині Ольги, номер невідомий",
+        "district": "Великі Гаї",
+        "price": 25000,
+        "section": "excluded",
+        "mapPrecision": "маркер оголошення; межі не встановлені",
+        "reason": "Не включено: комунікації лише поруч, водопостачання не облаштоване; садочок ≤500 м не підтверджений.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%9A%D0%BD%D1%8F%D0%B3%D0%B8%D0%BD%D1%96%20%D0%9E%D0%BB%D1%8C%D0%B3%D0%B8%2C%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B5%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%2C%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D1%96%20%D0%93%D0%B0%D1%97",
+        "checkedAt": "2026-09-21T13:27:29.652329+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.66977882385254,
+          49.518436431884766
+        ]
+      },
+      "properties": {
+        "id": "land-haikashuba",
+        "number": 23,
+        "kind": "land",
+        "address": "Ділянка · Отця Кашуби, номер невідомий",
+        "district": "Великі Гаї",
+        "price": 32000,
+        "section": "excluded",
+        "mapPrecision": "маркер оголошення; межі не встановлені",
+        "reason": "Не включено: комунікації не описані, точна ділянка й садочок ≤500 м не підтверджені.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%9E%D1%82%D1%86%D1%8F%20%D0%9A%D0%B0%D1%88%D1%83%D0%B1%D0%B8%2C%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B5%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%2C%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D1%96%20%D0%93%D0%B0%D1%97",
+        "checkedAt": "2026-09-21T13:27:30.519317+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.543469,
+          49.5855739
+        ]
+      },
+      "properties": {
+        "id": "proektna164",
+        "number": 25,
+        "kind": "house",
+        "address": "Проєктна, 216 за Flatfy",
+        "district": "Пронятин",
+        "price": 41000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено: садочка в межах 500 м не підтверджено; від маркера до №32 близько 2,7 км. Заявлені продавцем 350–400 м до зупинки не виміряні від точної адреси.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82%D0%BD%D0%B0%20216%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:27:17.462686+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5582997,
+          49.5610711
+        ]
+      },
+      "properties": {
+        "id": "hlybokadolyna",
+        "number": 26,
+        "kind": "house",
+        "address": "Глибока Долина, 29",
+        "district": "Кутківці",
+        "price": 45000,
+        "section": "excluded",
+        "mapPrecision": "адресна точка",
+        "reason": "Відсіяно за вашою прямою вказівкою. Від маркера №29 до межі цвинтаря ≈46 м; фото також показують заглиблення та підпірні стіни.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%93%D0%BB%D0%B8%D0%B1%D0%BE%D0%BA%D0%B0%20%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%2029%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:27:12.278019+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.56118392944336,
+          49.56497573852539
+        ]
+      },
+      "properties": {
+        "id": "land-ter53",
+        "number": 27,
+        "kind": "land",
+        "address": "Ділянка · Тернопільська, 53",
+        "district": "Кутківці",
+        "price": 47500,
+        "section": "excluded",
+        "mapPrecision": "маркер оголошення; межі не встановлені",
+        "reason": "Відсіяно: 5 соток замість потрібних мінімум 6.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%2C%2053%2C%20%D0%9A%D1%83%D1%82%D0%BA%D1%96%D0%B2%D1%86%D1%96",
+        "checkedAt": "2026-09-21T13:27:33.081360+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.535654,
+          49.531478
+        ]
+      },
+      "properties": {
+        "id": "pid83",
+        "number": 29,
+        "kind": "house",
+        "address": "Зелена, СТ «Жовтневе», номер невідомий",
+        "district": "Підгороднє",
+        "price": 50000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено: від маркера до дошкільного відділення на Пасічній, 9 ≈1,35 км. Продавець пише про близьку зупинку, але її точної відстані не надає.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%2C%20%D0%A1%D0%A2%20%C2%AB%D0%96%D0%BE%D0%B2%D1%82%D0%BD%D0%B5%D0%B2%D0%B5%C2%BB%2C%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B5%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%2C%20%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%94%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+        "checkedAt": "2026-09-21T13:27:26.594022+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.55859086,
+          49.56099675
+        ]
+      },
+      "properties": {
+        "id": "land-dolyna-detail",
+        "number": 30,
+        "kind": "land",
+        "address": "Ділянка · Глибока Долина, номер невідомий",
+        "district": "Кутківці",
+        "price": 50000,
+        "section": "excluded",
+        "mapPrecision": "маркер оголошення; межі не встановлені",
+        "reason": "Не включено: від маркера до цвинтаря ≈26 м. Точної ділянки не впізнано; номер та садочок ≤500 м невідомі.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%93%D0%BB%D0%B8%D0%B1%D0%BE%D0%BA%D0%B0%20%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%2C%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B5%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%2C%20%D0%9A%D1%83%D1%82%D0%BA%D1%96%D0%B2%D1%86%D1%96",
+        "checkedAt": "2026-09-21T13:27:28.647319+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.64443808,
+          49.52753068
+        ]
+      },
+      "properties": {
+        "id": "hai125",
+        "number": 31,
+        "kind": "house",
+        "address": "Івана Франка бічна, номер невідомий",
+        "district": "Великі Гаї",
+        "price": 62178,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено: від маркера до садочка «Країна дитинства» ≈725 м по прямій. Потрібна точна адреса.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%20%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0%20%D0%B1%D1%96%D1%87%D0%BD%D0%B0%2C%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B5%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%2C%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D1%96%20%D0%93%D0%B0%D1%97%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+        "checkedAt": "2026-09-21T13:27:21.805478+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.543469,
+          49.5855739
+        ]
+      },
+      "properties": {
+        "id": "proektna260",
+        "number": 33,
+        "kind": "house",
+        "address": "Проєктна, номер не вказано",
+        "district": "Пронятин",
+        "price": 75000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено: садочка в межах 500 м не підтверджено; від приблизного маркера до №32 близько 2,7 км. Великий обсяг добудови.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82%D0%BD%D0%B0%20%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F%2C%20%D0%9F%D1%80%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%BD%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:27:15.303153+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.66320873,
+          49.52202507
+        ]
+      },
+      "properties": {
+        "id": "hai188-alt",
+        "number": 34,
+        "kind": "house",
+        "address": "Шевченка, 22 — за оголошенням",
+        "district": "Великі Гаї",
+        "price": 75000,
+        "section": "excluded",
+        "mapPrecision": "номер зі слів продавця; маркер приблизний",
+        "reason": "Не включено: до садочка від маркера ≈1,23 км. Інше оголошення Шевченка, 5 / 188,4 м² / 17 соток видалене; збіг об’єктів не доведено.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%B0%2C%2022%20%E2%80%94%20%D0%B7%D0%B0%20%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D1%8F%D0%BC%2C%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D1%96%20%D0%93%D0%B0%D1%97%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+        "checkedAt": "2026-09-21T13:27:24.570405+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.51654574605999,
+          49.53825690729832
+        ]
+      },
+      "properties": {
+        "id": "pid120",
+        "number": 36,
+        "kind": "house",
+        "address": "Садова, 15-А — номер RIELTOR, не звірений на місці",
+        "district": "Підгороднє",
+        "price": 85000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено за пішою доступністю: від маркера 600 м до садочка й 650 м до зупинки; по прямій ≈420 і ≈388 м. Номер 15-А з ЛУН не підтверджений.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%A1%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%2C%20%D1%96%D0%BC%D0%BE%D0%B2%D1%96%D1%80%D0%BD%D0%BE%2015-%D0%90%2C%20%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%94%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+        "checkedAt": "2026-09-21T13:27:27.924873+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.68052128020716,
+          49.51456011382374
+        ]
+      },
+      "properties": {
+        "id": "hai120",
+        "number": 37,
+        "kind": "house",
+        "address": "Назарія Яремчука, номер невідомий",
+        "district": "Великі Гаї",
+        "price": 87000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Відсіяно: на фото поруч майже однакові будинки з дуже вузьким проміжком. До відомого садочка від маркера ≈2,6 км.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D1%96%D1%8F%20%D0%AF%D1%80%D0%B5%D0%BC%D1%87%D1%83%D0%BA%D0%B0%2C%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B5%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%2C%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D1%96%20%D0%93%D0%B0%D1%97%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+        "checkedAt": "2026-09-21T13:27:22.570171+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5648136,
+          49.5627403
+        ]
+      },
+      "properties": {
+        "id": "ternopilska",
+        "number": 38,
+        "kind": "house",
+        "address": "Тернопільська, номер не вказано",
+        "district": "Кутківці",
+        "price": 90000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено: до ЗДО №32 від маркера ≈651 м по прямій, уже понад 500 м. Номер будинку невідомий, тому остаточну відстань не встановлено.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%20%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F%2C%20%D0%9A%D1%83%D1%82%D0%BA%D1%96%D0%B2%D1%86%D1%96%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:26:43.949173+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.64419496,
+          49.52711983
+        ]
+      },
+      "properties": {
+        "id": "hai164",
+        "number": 43,
+        "kind": "house",
+        "address": "Івана Франка / Франка бічна, номер невідомий",
+        "district": "Великі Гаї",
+        "price": 110000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено: до садочка від маркера ≈682 м по прямій; номер невідомий. Варіант 164 м² / 8,7 сотки на Франка бічній імовірно є дублікатом.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%20%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0%20/%20%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0%20%D0%B1%D1%96%D1%87%D0%BD%D0%B0%2C%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B5%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%2C%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D1%96%20%D0%93%D0%B0%D1%97%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+        "checkedAt": "2026-09-21T13:27:23.530806+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5476712,
+          49.5805983
+        ]
+      },
+      "properties": {
+        "id": "kalyna147",
+        "number": 44,
+        "kind": "house",
+        "address": "Калинова / KALYNA HILLS · 147 м²",
+        "district": "Пронятин",
+        "price": 115000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено: щільно розташовані однотипні котеджі одного містечка; історична фотоперевірка 21.09.2026. Пішохідні маршрути до садочка й зупинки ≤500 м не доведено.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F%2C%20%D0%9F%D1%80%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%BD%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:27:10.227385+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5476712,
+          49.5805983
+        ]
+      },
+      "properties": {
+        "id": "kalyna120",
+        "number": 46,
+        "kind": "house",
+        "address": "Калинова / KALYNA HILLS · 120 м²",
+        "district": "Пронятин",
+        "price": 117000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено: щільно розташовані однотипні котеджі одного містечка; історична фотоперевірка 21.09.2026. Пішохідні маршрути до садочка й зупинки ≤500 м не доведено.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F%2C%20%D0%9F%D1%80%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%BD%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T10:38:10.528Z",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5476712,
+          49.5805983
+        ]
+      },
+      "properties": {
+        "id": "kalyna179",
+        "number": 47,
+        "kind": "house",
+        "address": "Калинова / KALYNA HILLS · 179 м²",
+        "district": "Пронятин",
+        "price": 118000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено: щільно розташовані однотипні котеджі одного містечка; історична фотоперевірка 21.09.2026. Пішохідні маршрути до садочка й зупинки ≤500 м не доведено.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F%2C%20%D0%9F%D1%80%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%BD%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:27:06.903221+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5474377,
+          49.5810776
+        ]
+      },
+      "properties": {
+        "id": "malynova",
+        "number": 48,
+        "kind": "house",
+        "address": "Малинова, СТ Тернопільське",
+        "district": "Пронятин / СТ — уточнити",
+        "price": 120000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено: садочок ≤500 м не підтверджений (від маркера до №32 ≈2,1 км). Фото/план дають ознаки кутової ділянки й перепаду рівнів; точної адреси немає.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%9C%D0%B0%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F%2C%20%D0%9F%D1%80%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%BD%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:26:45.689805+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5476712,
+          49.5805983
+        ]
+      },
+      "properties": {
+        "id": "kalyna117",
+        "number": 49,
+        "kind": "house",
+        "address": "Калинова / KALYNA HILLS · 117.5 м²",
+        "district": "Пронятин",
+        "price": 120000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено: щільно розташовані однотипні котеджі одного містечка; історична фотоперевірка 21.09.2026. Пішохідні маршрути до садочка й зупинки ≤500 м не доведено.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F%2C%20%D0%9F%D1%80%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%BD%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:27:05.986844+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.604246036926554,
+          49.553099409977165
+        ]
+      },
+      "properties": {
+        "id": "tiutiunnyka",
+        "number": 52,
+        "kind": "house",
+        "address": "Генерала Тютюнника, 22",
+        "district": "Старий парк",
+        "price": 60000,
+        "section": "excluded",
+        "mapPrecision": "адресна точка",
+        "reason": "Відсіяно: велика багатоповерхівка безпосередньо позаду ділянки на супутнику; також район поза останнім переліком.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B0%20%D0%A2%D1%8E%D1%82%D1%8E%D0%BD%D0%BD%D0%B8%D0%BA%D0%B0%2C%2022%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:27:02.925843+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.607103867860545,
+          49.55730838116434
+        ]
+      },
+      "properties": {
+        "id": "leontovycha",
+        "number": 53,
+        "kind": "house",
+        "address": "Леонтовича, імовірно 21",
+        "district": "Старий парк",
+        "price": 65000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Відсіяно: навпроти ймовірної адреси довгий багатоквартирний будинок, поруч Т-подібне примикання. Район поза останнім переліком.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%9B%D0%B5%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D1%87%D0%B0%2C%20%D1%96%D0%BC%D0%BE%D0%B2%D1%96%D1%80%D0%BD%D0%BE%2021%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:27:11.068437+03:00",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6076527,
+          49.521492
+        ]
+      },
+      "properties": {
+        "id": "festyvalna",
+        "number": 54,
+        "kind": "house",
+        "address": "Фестивальна, номер не вказано",
+        "district": "Авторинок",
+        "price": 82000,
+        "section": "excluded",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "Не включено після останнього уточнення: Авторинок поза переліченими міськими районами. Залишено для порівняння; раніше це був перспективний варіант.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%A4%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%20%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T10:31:48.100Z",
+        "qualified_all_criteria": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.618000030517578,
+          49.51240158081055
+        ]
+      },
+      "properties": {
+        "id": "myk115",
+        "number": 55,
+        "kind": "house",
+        "address": "Микулинецька, 115",
+        "district": "Авторинок / межа міста",
+        "price": 100000,
+        "section": "excluded",
+        "mapPrecision": "номер у рекламі; маркер не звірений з адресою",
+        "reason": "Відсіяно: дуплекс у ЖК «Кленовий Гай».",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%9C%D0%B8%D0%BA%D1%83%D0%BB%D0%B8%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B0%2C%20115%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+        "checkedAt": "2026-09-21T13:26:46.574370+03:00",
+        "qualified_all_criteria": false
+      }
+    }
+  ]
+}

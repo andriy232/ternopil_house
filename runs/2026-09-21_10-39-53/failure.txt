@@ -1,0 +1,7 @@
+Exception: C:\Users\andri\Documents\TernopilHouseSearch\run-daily.ps1:27
+Line |
+  27 |  … $code -ne 0) { throw "Codex exited with code $code. See $errorPath" }
+     |                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     | Codex exited with code 1. See C:\Users\andri\Documents\TernopilHouseSearch\runs\2026-09-21_10-39-53\stderr.log
+
+

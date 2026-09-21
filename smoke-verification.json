@@ -1,0 +1,18 @@
+{
+  "source_file": "C:\\Users\\andri\\AppData\\Local\\Temp\\house_search\\2026-09-21_10-49-00\\sources\\live-pages.json",
+  "url": "https://rieltor.ua/ternopol/houses-sale/view/12924108/",
+  "http_status": 200,
+  "fetched_at": "2026-09-21T10:49:00.501505+03:00",
+  "asking_price": {
+    "amount": 90000,
+    "currency": "USD"
+  },
+  "house_area_m2": 93.3,
+  "source_excerpt": "90 000 $\n965 \n            $/м²\nТернопільська вул.\nПродаж будинків\nТернопіль\nПРЕМІУМ\nБЕЗ КОМІСІЇ\nКутківці\n93.3 / 65.9 / 9.1 м²\n1 поверх\n22.42 сот\nПриватний будинок\n3 кімнати\nсьогодні\n1 міс. тому\n170                                (сьогодні 1,\n                            вчора 2)",
+  "area_source_excerpt": "Загальна площа:\n93.3 м²",
+  "verification_method": "Витяг із даних колектора live-pages.json; HTTP-статус і час отримання взято з полів status та checkedAt.",
+  "errors": [],
+  "processing_warnings": [
+    "Команда rg недоступна в середовищі; для перевірки локальних файлів використано PowerShell. Це не вплинуло на витяг даних."
+  ]
+}
