@@ -1,0 +1,38 @@
+{
+  "url": "https://dom.ria.com/uk/realty-prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa-34461737.html",
+  "status": 200,
+  "checkedAt": "2026-09-21T23:14:22.610979+03:00",
+  "listingId": 34461737,
+  "priceUsd": 68000,
+  "areaM2": 94.5,
+  "livingAreaM2": 43.7,
+  "kitchenAreaM2": 8,
+  "landSotka": 3.29,
+  "floors": 1,
+  "rooms": 3,
+  "built": "1970-1979",
+  "description": "Приватний будинок на дві сім’ї; окрема пропозиція описує 94,5 м² і 3,29 сотки. Газове опалення, центральна вода та каналізація.",
+  "coordinates": [
+    49.5490796,
+    25.61434062
+  ],
+  "photoUrls": [
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264648xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264662xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264671xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264656xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264669xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264675xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264693xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264694xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264692xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264700xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264712xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264715xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264721xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264724xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264728xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264729xl.jpg"
+  ],
+  "duplicateOf": "RIELTOR.UA 12863697 за збігом координат і фотографій"
+}
