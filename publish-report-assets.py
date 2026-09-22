@@ -38,9 +38,13 @@ source_root = Path(args.source_root).resolve()
 destination_root = Path(args.destination_root).resolve()
 destination_root.mkdir(parents=True, exist_ok=True)
 
-html = report.read_text(encoding="utf-8-sig")
 collector = LocalReferenceParser()
-collector.feed(html)
+documents = [report]
+sources_report = source_root / "sources.html"
+if sources_report.is_file() and sources_report != report:
+    documents.append(sources_report)
+for document in documents:
+    collector.feed(document.read_text(encoding="utf-8-sig"))
 
 copied = 0
 missing = []

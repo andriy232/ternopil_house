@@ -67,6 +67,8 @@ try {
         & (Join-Path $taskRoot 'send-qualified-alert.ps1') -JsonReport $jsonReport -RunDirectory $runDir
     }
     @{ checkedAt=(Get-Date -Format o); exitCode=0; selfTest=[bool]$SelfTest; runDirectory=$runDir } | ConvertTo-Json | Set-Content -LiteralPath (Join-Path $taskRoot 'last-run.json') -Encoding UTF8
+    $lastErrorPath = Join-Path $taskRoot 'last-error.json'
+    if (Test-Path -LiteralPath $lastErrorPath) { Remove-Item -LiteralPath $lastErrorPath -Force }
     if (-not $SelfTest -and (Test-Path -LiteralPath (Join-Path $taskRoot '.git'))) {
         & git -C $taskRoot add --all
         if ($LASTEXITCODE -ne 0) { throw 'git add failed after publishing the report.' }

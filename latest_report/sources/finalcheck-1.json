@@ -1,0 +1,30 @@
+{
+  "markdown": "# 404 — сторінку не знайдено\n\nЗапитувана сторінка не існує або була видалена.\n\n\nВи можете повернутись на\n[головну сторінку](https://ukrxata.info/),\nпереглянути [рієлторів](https://ukrxata.info/top-realtors)\nабо [зв'язатись з нами](https://ukrxata.info/contact).\n\n\nreCAPTCHA\n\nRecaptcha requires verification.\n\nprotected by **reCAPTCHA**",
+  "metadata": {
+    "google-site-verification": "4RXScuFd6N7mPoruvg5upW4y3pwIKHo0zW1C5akxsmw",
+    "recaptcha-v2-site-key": "6LewdFAtAAAAAMEM51m5ZWGiZQFLSbUoedGoLL5n",
+    "recaptcha-site-key": "6LfJkBItAAAAABSJsOu8_GBAJVfqvpWGV3CRxc0P",
+    "description": "Запитувана сторінка не існує або була видалена.",
+    "title": "404 — сторінку не знайдено | УкрХата",
+    "robots": "noindex,follow",
+    "language": "uk",
+    "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+    "favicon": "https://ukrxata.info/stat/img/favicon/android-chrome-192x192.png",
+    "scrapeId": "01a0c7bf-6f7c-7329-b6f3-078c8c2b6f62",
+    "sourceURL": "https://ukrxata.info/search/estates/ternopilska-oblast/ternopil/prodam/budynok/ua",
+    "url": "https://ukrxata.info/search/estates/ternopilska-oblast/ternopil/prodam/budynok/ua",
+    "statusCode": 404,
+    "error": "Not Found",
+    "contentType": "text/html;charset=UTF-8",
+    "timezone": "America/New_York",
+    "proxyUsed": "basic",
+    "indexId": "ada62876-a167-439a-93bc-d66c623bd617",
+    "creditsUsed": 1,
+    "concurrencyLimited": false
+  },
+  "links": [
+    "https://ukrxata.info/",
+    "https://ukrxata.info/top-realtors",
+    "https://ukrxata.info/contact"
+  ]
+}
