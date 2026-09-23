@@ -1,0 +1,156 @@
+{
+  "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa-34082264.html",
+  "status": 200,
+  "finalUrl": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa-34082264.html",
+  "title": "DIM.RIA – Продам будинок в Великих Гаях, Тернопільська обл., вулиця Лесі Українки, 2x поверховий з ділянкою на 25 соток, 5 кімнат, вторинка, ціна: 89 000 дол - ID34082264",
+  "images": [
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761231xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761232xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761233xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761234xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761235xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761242xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761251xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761252xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761253xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761254xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761255xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761256xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761257xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761258xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761259xl.jpg",
+    "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761231fl.jpg"
+  ],
+  "jsonLd": [
+    [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "offers": {
+          "@type": "Offer",
+          "priceCurrency": "USD",
+          "itemCondition": "https://schema.org/UsedCondition",
+          "seller": {
+            "@type": "Organization",
+            "name": "Оселя",
+            "url": "",
+            "description": ""
+          },
+          "businessFunction": "sell",
+          "availability": "https://schema.org/InStock",
+          "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa-34082264.html",
+          "price": "89000",
+          "areaServed": "Тернопольская обл., Великие Гаи, Леси Украинки улица",
+          "itemOffered": "Продаж 2 поверхового будинку з ділянкою на 25 соток, 180 кв. м, 5 кімнат, на вул. Лесі Українки • ID 34082264"
+        },
+        "@id": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa-34082264.html",
+        "name": "Продаж 2 поверхового будинку з ділянкою на 25 соток, 180 кв. м, 5 кімнат, на вул. Лесі Українки • ID 34082264",
+        "image": "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761231f.jpg",
+        "description": "",
+        "sku": 34082264,
+        "sameAs": ""
+      },
+      {
+        "@context": "https://schema.org",
+        "address": "Тернопольская обл., Великие Гаи, Леси Украинки улица",
+        "description": "",
+        "image": "https://cdn.riastatic.com/photos/dom/photo/prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa__331761231f.jpg",
+        "amenityFeature": [
+          {
+            "name": "Біля лісу",
+            "value": true
+          },
+          {
+            "name": "Гарний краєвид",
+            "value": true
+          }
+        ],
+        "@type": "House",
+        "numberOfRooms": 5,
+        "geo": {
+          "latitude": 49.51966348780014,
+          "longitude": 25.6419196047383,
+          "@type": "GeoCoordinates"
+        },
+        "name": "Дім, продаж, Великі Гаї",
+        "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-lesi-ukrainki-ulitsa-34082264.html"
+      }
+    ],
+    [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "https://dom.ria.com/uk/",
+              "name": "DIM.RIA"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Продаж будинків",
+            "item": "https://dom.ria.com/uk/prodazha-domov/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Тернопільська область",
+            "item": "https://dom.ria.com/uk/prodazha-domov/obl-ternopolskaya/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Тернопільський район",
+            "item": "https://dom.ria.com/uk/prodazha-domov/region-ternopolskyi/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Великі Гаї",
+            "item": "https://dom.ria.com/uk/prodazha-domov/velykye-gay/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "name": "Лесі Українки вулиця",
+            "item": "https://dom.ria.com/uk/prodazha-domov/velykye-gay-ul-lesy-ukraynky/"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "Продаж 2 поверхового будинку з ділянкою на 25 соток, 180 кв. м, 5 кімнат, на вул. Лесі Українки • ID 34082264",
+        "description": "Продам будинок в Великих Гаях. Будинки без посередників  - 89 000 дол / 180 кв.м. Продаж приватного житлового будинку недорого ID34082264",
+        "uploadDate": "2026-03-20 14:38:23",
+        "author": {
+          "@type": "Person",
+          "name": "марія касарда"
+        },
+        "@id": "https://files.ria.com/messages/video/44/f23c2aecc95bbbb6ad6590b991f92613/playlist.m3u8",
+        "thumbnailUrl": "https://files.ria.com/messages/video/44/f23c2aecc95bbbb6ad6590b991f92613/first.jpg"
+      }
+    ]
+  ],
+  "coordinateMatches": [
+    {
+      "pattern": "latitude[^0-9-]{0,30}(-?\\d{2}\\.\\d+)",
+      "value": "49.51966348780014"
+    },
+    {
+      "pattern": "longitude[^0-9-]{0,30}(-?\\d{2}\\.\\d+)",
+      "value": "25.6419196047383"
+    },
+    {
+      "pattern": "lat[^0-9-]{0,10}(-?\\d{2}\\.\\d+)",
+      "value": "49.51966348780014"
+    }
+  ],
+  "textExcerpt": "DIM.RIA – Продам будинок в Великих Гаях, Тернопільська обл., вулиця Лесі Українки, 2x поверховий з ділянкою на 25 соток, 5 кімнат, вторинка, ціна: 89 000 дол - ID34082264\nКупити\nКупити квартиру\nКупити будинок\nКупити кімнату\nКупити ділянку\nКупити комерційну нерухомість\nКупити гараж\nОрендувати\nОрендувати квартиру\nОрендувати будинок\nОрендувати кімнату\nКвартири подобово\nБудинки подобово\nОрендувати земельну ділянку\nОрендувати комерційну нерухомість\nОрендувати гараж\nПродати\nДодати оголошення\nПродати через рієлтора\nПродати через агентство нерухомості\nВід забудовника\nКвартири від забудовників\nКотеджі від забудовників\nТаунхауси від забудовників\nКомерційні приміщення від забудовників\nЗабудовники\nУвійдіть на DIM.RIA, так зручніше\n    👌\nДізнавайтеся першими про зниження ціни — зберігайте вподобану нерухомість на всіх пристроях.\nУвійти\nЗареєструватися на DIM.RIA\nundefined\nОбрані пропозиції\nПереглянуті пропозиції\nВихідні дзвінки\nУвійти\nУвійдіть на DIM.RIA, так зручніше\n    👌\nДізнавайтеся першими про зниження ціни — зберігайте вподобану нерухомість на всіх пристроях.\nУвійти\nЗареєструватися на DIM.RIA\nДодати оголошення\nДодати\nМи використовуємо cookie-файли\nЗавдяки цьому вам буде зручніше користуватися нашими сервісами. Детальніше в\n«Політиці використання файлів cookies»\n.\nДозволити всі cookie-файли\nНалаштувати\n00:00\n/\n00:00\nфото  ·  1\n        із\n        15\nІнші  будинки в місті Великі Гаї\nФото\nВідео\nФото\nВідео\nПродаж 2 поверхового будинку з ділянкою на 25 соток, 180 кв. м, 5 кімнат, на вул. Лесі Українки • ID 34082264\nЛесі Українки вулиця\n·\nВеликі Гаї\n89 000 $\nза об'єкт\n·\n4 009 450 грн\n·  494 $\n      за м²\nПеревірений будинок\nПеревірено по відеодзвінку\nЗвіт від\n    20 бер.\nВторинна нерухомість\n5 кімнат\n2 поверхи\nДілянка 25 соток\nПропозиція від посередника\nЗагальна площа 180 м²\nСтіни з цегли\nКомісія за послуги 5 %\nБіля лісу\nГарний краєвид\nПовний опис\nХарактеристика будівлі:\n      \n        стан будинку: потребує ремонту  •  перекриття: залізобетонне  •  дах: шифер\nХарактеристика приміщення:\n      \n        утеплення: без утеплення\nПриміщення:\n      \n        гараж: на першому поверсі\nПовний опис\nОголошення неактуальне чи інформація неточна?\nНаписати відгук\nUA, Тернопільська, Великі Гаї, 47722\nОголошення створене\n    20 бер.\n·\nID 34082264\n·\nПереглядів\n    0\n·\nЗбережень в обране\n      0\nПродавець\nмарія касарда\nОнлайн\n(097) XXX XX XX\nНаписати в чат\nЧат\nПрацює з  DIM.RIA\nІнфраструктура поруч\nDIM.RIA\nПродаж будинків\nТернопільська область\nТернопільський район\nВеликі Гаї\nЛесі Українки вулиця"
+}

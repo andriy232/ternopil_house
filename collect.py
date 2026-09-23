@@ -16,8 +16,14 @@ CATALOGS=[
 'https://flatfy.ua/uk/search?geo_id=10023304&has_eoselia=false&land_area_min=3&page=1&price_max=120000&section_id=3&sort=relevance',
 'https://flatfy.ua/uk/search?geo_id=10023304&has_eoselia=false&land_area_min=3&page=2&price_max=120000&section_id=3&sort=relevance',
 'https://dom.ria.com/uk/prodazha-domov/ternopol/',
+'https://dom.ria.com/uk/prodazha-domov/ternopol/?page=2',
+'https://dom.ria.com/uk/prodazha-domov/ternopol/?page=3',
 'https://dom.ria.com/uk/prodazha-domov/velykye-gay/',
+'https://dom.ria.com/uk/prodazha-domov/velykye-gay/?page=2',
+'https://dom.ria.com/uk/prodazha-domov/velykye-gay/?page=3',
 'https://dom.ria.com/uk/prodazha-domov/podgorodnoe-obl-ternopolskaya/',
+'https://dom.ria.com/uk/prodazha-domov/podgorodnoe-obl-ternopolskaya/?page=2',
+'https://dom.ria.com/uk/prodazha-domov/podgorodnoe-obl-ternopolskaya/?page=3',
 'https://lun.ua/sale/ternopil/houses',
 'https://lun.ua/sale/ternopil/houses-velyki-hai',
 'https://lun.ua/sale/ternopil/houses-pidhorodnie',
@@ -31,7 +37,13 @@ CATALOGS=[
 'https://www.olx.ua/uk/nedvizhimost/doma/prodazha-domov/ternopol/',
 'https://mls.te.ua/Listing.aspx?aptype=1',
 'https://lider.org.ua/base.aspx?t=bud']
-records=[]; discovered=[]; visited=set()
+records=[]; discovered=[]; visited=set(); detail_links=set()
+DETAIL_PATTERNS=(
+ re.compile(r'^https://dom\.ria\.com/(?:uk/)?realty-prodaja-dom-[^?#]+-\d+\.html$'),
+ re.compile(r'^https://lun\.ua/realty/\d+/?$'),
+ re.compile(r'^https://rieltor\.ua/[^?#]+/houses-sale/view/\d+/?$'),
+ re.compile(r'^https://www\.olx\.ua/d/uk/obyavlenie/[^?#]+\.html$'),
+)
 def fetch(url):
  if url in visited:return None
  visited.add(url); ident=hashlib.sha256(url.encode()).hexdigest()[:16]
@@ -42,6 +54,13 @@ def fetch(url):
    charset=re.search(br'charset\s*=\s*["\x27]?([A-Za-z0-9_-]+)',r.content[:12000],re.I)
    r.encoding=charset.group(1).decode('ascii') if charset else ('windows-1251' if 'vison.te.ua' in url and r.apparent_encoding=='windows-1251' else 'utf-8')
    soup=BeautifulSoup(r.text,'html.parser');rec['title']=soup.title.get_text(' ',strip=True) if soup.title else ''
+   # Catalog pages must enqueue newly published detail pages. Previously only
+   # Flatfy INITIAL_STATE and URLs already present in baseline.json were read,
+   # so a listing on page 2 of DIM.RIA could never become a report row.
+   for tag in soup.select('a[href]'):
+    candidate=urllib.parse.urljoin(r.url,tag.get('href')).split('#',1)[0]
+    candidate=candidate.rstrip(',')
+    if any(p.match(candidate) for p in DETAIL_PATTERNS):detail_links.add(candidate)
    rec['structured']=[]
    for s in soup.select('script[type="application/ld+json"]'):
     try:rec['structured'].append(json.loads(s.string or s.get_text()))
@@ -86,6 +105,7 @@ else:
  for item in discovered:
   u=item.get('url_raw')
   if isinstance(u,str) and u.startswith('https://'):fetch(u)
+ for u in sorted(detail_links):fetch(u)
  if (ROOT/'baseline.json').exists():
   b=json.loads((ROOT/'baseline.json').read_text(encoding='utf-8-sig'))
   for item in b.get('listings',[]):
