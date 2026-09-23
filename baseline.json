@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-23T09:27:42.486900+03:00",
+  "checkedAt": "2026-09-23T10:00:44+03:00",
   "listings": [
     {
       "id": "stefanyka",
@@ -837,6 +837,478 @@
       "priceCurrency": "USD"
     },
     {
+      "id": "corner",
+      "district": "Південний / Газопровід",
+      "address": "Академіка Студинського, 6",
+      "price": 110000,
+      "area": 80,
+      "land": 10.5,
+      "section": "active",
+      "reason": "Перенесено в актуальні за прямим уточненням користувача: вул. Академіка Студинського, 6. $110 000, 80 м² і 10,5 сотки вкладаються в базові ліміти. Залишаються ризики: ділянка кутова, а аерофото показують багатоповерхові будинки поблизу; безпосереднє межування, відступ стіни та межі всієї ділянки треба перевірити.",
+      "sources": [
+        {
+          "url": "https://kadastrova-karta.com/dilyanka/6110100000:10:005:0019",
+          "label": "kadastrova-karta.com",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "status": 200,
+          "checkedAt": "2026-09-23T09:01:36.408056+03:00",
+          "finalUrl": "https://kadastrova-karta.com/dilyanka/6110100000:10:005:0019",
+          "sourceType": "cadastre",
+          "evidence": "sources/live-pages.json",
+          "method": "Свіжий публічний колектор",
+          "cachedAt": null,
+          "availability": "сторінка прочитана"
+        },
+        {
+          "url": "https://www.olx.ua/d/uk/obyavlenie/obzhitiy-budinok-na-kutovy-dlyants-10-5-sotok-u-top-lokats-IDOoUlA.html",
+          "label": "olx.ua",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "status": 200,
+          "checkedAt": "2026-09-23T06:09:15.483Z",
+          "finalUrl": "https://www.olx.ua/d/uk/obyavlenie/obzhitiy-budinok-na-kutovy-dlyants-10-5-sotok-u-top-lokats-IDOoUlA.html",
+          "sourceType": "detail",
+          "evidence": "sources/firecrawl-5.json",
+          "method": "Firecrawl, публічне читання; maxAge=0",
+          "cachedAt": null,
+          "availability": "сторінка прочитана"
+        }
+      ],
+      "photos": [
+        "sources/photos/783c363b2a702106ae0e.jpg",
+        "sources/photos/ee0a7b3b124e94d0c5b5.jpg",
+        "sources/photos/5529bb15bf32cd652478.jpg",
+        "sources/photos/328b294b40c3be7fb64f.jpg",
+        "sources/photos/219e999dc3ccdd8c1296.jpg",
+        "sources/photos/7b34f73973835b0d0226.jpg",
+        "sources/photos/41f147c728bd36e93038.jpg",
+        "sources/photos/d0d2d5106ca270a2bd0b.jpg",
+        "sources/photos/5b638dba9176af964d58.jpg",
+        "sources/photos/e70295c88638bdc1db7f.jpg",
+        "sources/photos/904377191ed4e736d5ae.jpg",
+        "sources/photos/4d5a87196e098018efa6.jpg",
+        "sources/photos/51f03bb44b8b425583c3.jpg",
+        "sources/photos/95f81091a9ffa8047629.jpg",
+        "sources/photos/4df1bee1935be9fb56ff.jpg",
+        "sources/photos/7c85d059c009982c8acf.jpg",
+        "sources/photos/b57dccecdfe89ed32f98.jpg",
+        "sources/photos/3f6ca3252e979dc63ef3.jpg",
+        "sources/photos/7b8e1720a3e9c7c98cc6.jpg",
+        "sources/photos/8909c5da17e78a637ec4.jpg",
+        "sources/photos/4561ec2722247ac99990.jpg"
+      ],
+      "coords": [
+        49.508705,
+        25.6100247
+      ],
+      "location": "Адресу вул. Академіка Студинського, 6 повідомив користувач 23.09.2026; OpenStreetMap/Nominatim знаходить окрему будівлю №6 у Тернополі за координатами 49.508705, 25.610025.",
+      "checkedAt": "2026-09-23T09:27:42.486900+03:00",
+      "availability": "live_page_readable",
+      "qualified_all_criteria": false,
+      "mapQuery": "вулиця Академіка Студинського 6, Тернопіль, Україна",
+      "map": "https://www.google.com/maps/search/?api=1&query=%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F%20%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D0%BA%D0%B0%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%206%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%2C%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0",
+      "satellite": "https://www.google.com/maps/@49.508705,25.6100247,18z/data=!3m1!1e3",
+      "centerKm": 5.12,
+      "thumbnail": "sources/photos/783c363b2a702106ae0e.jpg",
+      "numberKnown": true,
+      "mapPrecision": "точна адресна точка — адреса від користувача",
+      "photoReviewDate": "2026-09-23",
+      "satelliteReview": "23.09.2026 переглянуто ключові аерофото OLX: видно окрему садибу на кутовій ділянці, вулиці з двох боків і багатоповерхову забудову поблизу. Google-супутник цього уточнення окремо не перевірявся.",
+      "linkVerification": [
+        {
+          "url": "https://kadastrova-karta.com/dilyanka/6110100000:10:005:0019",
+          "label": "kadastrova-karta.com",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "status": 200,
+          "checkedAt": "2026-09-23T09:01:36.408056+03:00",
+          "finalUrl": "https://kadastrova-karta.com/dilyanka/6110100000:10:005:0019",
+          "sourceType": "cadastre",
+          "evidence": "sources/live-pages.json",
+          "method": "Свіжий публічний колектор",
+          "cachedAt": null,
+          "availability": "сторінка прочитана"
+        },
+        {
+          "url": "https://www.olx.ua/d/uk/obyavlenie/obzhitiy-budinok-na-kutovy-dlyants-10-5-sotok-u-top-lokats-IDOoUlA.html",
+          "label": "olx.ua",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "status": 200,
+          "checkedAt": "2026-09-23T06:09:15.483Z",
+          "finalUrl": "https://www.olx.ua/d/uk/obyavlenie/obzhitiy-budinok-na-kutovy-dlyants-10-5-sotok-u-top-lokats-IDOoUlA.html",
+          "sourceType": "detail",
+          "evidence": "sources/firecrawl-5.json",
+          "method": "Firecrawl, публічне читання; maxAge=0",
+          "cachedAt": null,
+          "availability": "сторінка прочитана"
+        }
+      ],
+      "setback": "Аерофото показує житловий будинок усередині ділянки, а не безпосередньо на краю тротуару. Точну ширину проміжку 1–2 м перспективою фото не виміряно.",
+      "kind": "house",
+      "number": 4,
+      "rank": 7,
+      "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
+      "satelliteCheckedAt": "2026-09-21",
+      "mapEvidence": {
+        "checkedAt": "2026-09-23",
+        "evidence": "sources/address-corner-studynskoho-6.json",
+        "newSatelliteVerification": false,
+        "attemptEvidence": "ключові аерофото OLX"
+      },
+      "verificationAttemptAt": "2026-09-23T10:00:44+03:00",
+      "availabilityNote": "23.09.2026 детальну сторінку прочитано; явної позначки зняття немає. Фактичну непроданість це не гарантує.",
+      "evidence": [
+        "sources/history/baseline-before-run.json",
+        "sources/live-pages.json",
+        "sources/firecrawl-5.json",
+        "sources/address-corner-studynskoho-6.json"
+      ],
+      "commission": "За сторінкою без комісії; умови угоди не перевірялися.",
+      "zoning": "OLX заявляє призначення під житлову забудову; у звіті є кадастровий номер 6110100000:10:005:0019. Категорію та всі межі треба підтвердити свіжим офіційним витягом.",
+      "utilities": "OLX заявляє центральні воду й каналізацію, електрику та газ. Документи й фактичні точки підключення не перевірені.",
+      "setbackWidthMeters": null,
+      "setbackVerified": false,
+      "photoReview": "23.09.2026 повторно переглянуто ключові аерофото оголошення для локалізації, кутового положення, сусідньої забудови та заїзду. Точні метри з перспективи фото не визначались.",
+      "photoSources": [
+        "https://ireland.apollo.olxcdn.com/v1/files/le6c9qb4487s1-UA/image;s=1420x599",
+        "https://ireland.apollo.olxcdn.com/v1/files/3lq9xyal3smy1-UA/image;s=4000x2250",
+        "https://ireland.apollo.olxcdn.com/v1/files/hu982y0jqidg2-UA/image;s=4000x2250",
+        "https://ireland.apollo.olxcdn.com/v1/files/p9r1ia89tiu92-UA/image;s=1280x960",
+        "https://ireland.apollo.olxcdn.com/v1/files/c0kmqj27jqug2-UA/image;s=1280x960",
+        "https://ireland.apollo.olxcdn.com/v1/files/r9al0w73526z2-UA/image;s=1280x960",
+        "https://ireland.apollo.olxcdn.com/v1/files/ym32ny9usop82-UA/image;s=1280x960",
+        "https://ireland.apollo.olxcdn.com/v1/files/o4t1dkihgvsr-UA/image;s=756x1008",
+        "https://ireland.apollo.olxcdn.com/v1/files/rtbdbubyg0g03-UA/image;s=756x1008",
+        "https://ireland.apollo.olxcdn.com/v1/files/96hbjzdb0u312-UA/image;s=756x1008",
+        "https://ireland.apollo.olxcdn.com/v1/files/2hpdgrcy7oi63-UA/image;s=756x1008",
+        "https://ireland.apollo.olxcdn.com/v1/files/jlflxb5jbxnz-UA/image;s=1008x756",
+        "https://ireland.apollo.olxcdn.com/v1/files/z6e170avrw9p-UA/image;s=756x1008",
+        "https://ireland.apollo.olxcdn.com/v1/files/xfdnazvoiz3p1-UA/image;s=756x1008",
+        "https://ireland.apollo.olxcdn.com/v1/files/4kvxdm9lk06a-UA/image;s=1008x756",
+        "https://ireland.apollo.olxcdn.com/v1/files/c3q10ro7fufd3-UA/image;s=756x1008",
+        "https://ireland.apollo.olxcdn.com/v1/files/inxqoqk4w87c1-UA/image;s=1008x756",
+        "https://ireland.apollo.olxcdn.com/v1/files/4jvjbgnbxcol3-UA/image;s=1008x756",
+        "https://ireland.apollo.olxcdn.com/v1/files/uaboy8cs8r9j-UA/image;s=1008x756",
+        "https://ireland.apollo.olxcdn.com/v1/files/q9qz50q357fh3-UA/image;s=756x1008",
+        "https://ireland.apollo.olxcdn.com/v1/files/q5n97nyw71oc2-UA/image;s=756x1008"
+      ],
+      "measurements": {
+        "coords": [
+          49.508705,
+          25.6100247
+        ],
+        "centerKm": 5.12,
+        "rail": {
+          "meters": 549,
+          "name": "Залізнична колія OSM",
+          "url": "https://www.openstreetmap.org/way/244606729",
+          "coords": [
+            [
+              49.5238773,
+              25.6035333
+            ],
+            [
+              49.5238083,
+              25.6025454
+            ],
+            [
+              49.5237697,
+              25.6020588
+            ],
+            [
+              49.5237294,
+              25.6016369
+            ],
+            [
+              49.5236534,
+              25.6009077
+            ],
+            [
+              49.5235557,
+              25.6002259
+            ],
+            [
+              49.523471,
+              25.5999972
+            ],
+            [
+              49.5233109,
+              25.5996763
+            ],
+            [
+              49.5228441,
+              25.5987658
+            ],
+            [
+              49.5225783,
+              25.5982889
+            ],
+            [
+              49.5223713,
+              25.59799
+            ],
+            [
+              49.5221406,
+              25.5977183
+            ],
+            [
+              49.5219891,
+              25.5975565
+            ],
+            [
+              49.5218165,
+              25.5973988
+            ],
+            [
+              49.5216496,
+              25.5972648
+            ],
+            [
+              49.5214615,
+              25.5971309
+            ],
+            [
+              49.5213059,
+              25.5970525
+            ],
+            [
+              49.5211266,
+              25.5969782
+            ],
+            [
+              49.520972,
+              25.5969225
+            ],
+            [
+              49.5208147,
+              25.596883
+            ],
+            [
+              49.5206757,
+              25.5968588
+            ],
+            [
+              49.5205565,
+              25.596853
+            ],
+            [
+              49.5203279,
+              25.5968585
+            ],
+            [
+              49.5201845,
+              25.5968781
+            ],
+            [
+              49.5200774,
+              25.5969007
+            ],
+            [
+              49.5194181,
+              25.5971424
+            ],
+            [
+              49.5187744,
+              25.5974045
+            ],
+            [
+              49.5097107,
+              25.60174
+            ],
+            [
+              49.5094525,
+              25.6018794
+            ],
+            [
+              49.5091645,
+              25.6020634
+            ],
+            [
+              49.5089818,
+              25.6021645
+            ],
+            [
+              49.5088855,
+              25.6022119
+            ],
+            [
+              49.5087813,
+              25.602254
+            ],
+            [
+              49.5080984,
+              25.6024665
+            ],
+            [
+              49.5078005,
+              25.6025541
+            ],
+            [
+              49.507648,
+              25.602598
+            ],
+            [
+              49.5074349,
+              25.6026546
+            ]
+          ],
+          "basis": "адресна точка будівлі №6 з OpenStreetMap/Nominatim",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-23T10:00:44+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/address-corner-studynskoho-6.json",
+          "originalEvidencePath": "sources/history/geo-features.json",
+          "historicalNote": "Адресну точку уточнено 23.09.2026. Геометрія об’єкта OSM збережена з перевірки 21.09.2026; межу кадастрової ділянки для виміру не використано."
+        },
+        "cemetery": {
+          "meters": 1812,
+          "name": "Межа цвинтаря OSM",
+          "url": "https://www.openstreetmap.org/way/354663402",
+          "coords": [
+            [
+              49.5247743,
+              25.6149634
+            ],
+            [
+              49.5249666,
+              25.6155583
+            ],
+            [
+              49.525462,
+              25.615108
+            ],
+            [
+              49.5252727,
+              25.614653
+            ],
+            [
+              49.5247743,
+              25.6149634
+            ]
+          ],
+          "basis": "адресна точка будівлі №6 з OpenStreetMap/Nominatim",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-23T10:00:44+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/address-corner-studynskoho-6.json",
+          "originalEvidencePath": "sources/history/geo-features.json",
+          "historicalNote": "Адресну точку уточнено 23.09.2026. Геометрія об’єкта OSM збережена з перевірки 21.09.2026; межу кадастрової ділянки для виміру не використано."
+        },
+        "stop": {
+          "meters": 149,
+          "name": "Газопровід",
+          "url": "https://www.openstreetmap.org/node/3353723029",
+          "coords": [
+            [
+              49.5078567,
+              25.6084344
+            ]
+          ],
+          "basis": "адресна точка будівлі №6 з OpenStreetMap/Nominatim",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-23T10:00:44+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/address-corner-studynskoho-6.json",
+          "originalEvidencePath": "sources/history/geo-features.json",
+          "historicalNote": "Адресну точку уточнено 23.09.2026. Геометрія об’єкта OSM збережена з перевірки 21.09.2026; межу кадастрової ділянки для виміру не використано."
+        },
+        "kindergarten": {
+          "meters": 2836,
+          "name": "Ясла-садок \"Країна дитинства\"",
+          "url": "https://www.openstreetmap.org/way/430870956",
+          "coords": [
+            [
+              49.5200946,
+              25.6451765
+            ],
+            [
+              49.5200024,
+              25.6458873
+            ],
+            [
+              49.5207755,
+              25.6462547
+            ],
+            [
+              49.5208973,
+              25.6462628
+            ],
+            [
+              49.5209513,
+              25.6462145
+            ],
+            [
+              49.5210697,
+              25.6457612
+            ],
+            [
+              49.5210053,
+              25.6457236
+            ],
+            [
+              49.5210366,
+              25.6455734
+            ],
+            [
+              49.5200946,
+              25.6451765
+            ]
+          ],
+          "basis": "адресна точка будівлі №6 з OpenStreetMap/Nominatim",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-23T10:00:44+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/address-corner-studynskoho-6.json",
+          "originalEvidencePath": "sources/history/geo-features.json",
+          "historicalNote": "Адресну точку уточнено 23.09.2026. Геометрія об’єкта OSM збережена з перевірки 21.09.2026; межу кадастрової ділянки для виміру не використано."
+        }
+      },
+      "allCriteriaEvidence": {
+        "status": "не підтверджено: кутова ділянка та приватність потребують очної перевірки",
+        "parcelBoundaryMeasurementsVerified": false,
+        "setbackWidthVerified": false,
+        "terrainElevationsVerified": false,
+        "suburbWalkingRoutesVerified": null
+      },
+      "cadastreLinks": [
+        {
+          "number": "6110100000:10:005:0019",
+          "url": "https://kadastrova-karta.com/dilyanka/6110100000:10:005:0019",
+          "label": "6110100000:10:005:0019",
+          "checkedAt": "2026-09-23T09:01:36.408056+03:00",
+          "verified": true,
+          "evidence": "sources/live-pages.json",
+          "referenceOnly": true
+        }
+      ],
+      "cadastreNote": "Кадастровий номер 6110100000:10:005:0019 прямо вказаний в OLX. Після уточнення адреси користувачем садибу перенесено в актуальні. Стороння кадастрова сторінка довідкова; перед угодою потрібні свіжий офіційний витяг, звірка меж із №6 та перевірка цільового призначення.",
+      "historicalMapEvidence": true,
+      "factsCheckedAt": "2026-09-23T06:09:15.483Z",
+      "photoEvidenceDate": "2026-09-23T09:27:42.486900+03:00",
+      "status": "Актуальна сторінка — адреса уточнена користувачем",
+      "priceCurrency": "USD",
+      "tier": "пріоритет уточнення",
+      "driveway": "OLX заявляє гараж і зручний під’їзд із кількох сторін; аерофото показують вулиці вздовж двох меж. Конкретні ворота, їх ширину та правовий статус заїзду слід перевірити на місці.",
+      "privacy": "На аерофото оголошення видно багатоповерхові будинки поблизу, зокрема через вулицю. Чи межує хоч одна висотна ділянка безпосередньо з садибою №6, за фото й кадастровою сторінкою остаточно не встановлено.",
+      "rowHousing": "Ряду однакових щільно зблокованих будинків на аерофото не видно; садиба має окремий будинок і великий двір. Межі ділянки треба звірити з офіційним витягом.",
+      "rail": "≈549 м від адресної точки будівлі №6 до найближчої колії OSM; запас від 100 м значний.",
+      "cemetery": "≈1812 м від адресної точки до найближчої знайденої межі цвинтаря OSM.",
+      "terrain": "Продавець називає ділянку рівною; на аерофото різкого перепаду не видно. Висотний профіль не перевірено. Ділянка кутова й має вулиці з двох боків — це збережено як окремий ризик.",
+      "condition": "Окремий житловий цегляний будинок 1980-х, 80 м², 3 кімнати, житловий стан. В описі — гараж, сад, город і господарські приміщення.",
+      "userConfirmedFacts": {
+        "address": "вулиця Академіка Студинського, 6",
+        "requestedSection": "active",
+        "confirmedAt": "2026-09-23T10:00:44+03:00"
+      },
+      "addressConfirmedByUserAt": "2026-09-23T10:00:44+03:00"
+    },
+    {
       "id": "zamonastyrska",
       "district": "Центр",
       "address": "Замонастирська, 36",
@@ -910,7 +1382,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 4,
+      "number": 5,
       "rank": 0,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -1042,7 +1514,7 @@
       ],
       "setback": "Вулична огорожа / господарська споруда на фото стоїть майже біля краю дороги; житлову стіну й ширину її відступу ідентифікувати не вдалося. Потребує уточнення, чи обмеження стосується показаної споруди.",
       "kind": "house",
-      "number": 5,
+      "number": 6,
       "rank": 0,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21T22:52:42.377898+03:00",
@@ -1411,7 +1883,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 6,
+      "number": 7,
       "rank": 1,
       "landConflict": "3 сотки в картці RIELTOR, 3,5 сотки в описі. Збережено 3,5 як заявлений текст, не як кадастровий вимір.",
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
@@ -1547,7 +2019,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 7,
+      "number": 8,
       "rank": 1,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -1892,7 +2364,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 8,
+      "number": 9,
       "rank": 1,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -2072,7 +2544,7 @@
         }
       },
       "kind": "house",
-      "number": 9,
+      "number": 10,
       "rank": 1,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -2185,7 +2657,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 10,
+      "number": 11,
       "rank": 1,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -2364,7 +2836,7 @@
       ],
       "priceCurrency": "USD",
       "rank": 1,
-      "number": 11
+      "number": 12
     },
     {
       "id": "chaikovskoho51",
@@ -2504,7 +2976,7 @@
         "suburbWalkingRoutesVerified": null
       },
       "rank": 1,
-      "number": 12,
+      "number": 13,
       "historicalMapEvidence": true,
       "mapEvidence": {
         "checkedAt": "2026-09-21",
@@ -2992,7 +3464,7 @@
       ],
       "setback": "На фасадному фото DIM.RIA видно огорожу перед будинком та смугу двору/рослинності між огорожею і стіною. Безпосереднє прилягання стіни до тротуару не видно; ширину 1–2 м не виміряно.",
       "kind": "house",
-      "number": 13,
+      "number": 14,
       "rank": 2,
       "priceConflict": "OLX $120 000 / 204 м² / 3,15 сотки; імовірний дублікат DIM.RIA $140 000 / 204 м² / 3 сотки. Ціна в межах бюджету підтверджена лише OLX, конфлікт збережено.",
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
@@ -3147,7 +3619,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 14,
+      "number": 15,
       "rank": 4,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -3307,7 +3779,7 @@
       ],
       "setback": "Між стіною будинку й огорожею видно квітник; перед огорожею — брукований прохід. Точну ширину від стіни до громадського тротуару не встановлено.",
       "kind": "house",
-      "number": 15,
+      "number": 16,
       "rank": 5,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -3353,190 +3825,6 @@
       "cadastreLinks": [],
       "measurements": {},
       "duplicates": "23.09 зіставлено всі 7 і 6 фото: однакові фасад, червона покрівля, огорожа, виноград, килими, шафи та кухня. Джерела об’єднано в один рядок; конфлікт 12/26 збережено.",
-      "priceCurrency": "USD"
-    },
-    {
-      "id": "corner",
-      "district": "Дружба — уточнити",
-      "address": "Кутова ділянка, біля школи №8",
-      "price": 110000,
-      "area": 80,
-      "land": 10.5,
-      "section": "excluded",
-      "reason": "Відсіяно: продавець прямо зазначає кутову ділянку та під’їзд із кількох сторін; точний номер невідомий.",
-      "sources": [
-        {
-          "url": "https://kadastrova-karta.com/dilyanka/6110100000:10:005:0019",
-          "label": "kadastrova-karta.com",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "status": 200,
-          "checkedAt": "2026-09-23T09:01:36.408056+03:00",
-          "finalUrl": "https://kadastrova-karta.com/dilyanka/6110100000:10:005:0019",
-          "sourceType": "cadastre",
-          "evidence": "sources/live-pages.json",
-          "method": "Свіжий публічний колектор",
-          "cachedAt": null,
-          "availability": "сторінка прочитана"
-        },
-        {
-          "url": "https://www.olx.ua/d/uk/obyavlenie/obzhitiy-budinok-na-kutovy-dlyants-10-5-sotok-u-top-lokats-IDOoUlA.html",
-          "label": "olx.ua",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "status": 200,
-          "checkedAt": "2026-09-23T06:09:15.483Z",
-          "finalUrl": "https://www.olx.ua/d/uk/obyavlenie/obzhitiy-budinok-na-kutovy-dlyants-10-5-sotok-u-top-lokats-IDOoUlA.html",
-          "sourceType": "detail",
-          "evidence": "sources/firecrawl-5.json",
-          "method": "Firecrawl, публічне читання; maxAge=0",
-          "cachedAt": null,
-          "availability": "сторінка прочитана"
-        }
-      ],
-      "photos": [
-        "sources/photos/783c363b2a702106ae0e.jpg",
-        "sources/photos/ee0a7b3b124e94d0c5b5.jpg",
-        "sources/photos/5529bb15bf32cd652478.jpg",
-        "sources/photos/328b294b40c3be7fb64f.jpg",
-        "sources/photos/219e999dc3ccdd8c1296.jpg",
-        "sources/photos/7b34f73973835b0d0226.jpg",
-        "sources/photos/41f147c728bd36e93038.jpg",
-        "sources/photos/d0d2d5106ca270a2bd0b.jpg",
-        "sources/photos/5b638dba9176af964d58.jpg",
-        "sources/photos/e70295c88638bdc1db7f.jpg",
-        "sources/photos/904377191ed4e736d5ae.jpg",
-        "sources/photos/4d5a87196e098018efa6.jpg",
-        "sources/photos/51f03bb44b8b425583c3.jpg",
-        "sources/photos/95f81091a9ffa8047629.jpg",
-        "sources/photos/4df1bee1935be9fb56ff.jpg",
-        "sources/photos/7c85d059c009982c8acf.jpg",
-        "sources/photos/b57dccecdfe89ed32f98.jpg",
-        "sources/photos/3f6ca3252e979dc63ef3.jpg",
-        "sources/photos/7b8e1720a3e9c7c98cc6.jpg",
-        "sources/photos/8909c5da17e78a637ec4.jpg",
-        "sources/photos/4561ec2722247ac99990.jpg"
-      ],
-      "coords": null,
-      "location": "Номер/межі ділянки не підтверджені; маркер приблизний.",
-      "checkedAt": "2026-09-23T09:27:42.486900+03:00",
-      "availability": "live_page_readable",
-      "qualified_all_criteria": false,
-      "mapQuery": "Кутова ділянка, біля школи №8, Тернопіль",
-      "map": "https://www.google.com/maps/search/?api=1&query=%D0%9A%D1%83%D1%82%D0%BE%D0%B2%D0%B0%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D0%B0%2C%20%D0%B1%D1%96%D0%BB%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D0%B8%20%E2%84%968%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
-      "satellite": "https://www.google.com/maps/search/?api=1&query=%D0%9A%D1%83%D1%82%D0%BE%D0%B2%D0%B0%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D0%B0%2C%20%D0%B1%D1%96%D0%BB%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D0%B8%20%E2%84%968%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
-      "centerKm": null,
-      "thumbnail": "sources/photos/783c363b2a702106ae0e.jpg",
-      "numberKnown": false,
-      "mapPrecision": "адреса не встановлена",
-      "photoReviewDate": "2026-09-21",
-      "satelliteReview": "23.09.2026 новий супутниковий огляд недоступний: браузер iab відсутній. Точна адреса не встановлена; нового висновку немає.",
-      "linkVerification": [
-        {
-          "url": "https://kadastrova-karta.com/dilyanka/6110100000:10:005:0019",
-          "label": "kadastrova-karta.com",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "status": 200,
-          "checkedAt": "2026-09-23T09:01:36.408056+03:00",
-          "finalUrl": "https://kadastrova-karta.com/dilyanka/6110100000:10:005:0019",
-          "sourceType": "cadastre",
-          "evidence": "sources/live-pages.json",
-          "method": "Свіжий публічний колектор",
-          "cachedAt": null,
-          "availability": "сторінка прочитана"
-        },
-        {
-          "url": "https://www.olx.ua/d/uk/obyavlenie/obzhitiy-budinok-na-kutovy-dlyants-10-5-sotok-u-top-lokats-IDOoUlA.html",
-          "label": "olx.ua",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "status": 200,
-          "checkedAt": "2026-09-23T06:09:15.483Z",
-          "finalUrl": "https://www.olx.ua/d/uk/obyavlenie/obzhitiy-budinok-na-kutovy-dlyants-10-5-sotok-u-top-lokats-IDOoUlA.html",
-          "sourceType": "detail",
-          "evidence": "sources/firecrawl-5.json",
-          "method": "Firecrawl, публічне читання; maxAge=0",
-          "cachedAt": null,
-          "availability": "сторінка прочитана"
-        }
-      ],
-      "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
-      "kind": "house",
-      "number": 16,
-      "rank": 5,
-      "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
-      "satelliteCheckedAt": "2026-09-21",
-      "mapEvidence": {
-        "checkedAt": "2026-09-21",
-        "evidence": "sources/history/baseline-before-run.json",
-        "newSatelliteVerification": false,
-        "attemptEvidence": "sources/browser-check.json"
-      },
-      "verificationAttemptAt": "2026-09-23T09:27:42.486900+03:00",
-      "availabilityNote": "23.09.2026 детальну сторінку прочитано; явної позначки зняття немає. Фактичну непроданість це не гарантує.",
-      "evidence": [
-        "sources/history/baseline-before-run.json",
-        "sources/live-pages.json",
-        "sources/firecrawl-5.json"
-      ],
-      "commission": "За сторінкою без комісії; умови угоди не перевірялися.",
-      "zoning": "Не перевірено в кадастровому блоці.",
-      "utilities": "Підключення мереж не перевірено.",
-      "setbackWidthMeters": null,
-      "setbackVerified": false,
-      "photoReview": "Фото цього запуску завантажено;  повний новий візуальний огляд для цього рядка не проводився. Історичний висновок: Попередній перегляд від 2026-09-21. Повторний повний перегляд у цьому запуску не заявляється.",
-      "photoSources": [
-        "https://ireland.apollo.olxcdn.com/v1/files/le6c9qb4487s1-UA/image;s=1420x599",
-        "https://ireland.apollo.olxcdn.com/v1/files/3lq9xyal3smy1-UA/image;s=4000x2250",
-        "https://ireland.apollo.olxcdn.com/v1/files/hu982y0jqidg2-UA/image;s=4000x2250",
-        "https://ireland.apollo.olxcdn.com/v1/files/p9r1ia89tiu92-UA/image;s=1280x960",
-        "https://ireland.apollo.olxcdn.com/v1/files/c0kmqj27jqug2-UA/image;s=1280x960",
-        "https://ireland.apollo.olxcdn.com/v1/files/r9al0w73526z2-UA/image;s=1280x960",
-        "https://ireland.apollo.olxcdn.com/v1/files/ym32ny9usop82-UA/image;s=1280x960",
-        "https://ireland.apollo.olxcdn.com/v1/files/o4t1dkihgvsr-UA/image;s=756x1008",
-        "https://ireland.apollo.olxcdn.com/v1/files/rtbdbubyg0g03-UA/image;s=756x1008",
-        "https://ireland.apollo.olxcdn.com/v1/files/96hbjzdb0u312-UA/image;s=756x1008",
-        "https://ireland.apollo.olxcdn.com/v1/files/2hpdgrcy7oi63-UA/image;s=756x1008",
-        "https://ireland.apollo.olxcdn.com/v1/files/jlflxb5jbxnz-UA/image;s=1008x756",
-        "https://ireland.apollo.olxcdn.com/v1/files/z6e170avrw9p-UA/image;s=756x1008",
-        "https://ireland.apollo.olxcdn.com/v1/files/xfdnazvoiz3p1-UA/image;s=756x1008",
-        "https://ireland.apollo.olxcdn.com/v1/files/4kvxdm9lk06a-UA/image;s=1008x756",
-        "https://ireland.apollo.olxcdn.com/v1/files/c3q10ro7fufd3-UA/image;s=756x1008",
-        "https://ireland.apollo.olxcdn.com/v1/files/inxqoqk4w87c1-UA/image;s=1008x756",
-        "https://ireland.apollo.olxcdn.com/v1/files/4jvjbgnbxcol3-UA/image;s=1008x756",
-        "https://ireland.apollo.olxcdn.com/v1/files/uaboy8cs8r9j-UA/image;s=1008x756",
-        "https://ireland.apollo.olxcdn.com/v1/files/q9qz50q357fh3-UA/image;s=756x1008",
-        "https://ireland.apollo.olxcdn.com/v1/files/q5n97nyw71oc2-UA/image;s=756x1008"
-      ],
-      "measurements": {},
-      "allCriteriaEvidence": {
-        "status": "не підтверджено",
-        "parcelBoundaryMeasurementsVerified": false,
-        "setbackWidthVerified": false,
-        "terrainElevationsVerified": false,
-        "suburbWalkingRoutesVerified": null
-      },
-      "cadastreLinks": [
-        {
-          "number": "6110100000:10:005:0019",
-          "url": "https://kadastrova-karta.com/dilyanka/6110100000:10:005:0019",
-          "label": "6110100000:10:005:0019",
-          "checkedAt": "2026-09-23T09:01:36.408056+03:00",
-          "verified": true,
-          "evidence": "sources/live-pages.json",
-          "referenceOnly": true
-        }
-      ],
-      "cadastreNote": "Кадастровий номер прямо вказаний в OLX. Ділянка відсіяна через кутове розташування; кадастрова сторінка залишена для перевірки меж і призначення.",
-      "historicalMapEvidence": true,
-      "factsCheckedAt": "2026-09-23T06:09:15.483Z",
-      "photoEvidenceDate": "2026-09-23T09:27:42.486900+03:00",
-      "status": "Відсіяно або не включено — див. причину",
       "priceCurrency": "USD"
     },
     {
@@ -41952,11 +42240,11 @@
       "historical": true
     }
   ],
-  "summary": "3 актуальні сторінки з невизначеностями; 68 відсіяно або не включено; 0 повних відповідностей.",
+  "summary": "4 актуальні сторінки з невизначеностями; 67 відсіяно або не включено; 0 повних відповідностей.",
   "researchDate": "2026-09-23",
   "photoReviewNote": "23.09 повторно візуально переглянуто галереї трьох актуальних кандидатів, Загребельної 12/26, Зеленої 83/90 м², Київської 195 м², Лесі Українки 229,5 м², нових будинків 220 і 35 м² та двох ділянок. Контактні аркуші й індекс збережені у sources. Для решти фото доступні в галереях, але попередні візуальні висновки мають попередню дату. Аватари й повторні розміри одного фото відсіяно.",
   "landSummary": "17 земельних позицій у другій таблиці. Нові: 12 соток / $10 000 у Пронятині — мережі можна підвести; 6,9 сотки / $12 999 на Львівському шосе — кутова, садівництво за кадастровою сторінкою; 30 соток / $84 000 у Великих Гаях — понад бюджет; «Петрики» / $42 000 — пряме географічне виключення. Підключених мереж та житлового призначення за всіма критеріями для нового земельного кандидата не підтверджено.",
-  "decisionSummary": "Реальних змін цін у валюті продавця для попередніх кандидатів не підтверджено. Додано 11 рядків до журналу відсіву/невизначеностей. Загребельна: фото підтвердили дублікат, номери 12/26 конфліктують — ненадійну мітку прибрано. RIELTOR Тернопільської знову читається. Глибока, 46 залишається пріоритетним винятком $138 000 за вашим підтвердженням 22.09; портал показує $143 000 + 5%. Повної відповідності немає.",
+  "decisionSummary": "Академіка Студинського, 6: адресу уточнив користувач; об’єкт $110 000 / 80 м² / 10,5 сотки перенесено в актуальні. OSM/Nominatim знаходить окрему будівлю №6; від адресної точки ≈549 м до колії та ≈1,81 км до цвинтаря. Кутове положення й багатоповерхівки поблизу залишаються ризиками, тому повною відповідністю об’єкт не позначено. Глибока, 46 залишається пріоритетним винятком $138 000 за підтвердженням користувача; повної відповідності немає.",
   "coverageLimitations": [
     "Flatfy: прочитано 2 доступні сторінки заданого фільтра, 39 результатів; сторінка 3 повертає першу. Інші каталоги охоплені в межах отриманих сторінок, не весь ринок.",
     "OLX 403 і RIELTOR 429 у прямому зборі: повторне публічне читання Firecrawl відновило доступ до вибраних деталізацій і каталогів. CAPTCHA та авторизацію не обходили.",

@@ -50,12 +50,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          25.6100247,
+          49.508705
+        ]
+      },
+      "properties": {
+        "number": 4,
+        "id": "corner",
+        "kind": "house",
+        "address": "Академіка Студинського, 6",
+        "district": "Південний / Газопровід",
+        "price": 110000,
+        "section": "active",
+        "mapPrecision": "точна адресна точка — адреса від користувача",
+        "reason": "Перенесено в актуальні за прямим уточненням користувача: вул. Академіка Студинського, 6. $110 000, 80 м² і 10,5 сотки вкладаються в базові ліміти. Залишаються ризики: ділянка кутова, а аерофото показують багатоповерхові будинки поблизу; безпосереднє межування, відступ стіни та межі всієї ділянки треба перевірити.",
+        "map": "https://www.google.com/maps/search/?api=1&query=%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F%20%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D1%96%D0%BA%D0%B0%20%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%206%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%2C%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           25.6060396,
           49.5461873
         ]
       },
       "properties": {
-        "number": 4,
+        "number": 5,
         "id": "zamonastyrska",
         "kind": "house",
         "address": "Замонастирська, 36",
@@ -77,7 +99,7 @@
         ]
       },
       "properties": {
-        "number": 5,
+        "number": 6,
         "id": "mostova",
         "kind": "house",
         "address": "Мостова, номер не вказано",
@@ -99,7 +121,7 @@
         ]
       },
       "properties": {
-        "number": 6,
+        "number": 7,
         "id": "divocha",
         "kind": "house",
         "address": "Дівоча, 4",
@@ -121,7 +143,7 @@
         ]
       },
       "properties": {
-        "number": 7,
+        "number": 8,
         "id": "tatarska53",
         "kind": "house",
         "address": "Татарська, імовірно 53",
@@ -143,7 +165,7 @@
         ]
       },
       "properties": {
-        "number": 8,
+        "number": 9,
         "id": "hlyboka",
         "kind": "house",
         "address": "Глибока, ймовірно 29",
@@ -165,7 +187,7 @@
         ]
       },
       "properties": {
-        "number": 9,
+        "number": 10,
         "id": "bilohirska",
         "kind": "house",
         "address": "Білогірська, 34",
@@ -187,7 +209,7 @@
         ]
       },
       "properties": {
-        "number": 13,
+        "number": 14,
         "id": "vilkhova",
         "kind": "house",
         "address": "Вільхова, номер не підтверджено",
