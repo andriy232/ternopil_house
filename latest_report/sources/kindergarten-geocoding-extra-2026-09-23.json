@@ -1,0 +1,266 @@
+[
+  {
+    "key": "dovzhanka",
+    "query": "Містечко 46, Довжанка, Тернопільський район, Україна",
+    "status": 200,
+    "results": [
+      {
+        "place_id": 189711991,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 207143789,
+        "lat": "49.5621065",
+        "lon": "25.4703670",
+        "category": "building",
+        "type": "school",
+        "place_rank": 30,
+        "importance": 5.000152590214416E-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "46, вулиця Містечко, Довжанка, Підгороднянська сільська громада, Тернопільський район, Тернопільська область, 47708, Україна",
+        "boundingbox": [
+          "49.5619099",
+          "49.5623457",
+          "25.4701955",
+          "25.4710459"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "hai-shev-center",
+    "query": "Гаї-Шевченківські, Тернопільський район, Україна",
+    "status": 200,
+    "results": [
+      {
+        "place_id": 189810390,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3166824,
+        "lat": "49.5935966",
+        "lon": "25.6295045",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.29754280206928735,
+        "addresstype": "village",
+        "name": "Гаї-Шевченківські",
+        "display_name": "Гаї-Шевченківські, Байковецька сільська громада, Тернопільський район, Тернопільська область, 47710, Україна",
+        "boundingbox": [
+          "49.5827227",
+          "49.6037053",
+          "25.6207098",
+          "25.6376562"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "berezovytsia-center",
+    "query": "Велика Березовиця, Тернопільський район, Україна",
+    "status": 200,
+    "results": [
+      {
+        "place_id": 428585450,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3166739,
+        "lat": "49.5019863",
+        "lon": "25.6112886",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.4793384785404797,
+        "addresstype": "town",
+        "name": "Велика Березовиця",
+        "display_name": "Велика Березовиця, Великоберезовицька селищна громада, Тернопільський район, Тернопільська область, Україна",
+        "boundingbox": [
+          "49.4841723",
+          "49.5135974",
+          "25.5797376",
+          "25.6457550"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "smykivtsi-center",
+    "query": "Смиківці, Тернопільський район, Україна",
+    "status": 200,
+    "results": [
+      {
+        "place_id": 190339326,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167497,
+        "lat": "49.5329495",
+        "lon": "25.7029199",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.319279276758968,
+        "addresstype": "village",
+        "name": "Смиківці",
+        "display_name": "Смиківці, Великобірківська селищна громада, Тернопільський район, Тернопільська область, 47717, Україна",
+        "boundingbox": [
+          "49.5226175",
+          "49.5463262",
+          "25.6784418",
+          "25.7211825"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "pochapyntsi",
+    "query": "Незалежності 5, Почапинці, Тернопільський район, Україна",
+    "status": 200,
+    "results": [
+      {
+        "place_id": 190955814,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1078217847,
+        "lat": "49.5182692",
+        "lon": "25.4823834",
+        "category": "highway",
+        "type": "tertiary",
+        "place_rank": 26,
+        "importance": 0.053383334859235486,
+        "addresstype": "road",
+        "name": "вулиця Незалежності",
+        "display_name": "вулиця Незалежності, Почапинці, Підгороднянська сільська громада, Тернопільський район, Тернопільська область, 47721, Україна",
+        "boundingbox": [
+          "49.5159845",
+          "49.5205920",
+          "25.4750270",
+          "25.4898211"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "velykyi-hlybochok",
+    "query": "Грушевського 3А, Великий Глибочок, Тернопільський район, Україна",
+    "status": 200,
+    "results": []
+  },
+  {
+    "key": "velyka-luka",
+    "query": "Лесі Українки 13, Велика Лука, Тернопільський район, Україна",
+    "status": 200,
+    "results": [
+      {
+        "place_id": 190439450,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 291392834,
+        "lat": "49.4499040",
+        "lon": "25.5943875",
+        "category": "highway",
+        "type": "residential",
+        "place_rank": 26,
+        "importance": 0.053383334859235486,
+        "addresstype": "road",
+        "name": "вулиця Лесі Українки",
+        "display_name": "вулиця Лесі Українки, Велика Лука, Великоберезовицька селищна громада, Тернопільський район, Тернопільська область, 47732, Україна",
+        "boundingbox": [
+          "49.4494901",
+          "49.4502542",
+          "25.5937267",
+          "25.5950834"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "luchka",
+    "query": "Богдана Хмельницького 21, Лучка, Тернопільський район, Україна",
+    "status": 200,
+    "results": []
+  },
+  {
+    "key": "domamorych",
+    "query": "Івана Франка 4, Домаморич, Тернопільський район, Україна",
+    "status": 200,
+    "results": [
+      {
+        "place_id": 191369129,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 304889306,
+        "lat": "49.5493977",
+        "lon": "25.4275733",
+        "category": "building",
+        "type": "yes",
+        "place_rank": 30,
+        "importance": 5.000152590214416E-05,
+        "addresstype": "building",
+        "name": "",
+        "display_name": "4, вулиця Івана Франка, Домаморич, Підгороднянська сільська громада, Тернопільський район, Тернопільська область, 47709, Україна",
+        "boundingbox": [
+          "49.5492998",
+          "49.5494956",
+          "25.4273521",
+          "25.4277944"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "velykyi-hlybochok-center",
+    "query": "Великий Глибочок, Тернопільський район, Україна",
+    "status": 200,
+    "results": [
+      {
+        "place_id": 191033315,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3166744,
+        "lat": "49.6207800",
+        "lon": "25.5298200",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.37064251329451636,
+        "addresstype": "village",
+        "name": "Великий Глибочок",
+        "display_name": "Великий Глибочок, Білецька сільська громада, Тернопільський район, Тернопільська область, 47703, Україна",
+        "boundingbox": [
+          "49.6049156",
+          "49.6382473",
+          "25.5116334",
+          "25.5470648"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "luchka-center",
+    "query": "Лучка, Тернопільський район, Україна",
+    "status": 200,
+    "results": [
+      {
+        "place_id": 191051443,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167166,
+        "lat": "49.4161228",
+        "lon": "25.5947113",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.34328481186948456,
+        "addresstype": "village",
+        "name": "Лучка",
+        "display_name": "Лучка, Великоберезовицька селищна громада, Тернопільський район, Тернопільська область, 47732, Україна",
+        "boundingbox": [
+          "49.4039074",
+          "49.4246850",
+          "25.5906674",
+          "25.6240546"
+        ]
+      }
+    ]
+  }
+]

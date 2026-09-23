@@ -1,0 +1,192 @@
+{
+  "checkedAt": "2026-09-23T15:08:00+03:00",
+  "provider": "Nominatim/OpenStreetMap",
+  "queries": [
+    {
+      "key": "bila",
+      "query": "Молодіжна 20, Біла, Тернопільський район, Україна",
+      "status": 200,
+      "results": [
+        {
+          "place_id": 190901306,
+          "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+          "osm_type": "way",
+          "osm_id": 182081307,
+          "lat": "49.5887386",
+          "lon": "25.5750573",
+          "category": "highway",
+          "type": "residential",
+          "place_rank": 26,
+          "importance": 0.053383334859235486,
+          "addresstype": "road",
+          "name": "Молодіжна вулиця",
+          "display_name": "Молодіжна вулиця, Біла, Білецька сільська громада, Тернопільський район, Тернопільська область, 47707, Україна",
+          "boundingbox": [
+            "49.5876650",
+            "49.5922408",
+            "25.5732688",
+            "25.5788516"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "hai-shev",
+      "query": "Тернопільська 12, Гаї-Шевченківські, Тернопільський район, Україна",
+      "status": 200,
+      "results": []
+    },
+    {
+      "key": "baikivtsi",
+      "query": "Січових Стрільців 12, Байківці, Тернопільський район, Україна",
+      "status": 200,
+      "results": [
+        {
+          "place_id": 424034291,
+          "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+          "osm_type": "way",
+          "osm_id": 935829298,
+          "lat": "49.5706366",
+          "lon": "25.6826506",
+          "category": "building",
+          "type": "yes",
+          "place_rank": 30,
+          "importance": 5.0660715648081444e-05,
+          "addresstype": "building",
+          "name": "",
+          "display_name": "12, вулиця Січових Стрільців, Байківці, Байковецька сільська громада, Тернопільський район, Тернопільська область, 47711, Україна",
+          "boundingbox": [
+            "49.5704356",
+            "49.5709068",
+            "25.6825007",
+            "25.6829810"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "berezovytsia",
+      "query": "Енергетична 11А, Велика Березовиця, Тернопільський район, Україна",
+      "status": 200,
+      "results": []
+    },
+    {
+      "key": "ostriv",
+      "query": "Ярмуша 142, Острів, Тернопільський район, Україна",
+      "status": 200,
+      "results": [
+        {
+          "place_id": 190625356,
+          "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+          "osm_type": "way",
+          "osm_id": 319013625,
+          "lat": "49.4791850",
+          "lon": "25.5923714",
+          "category": "highway",
+          "type": "unclassified",
+          "place_rank": 26,
+          "importance": 0.053383334859235486,
+          "addresstype": "road",
+          "name": "вулиця Василя Ярмуша",
+          "display_name": "вулиця Василя Ярмуша, Острів, Великоберезовицька селищна громада, Тернопільський район, Тернопільська область, 47728, Україна",
+          "boundingbox": [
+            "49.4776833",
+            "49.4827798",
+            "25.5851336",
+            "25.6002486"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "smykivtsi",
+      "query": "Лесі Українки 1А, Смиківці, Тернопільський район, Україна",
+      "status": 200,
+      "results": []
+    },
+    {
+      "key": "velyki-birky",
+      "query": "Шкільна 7А, Великі Бірки, Тернопільський район, Україна",
+      "status": 200,
+      "results": [
+        {
+          "place_id": 191113737,
+          "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+          "osm_type": "way",
+          "osm_id": 260208386,
+          "lat": "49.5255419",
+          "lon": "25.7553240",
+          "category": "highway",
+          "type": "residential",
+          "place_rank": 26,
+          "importance": 0.053385939574273254,
+          "addresstype": "road",
+          "name": "Шкільна вулиця",
+          "display_name": "Шкільна вулиця, Великі Бірки, Великобірківська селищна громада, Тернопільський район, Тернопільська область, 47740, Україна",
+          "boundingbox": [
+            "49.5242840",
+            "49.5266210",
+            "25.7539750",
+            "25.7570323"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "plotycha",
+      "query": "Садова 4, Плотича, Тернопільський район, Україна",
+      "status": 200,
+      "results": [
+        {
+          "place_id": 190345732,
+          "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+          "osm_type": "way",
+          "osm_id": 255344503,
+          "lat": "49.6283516",
+          "lon": "25.5636685",
+          "category": "highway",
+          "type": "residential",
+          "place_rank": 26,
+          "importance": 0.053383334859235486,
+          "addresstype": "road",
+          "name": "Садова вулиця",
+          "display_name": "Садова вулиця, Плотича, Білецька сільська громада, Тернопільський район, Тернопільська область, 47704, Україна",
+          "boundingbox": [
+            "49.6259505",
+            "49.6306635",
+            "25.5627850",
+            "25.5642645"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "shliakhtyntsi",
+      "query": "Липова 1, Шляхтинці, Тернопільський район, Україна",
+      "status": 200,
+      "results": [
+        {
+          "place_id": 190928113,
+          "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+          "osm_type": "way",
+          "osm_id": 231803686,
+          "lat": "49.5838498",
+          "lon": "25.6685330",
+          "category": "building",
+          "type": "school",
+          "place_rank": 30,
+          "importance": 5.034943160138884e-05,
+          "addresstype": "building",
+          "name": "",
+          "display_name": "1, Липова вулиця, Шляхтинці, Байковецька сільська громада, Тернопільський район, Тернопільська область, 47710, Україна",
+          "boundingbox": [
+            "49.5836100",
+            "49.5841407",
+            "25.6684175",
+            "25.6687000"
+          ]
+        }
+      ]
+    }
+  ]
+}

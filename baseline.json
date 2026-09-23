@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-23T14:36:04+03:00",
+  "checkedAt": "2026-09-23T15:35:00+03:00",
   "listings": [
     {
       "id": "stefanyka",
@@ -19304,6 +19304,19 @@
       "sourceType": "catalog",
       "method": "Firecrawl, публічне читання; maxAge=0",
       "evidence": "sources/firecrawl-9.json"
+    },
+    {
+      "name": "ІСУО · дошкільні заклади околиць Тернополя",
+      "url": "https://te.isuo.org/koatuu/preschools-list/id/6125200000",
+      "checkedAt": "2026-09-23T15:35:00+03:00",
+      "coverage": "Офіційний реєстр ЗДО звірено для Тернополя та навколишніх населених пунктів у широкій зоні приблизно 12 км від центру; 15 закладів за межами основної міської забудови мають окремі записи.",
+      "limitations": "Реєстр підтверджує заклад, але не точку входу, фактичний режим роботи або маршрут до 500 м. Відсутність запису не доводить відсутність дошкільної групи.",
+      "status": 200,
+      "verified": true,
+      "removed": false,
+      "sourceType": "official-register",
+      "method": "Публічне читання без входу; координати окремо через OSM/Nominatim",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json"
     }
   ],
   "rulesVersion": "2026-09-23-houses-land-v4",
@@ -41978,7 +41991,7 @@
       "kind": "kindergarten",
       "tags": {
         "amenity": "kindergarten",
-        "name": "Ясла-садок \"Країна дитинства\"",
+        "name": "КДНЗ «Ясла-садок «Країна дитинства»",
         "name:uk": "Ясла-садок \"Країна дитинства\""
       },
       "coords": [
@@ -42020,9 +42033,14 @@
         ]
       ],
       "url": "https://www.openstreetmap.org/way/430870956",
-      "checkedAt": "2026-09-21",
-      "evidence": "sources/history/baseline-before-run.json",
-      "historical": true
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false,
+      "officialUrl": "https://te.isuo.org/preschools/view/id/48390",
+      "confirmed": true,
+      "settlement": "Великі Гаї",
+      "address": "вул. Галицька, 44-В",
+      "precision": "Контур будівлі OSM; офіційна адреса ІСУО"
     },
     {
       "id": "way585219541",
@@ -42592,13 +42610,15 @@
       "url": "https://ternopilcity.gov.ua/news/81323.html",
       "checkedAt": "2026-09-21",
       "evidence": "sources/history/baseline-before-run.json",
-      "historical": true
+      "historical": false,
+      "precision": "Офіційна адреса; координата орієнтовна",
+      "confirmed": true
     },
     {
       "id": "pid-school",
       "kind": "kindergarten",
       "tags": {
-        "name": "Дошкільне відділення, Пасічна, 9"
+        "name": "Підгороднянська початкова школа з дошкільним відділенням"
       },
       "coords": [
         [
@@ -42606,10 +42626,15 @@
           25.5219395
         ]
       ],
-      "url": "https://pidgorodnyanska-gromada.gov.ua/pidgorodnyanska-pochatkova-shkola-z-doshkilnim-viddilennyam-13-47-16-06-06-2022/",
-      "checkedAt": "2026-09-21",
-      "evidence": "sources/history/baseline-before-run.json",
-      "historical": true
+      "url": "https://www.openstreetmap.org/?mlat=49.5396725&mlon=25.5219395#map=18/49.5396725/25.5219395",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false,
+      "officialUrl": "https://te.isuo.org/preschools/view/id/59076",
+      "confirmed": true,
+      "settlement": "Підгороднє",
+      "address": "вул. Пасічна, 9",
+      "precision": "Адресна точка; звірити вхід перед виміром маршруту"
     },
     {
       "kind": "stop",
@@ -42626,6 +42651,305 @@
       "checkedAt": "2026-09-21",
       "evidence": "sources/history/baseline-before-run.json",
       "historical": true
+    },
+    {
+      "id": "isuo-58959-bila",
+      "kind": "kindergarten",
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "ЗДО «Дитячий ясла-садок с. Біла»"
+      },
+      "coords": [
+        [
+          49.5887386,
+          25.5750573
+        ]
+      ],
+      "url": "https://www.openstreetmap.org/way/182081307",
+      "officialUrl": "https://te.isuo.org/preschools/view/id/58959",
+      "confirmed": true,
+      "settlement": "Біла",
+      "address": "вул. Молодіжна, 20",
+      "precision": "Приблизно: центр вул. Молодіжної; номер 20 геокодер не підтвердив",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false
+    },
+    {
+      "id": "isuo-48391-hai-shev",
+      "kind": "kindergarten",
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "ЗДО «Лісова казка»"
+      },
+      "coords": [
+        [
+          49.5935966,
+          25.6295045
+        ]
+      ],
+      "url": "https://www.openstreetmap.org/search?query=%D0%93%D0%B0%D1%97-%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D1%96",
+      "officialUrl": "https://te.isuo.org/preschools/view/id/48391",
+      "confirmed": true,
+      "settlement": "Гаї-Шевченківські",
+      "address": "вул. Тернопільська, 12",
+      "precision": "Приблизно: центр села; точну будівлю не встановлено",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false
+    },
+    {
+      "id": "isuo-48389-berezovytsia",
+      "kind": "kindergarten",
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Дитячий ясла-садок «Кобзарик»"
+      },
+      "coords": [
+        [
+          49.5019863,
+          25.6112886
+        ]
+      ],
+      "url": "https://www.openstreetmap.org/search?query=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%20%D0%91%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D0%B8%D1%86%D1%8F",
+      "officialUrl": "https://te.isuo.org/preschools/view/id/48389",
+      "confirmed": true,
+      "settlement": "Велика Березовиця",
+      "address": "вул. Енергетична, 11-А",
+      "precision": "Приблизно: центр населеного пункту; точну будівлю не встановлено",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false
+    },
+    {
+      "id": "isuo-48399-shliakhtyntsi",
+      "kind": "kindergarten",
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Шляхтинецька гімназія (дошкільний облік)"
+      },
+      "coords": [
+        [
+          49.5838498,
+          25.668533
+        ]
+      ],
+      "url": "https://www.openstreetmap.org/way/231803686",
+      "officialUrl": "https://te.isuo.org/preschools/view/id/48399",
+      "confirmed": true,
+      "settlement": "Шляхтинці",
+      "address": "вул. Липова, 1",
+      "precision": "Точна адресна будівля OSM/Nominatim",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false
+    },
+    {
+      "id": "isuo-48405-baikivtsi",
+      "kind": "kindergarten",
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Байковецька гімназія (дошкільний облік)"
+      },
+      "coords": [
+        [
+          49.5706366,
+          25.6826506
+        ]
+      ],
+      "url": "https://www.openstreetmap.org/way/935829298",
+      "officialUrl": "https://te.isuo.org/preschools/view/id/48405",
+      "confirmed": true,
+      "settlement": "Байківці",
+      "address": "вул. Січових Стрільців, 12",
+      "precision": "Точна адресна будівля OSM/Nominatim",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false
+    },
+    {
+      "id": "isuo-48403-smykivtsi",
+      "kind": "kindergarten",
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Смиковецький ЗДО «Усмішка»"
+      },
+      "coords": [
+        [
+          49.5329495,
+          25.7029199
+        ]
+      ],
+      "url": "https://www.openstreetmap.org/search?query=%D0%A1%D0%BC%D0%B8%D0%BA%D1%96%D0%B2%D1%86%D1%96",
+      "officialUrl": "https://te.isuo.org/preschools/view/id/48403",
+      "confirmed": true,
+      "settlement": "Смиківці",
+      "address": "вул. Лесі Українки, 1-А",
+      "precision": "Приблизно: центр села; точну будівлю не встановлено",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false
+    },
+    {
+      "id": "isuo-48397-ostriv",
+      "kind": "kindergarten",
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Дитячий садок «Дзвіночок»"
+      },
+      "coords": [
+        [
+          49.479185,
+          25.5923714
+        ]
+      ],
+      "url": "https://www.openstreetmap.org/way/319013625",
+      "officialUrl": "https://te.isuo.org/preschools/view/id/48397",
+      "confirmed": true,
+      "settlement": "Острів",
+      "address": "вул. В. Ярмуша, 142",
+      "precision": "Приблизно: центр вул. В. Ярмуша; номер 142 не підтверджено",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false
+    },
+    {
+      "id": "isuo-48394-plotycha",
+      "kind": "kindergarten",
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Плотицький дитячий садок"
+      },
+      "coords": [
+        [
+          49.6283516,
+          25.5636685
+        ]
+      ],
+      "url": "https://www.openstreetmap.org/way/164571337",
+      "officialUrl": "https://te.isuo.org/preschools/view/id/48394",
+      "confirmed": true,
+      "settlement": "Плотича",
+      "address": "вул. Садова, 4",
+      "precision": "Приблизно: центр вул. Садової; номер 4 не підтверджено",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false
+    },
+    {
+      "id": "isuo-52775-dovzhanka",
+      "kind": "kindergarten",
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Довжанківський ліцей (дошкільний облік)"
+      },
+      "coords": [
+        [
+          49.5621065,
+          25.470367
+        ]
+      ],
+      "url": "https://www.openstreetmap.org/?mlat=49.5621065&mlon=25.4703670#map=18/49.5621065/25.4703670",
+      "officialUrl": "https://te.isuo.org/preschools/view/id/52775",
+      "confirmed": true,
+      "settlement": "Довжанка",
+      "address": "вул. Містечко, 46",
+      "precision": "Точна адресна будівля OSM/Nominatim",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false
+    },
+    {
+      "id": "isuo-48387-velyki-birky",
+      "kind": "kindergarten",
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Великобірківський ЗДО «Ромашка»"
+      },
+      "coords": [
+        [
+          49.5255419,
+          25.755324
+        ]
+      ],
+      "url": "https://www.openstreetmap.org/way/180787931",
+      "officialUrl": "https://te.isuo.org/preschools/view/id/48387",
+      "confirmed": true,
+      "settlement": "Великі Бірки",
+      "address": "вул. Шкільна, 7-А",
+      "precision": "Приблизно: центр вул. Шкільної; номер 7-А не підтверджено",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false
+    },
+    {
+      "id": "isuo-48393-pochapyntsi",
+      "kind": "kindergarten",
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "ЗДО «Журавлик»"
+      },
+      "coords": [
+        [
+          49.5182692,
+          25.4823834
+        ]
+      ],
+      "url": "https://www.openstreetmap.org/way/1078217847",
+      "officialUrl": "https://te.isuo.org/preschools/view/id/48393",
+      "confirmed": true,
+      "settlement": "Почапинці",
+      "address": "вул. Незалежності, 5",
+      "precision": "Приблизно: центр вул. Незалежності; номер 5 не підтверджено",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false
+    },
+    {
+      "id": "isuo-48388-velykyi-hlybochok",
+      "kind": "kindergarten",
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "ЗДО «Дитячий ясла-садок с. Великий Глибочок»"
+      },
+      "coords": [
+        [
+          49.62078,
+          25.52982
+        ]
+      ],
+      "url": "https://www.openstreetmap.org/relation/3166744",
+      "officialUrl": "https://te.isuo.org/preschools/view/id/48388",
+      "confirmed": true,
+      "settlement": "Великий Глибочок",
+      "address": "вул. Грушевського, 3-А",
+      "precision": "Приблизно: центр села; точну будівлю не встановлено",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false
+    },
+    {
+      "id": "isuo-48396-velyka-luka",
+      "kind": "kindergarten",
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Дитячий садок «Струмочок»"
+      },
+      "coords": [
+        [
+          49.449904,
+          25.5943875
+        ]
+      ],
+      "url": "https://www.openstreetmap.org/way/291392834",
+      "officialUrl": "https://te.isuo.org/preschools/view/id/48396",
+      "confirmed": true,
+      "settlement": "Велика Лука",
+      "address": "вул. Лесі Українки, 13",
+      "precision": "Приблизно: центр вул. Лесі Українки; номер 13 не підтверджено",
+      "checkedAt": "2026-09-23",
+      "evidence": "sources/kindergarten-scan-2026-09-23.json",
+      "historical": false
     }
   ],
   "summary": "Оновлено 23.09.2026: додано пропущений будинок 180 м² / 25 соток у Великих Гаях; три дублікати будинку в Підгородньому об’єднано під адресою Северина Наливайка, 12. Усі висновки з невизначеністю залишені явними.",
@@ -42643,5 +42967,225 @@
     "DIM.RIA раніше не охоплював сторінки 2–3 і не передавав знайдені картки у чергу детального читання; збирач виправлено. Кадастрова прив’язка нового будинку лишається гіпотезою через прихований номер і розбіжність 25 проти 13,28 сотки."
   ],
   "methodologySummary": "Актуальність установлювалася читанням свіжих детальних сторінок, а не HTTP 200 чи попереднім звітом. Один рядок — одна садиба; конфлікти адрес, валют і обсягу продажу збережені. Відступ стіни від тротуару оцінений окремо від огорожі, точні метри за перспективою фото не визначалися. Для передмість потрібні два окремі пішохідні маршрути ≤500 м від виходу з двору; POI й пряма відстань цього не доводять. Супутник без висот не доводить відсутності низини. Усі qualified_all_criteria=false.",
-  "publicationPolicy": "Після перевірки run-daily.ps1 штатно оновлює latest_report, створює коміт за наявності змін та виконує push; дослідник не змінює baseline/latest_report."
+  "publicationPolicy": "Після перевірки run-daily.ps1 штатно оновлює latest_report, створює коміт за наявності змін та виконує push; дослідник не змінює baseline/latest_report.",
+  "kindergartenScan": {
+    "checkedAt": "2026-09-23T15:35:00+03:00",
+    "scope": "Проскановано Тернопіль і навколишні населені пункти в широкій зоні приблизно до 12 км від Театрального майдану. Це практичне покриття забудови міста плюс близько 5 км околиць, а не точний GIS-буфер адміністративної межі.",
+    "method": "Заклад вважається підтвердженим лише за наявності окремого запису в офіційному реєстрі ІСУО з актуальним або нещодавнім навчальним періодом. OpenStreetMap/Nominatim використано лише для координат. Приблизна мітка не підтверджує відстань 500 м для конкретного будинку.",
+    "officialRegistry": "https://te.isuo.org/koatuu/preschools-list/id/6125200000",
+    "confirmed": [
+      {
+        "id": "isuo-58959-bila",
+        "settlement": "Біла",
+        "name": "ЗДО «Дитячий ясла-садок с. Біла»",
+        "address": "вул. Молодіжна, 20",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/58959",
+        "lat": 49.5887386,
+        "lon": 25.5750573,
+        "precision": "Приблизно: центр вул. Молодіжної; номер 20 геокодер не підтвердив",
+        "coordUrl": "https://www.openstreetmap.org/way/182081307",
+        "centerKm": 4.1
+      },
+      {
+        "id": "isuo-48391-hai-shev",
+        "settlement": "Гаї-Шевченківські",
+        "name": "ЗДО «Лісова казка»",
+        "address": "вул. Тернопільська, 12",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48391",
+        "lat": 49.5935966,
+        "lon": 25.6295045,
+        "precision": "Приблизно: центр села; точну будівлю не встановлено",
+        "coordUrl": "https://www.openstreetmap.org/search?query=%D0%93%D0%B0%D1%97-%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D1%96",
+        "centerKm": 5.1
+      },
+      {
+        "id": "way430870956",
+        "settlement": "Великі Гаї",
+        "name": "КДНЗ «Ясла-садок «Країна дитинства»",
+        "address": "вул. Галицька, 44-В",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48390",
+        "lat": 49.52052,
+        "lon": 25.64572,
+        "precision": "Контур будівлі OSM; офіційна адреса ІСУО",
+        "coordUrl": "https://www.openstreetmap.org/way/430870956",
+        "centerKm": 5.2
+      },
+      {
+        "id": "pid-school",
+        "settlement": "Підгороднє",
+        "name": "Підгороднянська початкова школа з дошкільним відділенням",
+        "address": "вул. Пасічна, 9",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/59076",
+        "lat": 49.5396725,
+        "lon": 25.5219395,
+        "precision": "Адресна точка; звірити вхід перед виміром маршруту",
+        "coordUrl": "https://www.openstreetmap.org/?mlat=49.5396725&mlon=25.5219395#map=18/49.5396725/25.5219395",
+        "centerKm": 5.5
+      },
+      {
+        "id": "isuo-48389-berezovytsia",
+        "settlement": "Велика Березовиця",
+        "name": "Дитячий ясла-садок «Кобзарик»",
+        "address": "вул. Енергетична, 11-А",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48389",
+        "lat": 49.5019863,
+        "lon": 25.6112886,
+        "precision": "Приблизно: центр населеного пункту; точну будівлю не встановлено",
+        "coordUrl": "https://www.openstreetmap.org/search?query=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%20%D0%91%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D0%B8%D1%86%D1%8F",
+        "centerKm": 5.9
+      },
+      {
+        "id": "isuo-48399-shliakhtyntsi",
+        "settlement": "Шляхтинці",
+        "name": "Шляхтинецька гімназія (дошкільний облік)",
+        "address": "вул. Липова, 1",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48399",
+        "lat": 49.5838498,
+        "lon": 25.668533,
+        "precision": "Точна адресна будівля OSM/Nominatim",
+        "coordUrl": "https://www.openstreetmap.org/way/231803686",
+        "centerKm": 6.3
+      },
+      {
+        "id": "isuo-48405-baikivtsi",
+        "settlement": "Байківці",
+        "name": "Байковецька гімназія (дошкільний облік)",
+        "address": "вул. Січових Стрільців, 12",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48405",
+        "lat": 49.5706366,
+        "lon": 25.6826506,
+        "precision": "Точна адресна будівля OSM/Nominatim",
+        "coordUrl": "https://www.openstreetmap.org/way/935829298",
+        "centerKm": 6.6
+      },
+      {
+        "id": "isuo-48403-smykivtsi",
+        "settlement": "Смиківці",
+        "name": "Смиковецький ЗДО «Усмішка»",
+        "address": "вул. Лесі Українки, 1-А",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48403",
+        "lat": 49.5329495,
+        "lon": 25.7029199,
+        "precision": "Приблизно: центр села; точну будівлю не встановлено",
+        "coordUrl": "https://www.openstreetmap.org/search?query=%D0%A1%D0%BC%D0%B8%D0%BA%D1%96%D0%B2%D1%86%D1%96",
+        "centerKm": 8.1
+      },
+      {
+        "id": "isuo-48397-ostriv",
+        "settlement": "Острів",
+        "name": "Дитячий садок «Дзвіночок»",
+        "address": "вул. В. Ярмуша, 142",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48397",
+        "lat": 49.479185,
+        "lon": 25.5923714,
+        "precision": "Приблизно: центр вул. В. Ярмуша; номер 142 не підтверджено",
+        "coordUrl": "https://www.openstreetmap.org/way/319013625",
+        "centerKm": 8.3
+      },
+      {
+        "id": "isuo-48394-plotycha",
+        "settlement": "Плотича",
+        "name": "Плотицький дитячий садок",
+        "address": "вул. Садова, 4",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48394",
+        "lat": 49.6283516,
+        "lon": 25.5636685,
+        "precision": "Приблизно: центр вул. Садової; номер 4 не підтверджено",
+        "coordUrl": "https://www.openstreetmap.org/way/164571337",
+        "centerKm": 8.6
+      },
+      {
+        "id": "isuo-48388-velykyi-hlybochok",
+        "settlement": "Великий Глибочок",
+        "name": "ЗДО «Дитячий ясла-садок с. Великий Глибочок»",
+        "address": "вул. Грушевського, 3-А",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48388",
+        "lat": 49.62078,
+        "lon": 25.52982,
+        "precision": "Приблизно: центр села; точну будівлю не встановлено",
+        "coordUrl": "https://www.openstreetmap.org/relation/3166744",
+        "centerKm": 8.8
+      },
+      {
+        "id": "isuo-52775-dovzhanka",
+        "settlement": "Довжанка",
+        "name": "Довжанківський ліцей (дошкільний облік)",
+        "address": "вул. Містечко, 46",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/52775",
+        "lat": 49.5621065,
+        "lon": 25.470367,
+        "precision": "Точна адресна будівля OSM/Nominatim",
+        "coordUrl": "https://www.openstreetmap.org/?mlat=49.5621065&mlon=25.4703670#map=18/49.5621065/25.4703670",
+        "centerKm": 9.0
+      },
+      {
+        "id": "isuo-48393-pochapyntsi",
+        "settlement": "Почапинці",
+        "name": "ЗДО «Журавлик»",
+        "address": "вул. Незалежності, 5",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48393",
+        "lat": 49.5182692,
+        "lon": 25.4823834,
+        "precision": "Приблизно: центр вул. Незалежності; номер 5 не підтверджено",
+        "coordUrl": "https://www.openstreetmap.org/way/1078217847",
+        "centerKm": 9.0
+      },
+      {
+        "id": "isuo-48396-velyka-luka",
+        "settlement": "Велика Лука",
+        "name": "Дитячий садок «Струмочок»",
+        "address": "вул. Лесі Українки, 13",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48396",
+        "lat": 49.449904,
+        "lon": 25.5943875,
+        "precision": "Приблизно: центр вул. Лесі Українки; номер 13 не підтверджено",
+        "coordUrl": "https://www.openstreetmap.org/way/291392834",
+        "centerKm": 11.5
+      },
+      {
+        "id": "isuo-48387-velyki-birky",
+        "settlement": "Великі Бірки",
+        "name": "Великобірківський ЗДО «Ромашка»",
+        "address": "вул. Шкільна, 7-А",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48387",
+        "lat": 49.5255419,
+        "lon": 25.755324,
+        "precision": "Приблизно: центр вул. Шкільної; номер 7-А не підтверджено",
+        "coordUrl": "https://www.openstreetmap.org/way/180787931",
+        "centerKm": 12.0
+      }
+    ],
+    "reviewedWithoutCurrentConfirmation": [
+      {
+        "settlement": "Петриків",
+        "result": "У перевіреній видачі ІСУО не знайдено окремого чинного запису ЗДО; наявність дошкільної групи треба уточнювати в громаді."
+      },
+      {
+        "settlement": "Пронятин",
+        "result": "У перевірених списках ІСУО не знайдено окремого чинного запису ЗДО."
+      },
+      {
+        "settlement": "Гаї-Гречинські",
+        "result": "У перевірених списках ІСУО не знайдено окремого чинного запису ЗДО."
+      },
+      {
+        "settlement": "Чистилів",
+        "result": "У перевірених списках ІСУО не знайдено окремого чинного запису ЗДО."
+      },
+      {
+        "settlement": "Малашівці",
+        "result": "У перевірених списках ІСУО не знайдено окремого чинного запису ЗДО."
+      },
+      {
+        "settlement": "Кип’ячка",
+        "result": "Є старий запис із періодом 2021/22 та окремий неповний запис без достатнього поточного підтвердження; як чинний садочок не зараховано.",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48407"
+      },
+      {
+        "settlement": "Домаморич",
+        "result": "У реєстрі є дошкільний підрозділ із останнім указаним періодом 2023/24; актуальну роботу не підтверджено.",
+        "officialUrl": "https://te.isuo.org/preschools/view/id/48415"
+      }
+    ]
+  }
 }
