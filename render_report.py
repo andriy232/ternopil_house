@@ -42,7 +42,7 @@ def rowhtml(r):
  details+='<p>'+measurement(r,'rail','Колія')+'<br>'+measurement(r,'cemetery','Цвинтар')+'</p>'
  details+='<p><b>Зупинка та садочок.</b> '+E(r.get('infrastructure',''))+'</p>'
  if not r.get('infrastructure'):details+='<p>'+measurement(r,'stop','Найближча знайдена зупинка')+'<br>'+measurement(r,'kindergarten','Найближчий знайдений садочок')+'. Відстані по прямій; повнота POI та реальний пішохідний маршрут не гарантовані.</p>'
- if r.get('route'):details+='<p><a target="_blank" rel="noopener" href="'+E(r['route'])+'">Перевірений піший маршрут до садочка</a></p>'
+ if r.get('route'):details+='<p><a target="_blank" rel="noopener" href="'+E(r['route'])+'">Google Maps: маршрут до садочка (потребує перевірки)</a></p>'
  if r.get('duplicates'):details+='<p><b>Зіставлення дублікатів.</b> '+E(r['duplicates'])+'</p>'
  if r.get('cadastreLinks'):details+='<p><b>Кадастрові сторінки.</b> '+cadastrelinks(r)+'<br><span class="small">'+E(r.get('cadastreNote','Сторінка довідкова. Перед угодою потрібні актуальні офіційні витяги та перевірка всіх ділянок, що входять у продаж.'))+'</span></p>'
  details+='<div class="gallery">'+''.join('<a href="'+E(u)+'" target="_blank" rel="noopener"><img loading="lazy" src="'+E(u)+'" alt="'+E(r['address'])+' · фото '+str(j+1)+'"><span>'+str(j+1)+'</span></a>' for j,u in enumerate(r.get('photos',[])))+'</div>'
