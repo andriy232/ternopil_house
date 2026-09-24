@@ -21,7 +21,13 @@ def links(r):
    out.append('<span class="muted">'+E(label+' '+code+' — '+('сторінку видалено' if s.get('removed') else 'не перевірено'))+'</span>')
  return ' · '.join(out)
 def cadastrelinks(r):
- return ' · '.join('<a target="_blank" rel="noopener" href="'+E(x['url'])+'">'+E(x.get('label') or x.get('number') or 'Кадастрова сторінка')+'</a>' for x in r.get('cadastreLinks',[]) if x.get('url'))
+ out=[]
+ for x in r.get('cadastreLinks',[]):
+  if not x.get('url'):continue
+  label=E(x.get('label') or x.get('number') or 'Кадастрова сторінка')
+  if x.get('verified'):out.append('<a target="_blank" rel="noopener" href="'+E(x['url'])+'">'+label+'</a>')
+  else:out.append('<span class="muted">'+label+' — '+('потрібен вхід' if x.get('requiresAuthentication') else 'не перевірено')+'</span>')
+ return ' · '.join(out)
 def measurement(r,key,label):
  x=r.get('measurements',{}).get(key)
  if not x or not r.get('coords'):return label+': не встановлено'
@@ -45,6 +51,7 @@ def rowhtml(r):
  if r.get('route'):details+='<p><a target="_blank" rel="noopener" href="'+E(r['route'])+'">Google Maps: маршрут до садочка (потребує перевірки)</a></p>'
  if r.get('duplicates'):details+='<p><b>Зіставлення дублікатів.</b> '+E(r['duplicates'])+'</p>'
  if r.get('cadastreLinks'):details+='<p><b>Кадастрові сторінки.</b> '+cadastrelinks(r)+'<br><span class="small">'+E(r.get('cadastreNote','Сторінка довідкова. Перед угодою потрібні актуальні офіційні витяги та перевірка всіх ділянок, що входять у продаж.'))+'</span></p>'
+ elif r.get('cadastreNote'):details+='<p><b>Кадастрова прив’язка.</b> '+E(r['cadastreNote'])+'</p>'
  details+='<div class="gallery">'+''.join('<a href="'+E(u)+'" target="_blank" rel="noopener"><img loading="lazy" src="'+E(u)+'" alt="'+E(r['address'])+' · фото '+str(j+1)+'"><span>'+str(j+1)+'</span></a>' for j,u in enumerate(r.get('photos',[])))+'</div>'
  details+='<p class="small">Дата перевірки сторінки: '+E(r.get('checkedAt',D.get('checkedAt','')))+' · Наявність оголошення не підтверджує, що будинок ще не проданий.</p>'
  maps='<a target="_blank" rel="noopener" href="'+E(r['map'])+'">Google Maps</a>'
@@ -76,7 +83,8 @@ def kindergartenrow(x):
  official='<a target="_blank" rel="noopener" href="'+E(x['officialUrl'])+'">ІСУО</a>' if x.get('officialUrl') else '—'
  maps='<a target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&amp;query='+E(str(x.get('lat',''))+','+str(x.get('lon','')))+'">Google Maps</a>' if x.get('lat') is not None else '—'
  distance='≈'+str(x.get('centerKm')).replace('.',',')+' км' if x.get('centerKm') is not None else '—'
- return '<tr><td><b>'+E(x.get('settlement',''))+'</b></td><td>'+E(x.get('name',''))+'<br><span class="small">'+E(x.get('address',''))+'</span></td><td>'+official+'</td><td>'+distance+'<br><span class="small">'+E(x.get('precision',''))+'</span></td><td>'+maps+'</td></tr>'
+ dates='<br><span class="small">Перевірено: '+E(x.get('checkedAt','не встановлено'))+'<br>Оновлення запису: '+E(x.get('recordUpdatedAt','не встановлено'))+'</span>'
+ return '<tr><td><b>'+E(x.get('settlement',''))+'</b></td><td>'+E(x.get('name',''))+'<br><span class="small">'+E(x.get('address',''))+'</span></td><td>'+official+dates+'</td><td>'+distance+'<br><span class="small">'+E(x.get('precision',''))+'</span></td><td>'+maps+'</td></tr>'
 kindergartenhtml='<p>'+E(kindergarten_scan.get('scope',''))+'</p><div class="notice"><b>Що означає підтвердження.</b> '+E(kindergarten_scan.get('method',''))+'</div>'
 kindergartenhtml+='<div class="tablewrap"><table class="sources"><thead><tr><th>Населений пункт</th><th>Заклад / адреса</th><th>Офіційний запис</th><th>До центру / точність мітки</th><th>Карта</th></tr></thead><tbody>'+''.join(kindergartenrow(x) for x in confirmed_kindergartens)+'</tbody></table></div>'
 if reviewed_kindergartens:kindergartenhtml+='<div class="card"><b>Перевірено, але чинний окремий запис не підтверджено</b><ul>'+''.join('<li><b>'+E(x.get('settlement',''))+':</b> '+E(x.get('result',''))+(' <a target="_blank" rel="noopener" href="'+E(x['officialUrl'])+'">Перевірений запис</a>' if x.get('officialUrl') else '')+'</li>' for x in reviewed_kindergartens)+'</ul><p class="small">Відсутність запису у перевіреній видачі не доводить, що садочка або дошкільної групи немає. Для конкретного будинку все одно потрібні точна адреса, перевірка фактичної роботи закладу та пішохідний маршрут до 500 м від виходу з двору.</p></div>'

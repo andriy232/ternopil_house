@@ -1,0 +1,11 @@
+{
+  "checkedAt": "2026-09-24T09:46:23+03:00",
+  "getState": {
+    "apps": [],
+    "browsers": []
+  },
+  "createBrowserTab": "Browser is not available: iab",
+  "satelliteFreshlyVerified": false,
+  "firecrawl": "MCP tool call requires approval, but approval policy is never",
+  "limitation": "Не виконували обхід CAPTCHA/авторизації; альтернативні публічні HTTP та web.read використані для тексту."
+}
