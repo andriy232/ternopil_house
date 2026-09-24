@@ -281,398 +281,6 @@
       "priceCurrency": "USD"
     },
     {
-      "id": "hlyboka-46",
-      "kind": "house",
-      "district": "Східний",
-      "address": "Глибока, 46",
-      "price": 138000,
-      "area": 190,
-      "land": 9,
-      "status": "Прочитана детальна сторінка з невизначеностями",
-      "tier": "пріоритет уточнення",
-      "section": "active",
-      "reason": "Користувач 22.09 підтвердив: $138 000 за цілий будинок і всі 9 соток. Залишено в актуальних як пріоритетний виняток, але це на $18 000 вище базового ліміту $120 000. Треба уточнити, чи додається 5% комісії; на фото багатоповерхова забудова проглядає сад, а знайдена кадастрова сторінка охоплює лише 2,69 із заявлених 9 соток.",
-      "driveway": "RIELTOR.UA вказує асфальтований заїзд; у DIM.RIA зазначений гараж із підвалом. Окремі ворота та право заїзду для всього об’єкта слід перевірити на місці.",
-      "privacy": "23.09 повторний перегляд: на фото саду RIELTOR видно близьку багатоповерхову забудову з вікнами в його бік. Умова приватності не підтверджена.",
-      "rowHousing": "Не ряд однакових будинків. Сам будинок розділений на дві сім’ї з окремими входами; вимозі цілого будинку відповідає лише купівля обох частин одним об’єктом.",
-      "rail": "≈579 м від адресної точки до найближчої колії OSM; критерій 100 м виконується із запасом.",
-      "cemetery": "≈757 м від адресної точки до найближчої межі цвинтаря OSM.",
-      "terrain": "Адресна точка міститься всередині кварталу, не на роздоріжжі. На фото сад має помітний ухил; належність ділянки до низини без висотного обстеження не доведена.",
-      "condition": "Старий одноповерховий будинок 1970-х із великим підвалом, потребує ремонту. Для всього об’єкта заявлено 190 м² / 9 соток; для половини — 94,5 м² / 3,29 сотки. Довідкова кадастрова сторінка за адресою показує одну ділянку лише 2,69 сотки, тому потрібні офіційні витяги на всі ділянки.",
-      "location": "Точна адреса і координати наведені на RIELTOR.UA та збігаються з будівлею №46 в OpenStreetMap/Nominatim.",
-      "mapQuery": "Глибока 46, Тернопіль",
-      "coords": [
-        49.54907989501953,
-        25.61433982849121
-      ],
-      "centerKm": 1.5,
-      "numberKnown": true,
-      "mapPrecision": "точна адресна точка",
-      "sources": [
-        {
-          "url": "https://dom.ria.com/uk/realty-prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa-34461737.html",
-          "label": "dom.ria.com",
-          "sourceType": "detail",
-          "status": 200,
-          "checkedAt": "2026-09-24T09:02:05.958086+03:00",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "evidence": "sources/2bcd46eacb2e2db7.txt",
-          "method": "Свіже публічне HTTP-читання",
-          "availability": "прочитано без входу"
-        },
-        {
-          "url": "https://rieltor.ua/ternopol/houses-sale/view/12863697/",
-          "label": "rieltor.ua",
-          "sourceType": "detail",
-          "status": 200,
-          "checkedAt": "2026-09-24T09:02:57.354674+03:00",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "evidence": "sources/0a9f2bd1cc582511.txt",
-          "method": "Свіже публічне HTTP-читання",
-          "availability": "прочитано без входу"
-        },
-        {
-          "url": "https://kadastrova-karta.com/dilyanka/6110100000:08:007:0044",
-          "label": "kadastrova-karta.com",
-          "sourceType": "cadastre",
-          "status": 200,
-          "checkedAt": "2026-09-24T09:02:58.530038+03:00",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "evidence": "sources/1d7ede0781734c35.txt",
-          "method": "Свіже публічне HTTP-читання",
-          "availability": "прочитано без входу"
-        }
-      ],
-      "photos": [
-        "sources/photos/b7411943daad6e56b6b3.jpg",
-        "sources/photos/74f9875441c63beb838d.jpg",
-        "sources/photos/f3d3ce8ac2600b90005b.jpg",
-        "sources/photos/8c702a0bb843ff6df3e4.jpg",
-        "sources/photos/dff7c9d00eab86a14ef8.jpg",
-        "sources/photos/1318a0c2499130f612ac.jpg",
-        "sources/photos/467b41a6db590e7e5a95.jpg",
-        "sources/photos/623f4d501728b0ad4f40.jpg",
-        "sources/photos/8c6fe57549b9f236148e.jpg",
-        "sources/photos/bf214ec641a8f0e736a6.jpg",
-        "sources/photos/c68e2432cf421f7b6735.jpg",
-        "sources/photos/514365076bc469ca2266.jpg",
-        "sources/photos/19f485888baeb6926e3e.jpg",
-        "sources/photos/c5d4a3c7a828c5952822.jpg",
-        "sources/photos/26f96e0042184a92b13d.jpg",
-        "sources/photos/8c7935c66a0980111b33.jpg",
-        "sources/photos/a7aef8bfa3d0b9867846.jpg",
-        "sources/photos/e2f6f673ce27e3eb2ac6.jpg",
-        "sources/photos/c87151721595561feee7.jpg",
-        "sources/photos/f39a57b0cbcf73c3b5dd.jpg",
-        "sources/photos/fad1a2ea139473927fbc.jpg",
-        "sources/photos/537a8565710230a8faa6.jpg",
-        "sources/photos/c2f3a4aa800afd9e812d.jpg",
-        "sources/photos/046e3349c5fd059cdbc4.jpg",
-        "sources/photos/2199b1f6e6385dffd7a5.jpg",
-        "sources/photos/36c911b113048cdfd990.jpg",
-        "sources/photos/016642ab0184bad5eeab.jpg",
-        "sources/photos/d018c9fb9599ad628e70.jpg",
-        "sources/photos/91ea8f260b0b37fc6a02.jpg",
-        "sources/photos/956abd6829bc28023681.jpg",
-        "sources/photos/ebad7208a3b9ffe5a22d.jpg"
-      ],
-      "thumbnail": "sources/photos/b7411943daad6e56b6b3.jpg",
-      "checkedAt": "2026-09-24T09:46:23+03:00",
-      "availability": "live_page_readable",
-      "qualified_all_criteria": false,
-      "map": "https://www.google.com/maps/search/?api=1&query=%D0%93%D0%BB%D0%B8%D0%B1%D0%BE%D0%BA%D0%B0%2046%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
-      "satellite": "https://www.google.com/maps/@49.54907989501953,25.61433982849121,18z/data=!3m1!1e3",
-      "measurements": {
-        "coords": [
-          49.54907989501953,
-          25.61433982849121
-        ],
-        "centerKm": 1.5,
-        "rail": {
-          "meters": 579,
-          "name": "Тернопіль - Гречани",
-          "url": "https://www.openstreetmap.org/way/260668829",
-          "coords": [
-            [
-              49.5437004,
-              25.6116606
-            ],
-            [
-              49.5459376,
-              25.6076598
-            ]
-          ],
-          "basis": "адресна точка",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T22:52:42.377898+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/baseline-before-run.json",
-          "originalEvidencePath": "sources/history/geo-features.json",
-          "historicalNote": "Історичний вимір; цього запуску не повторювався. Межу ділянки та вихід із двору не встановлено."
-        },
-        "cemetery": {
-          "meters": 757,
-          "name": "Військове кладовище",
-          "url": "https://www.openstreetmap.org/way/209268568",
-          "coords": [
-            [
-              49.5543395,
-              25.6075864
-            ],
-            [
-              49.5544109,
-              25.6075508
-            ],
-            [
-              49.5544442,
-              25.60771
-            ],
-            [
-              49.5543728,
-              25.6077456
-            ],
-            [
-              49.5543395,
-              25.6075864
-            ]
-          ],
-          "basis": "адресна точка",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T22:52:42.377898+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/baseline-before-run.json",
-          "originalEvidencePath": "sources/history/geo-features.json",
-          "historicalNote": "Історичний вимір; цього запуску не повторювався. Межу ділянки та вихід із двору не встановлено."
-        },
-        "stop": {
-          "meters": 140,
-          "name": "Вул. Малишка",
-          "url": "https://www.openstreetmap.org/node/3352862483",
-          "coords": [
-            [
-              49.5478603,
-              25.6138526
-            ]
-          ],
-          "basis": "адресна точка",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T22:52:42.377898+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/baseline-before-run.json",
-          "originalEvidencePath": "sources/history/geo-features.json",
-          "historicalNote": "Історичний вимір; цього запуску не повторювався. Межу ділянки та вихід із двору не встановлено."
-        },
-        "kindergarten": {
-          "meters": 447,
-          "name": "Ясла-садок № 29 \"Віночок\"",
-          "url": "https://www.openstreetmap.org/way/339271185",
-          "coords": [
-            [
-              49.5499629,
-              25.6080011
-            ],
-            [
-              49.5501201,
-              25.6083596
-            ],
-            [
-              49.5502228,
-              25.6083796
-            ],
-            [
-              49.5504125,
-              25.6081994
-            ],
-            [
-              49.5504748,
-              25.6083656
-            ],
-            [
-              49.55071,
-              25.6080191
-            ],
-            [
-              49.5505385,
-              25.6073302
-            ],
-            [
-              49.550289,
-              25.6075325
-            ],
-            [
-              49.5502436,
-              25.6074203
-            ],
-            [
-              49.5500838,
-              25.6075705
-            ],
-            [
-              49.5501253,
-              25.6077007
-            ],
-            [
-              49.5500149,
-              25.6078309
-            ],
-            [
-              49.5499629,
-              25.6080011
-            ]
-          ],
-          "basis": "адресна точка",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T22:52:42.377898+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/baseline-before-run.json",
-          "originalEvidencePath": "sources/history/geo-features.json",
-          "historicalNote": "Історичний вимір; цього запуску не повторювався. Межу ділянки та вихід із двору не встановлено."
-        }
-      },
-      "photoReviewDate": "2026-09-24T09:46:23+03:00",
-      "satelliteCheckedAt": "2026-09-21T22:52:42.377898+03:00",
-      "linkVerification": [
-        {
-          "url": "https://dom.ria.com/uk/realty-prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa-34461737.html",
-          "label": "dom.ria.com",
-          "sourceType": "detail",
-          "status": 200,
-          "checkedAt": "2026-09-24T09:02:05.958086+03:00",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "evidence": "sources/2bcd46eacb2e2db7.txt",
-          "method": "Свіже публічне HTTP-читання",
-          "availability": "прочитано без входу"
-        },
-        {
-          "url": "https://rieltor.ua/ternopol/houses-sale/view/12863697/",
-          "label": "rieltor.ua",
-          "sourceType": "detail",
-          "status": 200,
-          "checkedAt": "2026-09-24T09:02:57.354674+03:00",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "evidence": "sources/0a9f2bd1cc582511.txt",
-          "method": "Свіже публічне HTTP-читання",
-          "availability": "прочитано без входу"
-        },
-        {
-          "url": "https://kadastrova-karta.com/dilyanka/6110100000:08:007:0044",
-          "label": "kadastrova-karta.com",
-          "sourceType": "cadastre",
-          "status": 200,
-          "checkedAt": "2026-09-24T09:02:58.530038+03:00",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "evidence": "sources/1d7ede0781734c35.txt",
-          "method": "Свіже публічне HTTP-читання",
-          "availability": "прочитано без входу"
-        }
-      ],
-      "setback": "На фото між стіною та огорожею є смуга двору/прохід. Усі межі тротуару не показані; ширину 1–2 м не встановлено.",
-      "setbackWidthMeters": null,
-      "setbackVerified": false,
-      "commission": "Невідомо, чи 5% із RIELTOR застосовуються до підтвердженої ціни $138 000. Якщо так, комісія становить $6 900, а загальна сума — $144 900; це треба окремо підтвердити.",
-      "duplicates": "RIELTOR 190 м² / 9 соток та DIM.RIA 94,5 м² / 3,29 сотки мають однакові фасад, дерево, кімнати й кухню. Це одна садиба з різним обсягом продажу; оголошення про половину не зараховано як цілий будинок.",
-      "mapEvidence": {
-        "checkedAt": "2026-09-24T09:46:23+03:00",
-        "newSatelliteVerification": false,
-        "attemptEvidence": "sources/browser-availability.json",
-        "historicalEvidence": "sources/history/baseline-before-run.json"
-      },
-      "satelliteReview": "23.09.2026 новий супутниковий огляд недоступний: браузер iab відсутній. Попередній висновок від 2026-09-21T22:52:42.377898+03:00: На двох садових ракурсах RIELTOR безпосередньо за садом видно багатоповерхову житлову забудову з вікнами/балконами в бік ділянки. Повторний супутниковий перегляд 24.09.2026 недоступний: браузер не надано. Старий висновок не є свіжим доказом.",
-      "verificationAttemptAt": "2026-09-23T09:27:42.486900+03:00",
-      "availabilityNote": "24.09.2026 прочитано хоча б одну детальну сторінку без позначки зняття. Неперевірені дублікати підписані окремо; фактична наявність без контакту не гарантована.",
-      "evidence": [
-        "sources/history/baseline-before-run.json",
-        "sources/live-pages.json",
-        "sources/photo-review-index.json",
-        "sources/2bcd46eacb2e2db7.txt",
-        "sources/0a9f2bd1cc582511.txt",
-        "sources/1d7ede0781734c35.txt"
-      ],
-      "zoning": "За довідковою кадастровою сторінкою 6110100000:08:007:0044: 02.01, присадибна ділянка, 2,69 сотки. Дані довідкові й можуть бути застарілими; потрібні офіційні витяги та інші кадастрові номери.",
-      "utilities": "Газовий котел, центральний водопровід і центральна каналізація заявлені.",
-      "photoReview": "24.09.2026 повторно переглянуто 31 локальне фото історичних галерей цілої садиби та частини. Поточні тексти RIELTOR і DOM.RIA прочитані. Позаду двору на фото видна багатоповерхова забудова; повна приватність не доведена.",
-      "photoSources": [
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264648fl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264662xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264671xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264656xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264669xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264675xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264693xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264694xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264692xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264700xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264712xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264715xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264721xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264724xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264728xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264729xl.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959184268832.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959182309866.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959180601100.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959179930138.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959183635038.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959184184173.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959186614235.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959187560289.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959187678457.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959188086678.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959188554614.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959190006792.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959191770457.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959192122311.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959192343964.jpg"
-      ],
-      "allCriteriaEvidence": {
-        "status": "не підтверджено",
-        "parcelBoundaryMeasurementsVerified": false,
-        "setbackWidthVerified": false,
-        "terrainElevationsVerified": false,
-        "suburbWalkingRoutesVerified": null
-      },
-      "rank": 1,
-      "number": 2,
-      "priceLabel": "$138 000 за цілий будинок + 9 соток",
-      "questions": "1) Чи входить у $138 000 вся садиба 190 м² і всі 9 соток одним продажем? 2) Які всі кадастрові номери входять у 9 соток? 3) Чи застосовується додаткова комісія 5% до $138 000? 4) Чи продаються обидві частини без сторонніх співвласників і спільних зон? 5) Чи є окремий автомобільний заїзд та ворота для всього об’єкта?",
-      "cadastreLinks": [
-        {
-          "number": "6110100000:08:007:0044",
-          "url": "https://kadastrova-karta.com/dilyanka/6110100000:08:007:0044",
-          "label": "6110100000:08:007:0044 · 2,69 сот.",
-          "checkedAt": "2026-09-24T09:02:58.530038+03:00",
-          "verified": true,
-          "evidence": "sources/1d7ede0781734c35.txt",
-          "referenceOnly": true
-        }
-      ],
-      "cadastreNote": "Відкрита сторінка прив’язує цю ділянку площею 2,69 сотки до Глибокої, 46. Це лише частина заявлених 9 соток: потрібно отримати всі кадастрові номери, які входять у продаж, і свіжі офіційні витяги.",
-      "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
-      "historicalMapEvidence": true,
-      "priceConflict": "Підтвердження користувача від 22.09: $138 000 за цілий будинок 190 м² і всі 9 соток. Свіжий RIELTOR 23.09: $143 000 + 5% ($150 150 разом). DIM.RIA: $68 000 за частину 94,5 м² / 3,29 сотки; це не ціна цілої садиби. Кадастр описує лише 2,69 сотки.",
-      "factsCheckedAt": "2026-09-24T09:46:23+03:00",
-      "photoEvidenceDate": "2026-09-23T09:27:42.486900+03:00",
-      "priceConfirmedByUserAt": "2026-09-22T18:36:33+03:00",
-      "userConfirmedFacts": {
-        "priceUsd": 138000,
-        "scope": "цілий будинок і 9 соток",
-        "confirmedAt": "2026-09-22T18:36:33+03:00"
-      },
-      "priceCurrency": "USD"
-    },
-    {
       "id": "vhai-lesi-34082264",
       "kind": "house",
       "district": "Великі Гаї",
@@ -905,7 +513,7 @@
       "areaConflict": "180 м² у 34082264; 250 м² у 33351994. Потрібен техпаспорт.",
       "priceConflict": "$89 000 + 5% проти $95 000 без комісії; це одночасні пропозиції, не доведена зміна ціни.",
       "rank": 6,
-      "number": 3
+      "number": 2
     },
     {
       "id": "unknown54",
@@ -1003,7 +611,7 @@
       ],
       "setback": "Два зовнішні фото показують зелений двір і господарські/житлові стіни за огорожею; вуличний тротуар не ідентифіковано. Відступ саме житлового будинку та його ширину не встановлено.",
       "kind": "house",
-      "number": 4,
+      "number": 3,
       "rank": 7,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -1161,7 +769,7 @@
       ],
       "setback": "На фото є двір і зелень; взаємне положення житлової стіни, тротуару та межі не дає виміру 1–2 м. Не підтверджено.",
       "kind": "house",
-      "number": 5,
+      "number": 4,
       "rank": 7,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -1591,7 +1199,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 6,
+      "number": 5,
       "rank": 0,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -1720,7 +1328,7 @@
       ],
       "setback": "Вулична огорожа / господарська споруда на фото стоїть майже біля краю дороги; житлову стіну й ширину її відступу ідентифікувати не вдалося. Потребує уточнення, чи обмеження стосується показаної споруди.",
       "kind": "house",
-      "number": 7,
+      "number": 6,
       "rank": 0,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21T22:52:42.377898+03:00",
@@ -2082,7 +1690,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 8,
+      "number": 7,
       "rank": 1,
       "landConflict": "3 сотки в картці RIELTOR, 3,5 сотки в описі. Збережено 3,5 як заявлений текст, не як кадастровий вимір.",
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
@@ -2251,7 +1859,7 @@
       ],
       "status": "Прочитана детальна сторінка з невизначеностями",
       "rank": 1,
-      "number": 9
+      "number": 8
     },
     {
       "id": "tatarska53",
@@ -2329,7 +1937,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 10,
+      "number": 9,
       "rank": 1,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -2671,7 +2279,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 11,
+      "number": 10,
       "rank": 1,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -2848,7 +2456,7 @@
         }
       },
       "kind": "house",
-      "number": 12,
+      "number": 11,
       "rank": 1,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -2958,7 +2566,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 13,
+      "number": 12,
       "rank": 1,
       "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -3003,6 +2611,400 @@
       "status": "Прочитана детальна сторінка з невизначеностями",
       "cadastreLinks": [],
       "priceCurrency": "USD"
+    },
+    {
+      "id": "hlyboka-46",
+      "kind": "house",
+      "district": "Східний",
+      "address": "Глибока, 46",
+      "price": 138000,
+      "area": 190,
+      "land": 9,
+      "status": "Відсіяно рішенням користувача; оголошення залишалося доступним під час перевірки 24.09.2026",
+      "tier": "відсіяно: ціна та масштаб ремонту",
+      "section": "excluded",
+      "reason": "Відсіяно за рішенням користувача 24.09.2026: $138 000 за цілий будинок уже перевищує бюджет, а очікуваний ремонт оцінено користувачем приблизно у половину вартості будинку (близько $69 000). Орієнтовно $207 000 до комісії та інших витрат — неприйнятний повний бюджет.",
+      "driveway": "RIELTOR.UA вказує асфальтований заїзд; у DIM.RIA зазначений гараж із підвалом. Окремі ворота та право заїзду для всього об’єкта слід перевірити на місці.",
+      "privacy": "23.09 повторний перегляд: на фото саду RIELTOR видно близьку багатоповерхову забудову з вікнами в його бік. Умова приватності не підтверджена.",
+      "rowHousing": "Не ряд однакових будинків. Сам будинок розділений на дві сім’ї з окремими входами; вимозі цілого будинку відповідає лише купівля обох частин одним об’єктом.",
+      "rail": "≈579 м від адресної точки до найближчої колії OSM; критерій 100 м виконується із запасом.",
+      "cemetery": "≈757 м від адресної точки до найближчої межі цвинтаря OSM.",
+      "terrain": "Адресна точка міститься всередині кварталу, не на роздоріжжі. На фото сад має помітний ухил; належність ділянки до низини без висотного обстеження не доведена.",
+      "condition": "Старий одноповерховий будинок 1970-х потребує масштабного ремонту. За оцінкою користувача, ремонт коштуватиме приблизно половину ціни будинку — близько $69 000; це не кошторис підрядника. Для всього об’єкта заявлено 190 м² / 9 соток; довідкова кадастрова сторінка показує лише одну ділянку 2,69 сотки.",
+      "location": "Точна адреса і координати наведені на RIELTOR.UA та збігаються з будівлею №46 в OpenStreetMap/Nominatim.",
+      "mapQuery": "Глибока 46, Тернопіль",
+      "coords": [
+        49.54907989501953,
+        25.61433982849121
+      ],
+      "centerKm": 1.5,
+      "numberKnown": true,
+      "mapPrecision": "точна адресна точка",
+      "sources": [
+        {
+          "url": "https://dom.ria.com/uk/realty-prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa-34461737.html",
+          "label": "dom.ria.com",
+          "sourceType": "detail",
+          "status": 200,
+          "checkedAt": "2026-09-24T09:02:05.958086+03:00",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "evidence": "sources/2bcd46eacb2e2db7.txt",
+          "method": "Свіже публічне HTTP-читання",
+          "availability": "прочитано без входу"
+        },
+        {
+          "url": "https://rieltor.ua/ternopol/houses-sale/view/12863697/",
+          "label": "rieltor.ua",
+          "sourceType": "detail",
+          "status": 200,
+          "checkedAt": "2026-09-24T09:02:57.354674+03:00",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "evidence": "sources/0a9f2bd1cc582511.txt",
+          "method": "Свіже публічне HTTP-читання",
+          "availability": "прочитано без входу"
+        },
+        {
+          "url": "https://kadastrova-karta.com/dilyanka/6110100000:08:007:0044",
+          "label": "kadastrova-karta.com",
+          "sourceType": "cadastre",
+          "status": 200,
+          "checkedAt": "2026-09-24T09:02:58.530038+03:00",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "evidence": "sources/1d7ede0781734c35.txt",
+          "method": "Свіже публічне HTTP-читання",
+          "availability": "прочитано без входу"
+        }
+      ],
+      "photos": [
+        "sources/photos/b7411943daad6e56b6b3.jpg",
+        "sources/photos/74f9875441c63beb838d.jpg",
+        "sources/photos/f3d3ce8ac2600b90005b.jpg",
+        "sources/photos/8c702a0bb843ff6df3e4.jpg",
+        "sources/photos/dff7c9d00eab86a14ef8.jpg",
+        "sources/photos/1318a0c2499130f612ac.jpg",
+        "sources/photos/467b41a6db590e7e5a95.jpg",
+        "sources/photos/623f4d501728b0ad4f40.jpg",
+        "sources/photos/8c6fe57549b9f236148e.jpg",
+        "sources/photos/bf214ec641a8f0e736a6.jpg",
+        "sources/photos/c68e2432cf421f7b6735.jpg",
+        "sources/photos/514365076bc469ca2266.jpg",
+        "sources/photos/19f485888baeb6926e3e.jpg",
+        "sources/photos/c5d4a3c7a828c5952822.jpg",
+        "sources/photos/26f96e0042184a92b13d.jpg",
+        "sources/photos/8c7935c66a0980111b33.jpg",
+        "sources/photos/a7aef8bfa3d0b9867846.jpg",
+        "sources/photos/e2f6f673ce27e3eb2ac6.jpg",
+        "sources/photos/c87151721595561feee7.jpg",
+        "sources/photos/f39a57b0cbcf73c3b5dd.jpg",
+        "sources/photos/fad1a2ea139473927fbc.jpg",
+        "sources/photos/537a8565710230a8faa6.jpg",
+        "sources/photos/c2f3a4aa800afd9e812d.jpg",
+        "sources/photos/046e3349c5fd059cdbc4.jpg",
+        "sources/photos/2199b1f6e6385dffd7a5.jpg",
+        "sources/photos/36c911b113048cdfd990.jpg",
+        "sources/photos/016642ab0184bad5eeab.jpg",
+        "sources/photos/d018c9fb9599ad628e70.jpg",
+        "sources/photos/91ea8f260b0b37fc6a02.jpg",
+        "sources/photos/956abd6829bc28023681.jpg",
+        "sources/photos/ebad7208a3b9ffe5a22d.jpg"
+      ],
+      "thumbnail": "sources/photos/b7411943daad6e56b6b3.jpg",
+      "checkedAt": "2026-09-24T09:46:23+03:00",
+      "availability": "live_page_readable",
+      "qualified_all_criteria": false,
+      "map": "https://www.google.com/maps/search/?api=1&query=%D0%93%D0%BB%D0%B8%D0%B1%D0%BE%D0%BA%D0%B0%2046%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+      "satellite": "https://www.google.com/maps/@49.54907989501953,25.61433982849121,18z/data=!3m1!1e3",
+      "measurements": {
+        "coords": [
+          49.54907989501953,
+          25.61433982849121
+        ],
+        "centerKm": 1.5,
+        "rail": {
+          "meters": 579,
+          "name": "Тернопіль - Гречани",
+          "url": "https://www.openstreetmap.org/way/260668829",
+          "coords": [
+            [
+              49.5437004,
+              25.6116606
+            ],
+            [
+              49.5459376,
+              25.6076598
+            ]
+          ],
+          "basis": "адресна точка",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T22:52:42.377898+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/baseline-before-run.json",
+          "originalEvidencePath": "sources/history/geo-features.json",
+          "historicalNote": "Історичний вимір; цього запуску не повторювався. Межу ділянки та вихід із двору не встановлено."
+        },
+        "cemetery": {
+          "meters": 757,
+          "name": "Військове кладовище",
+          "url": "https://www.openstreetmap.org/way/209268568",
+          "coords": [
+            [
+              49.5543395,
+              25.6075864
+            ],
+            [
+              49.5544109,
+              25.6075508
+            ],
+            [
+              49.5544442,
+              25.60771
+            ],
+            [
+              49.5543728,
+              25.6077456
+            ],
+            [
+              49.5543395,
+              25.6075864
+            ]
+          ],
+          "basis": "адресна точка",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T22:52:42.377898+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/baseline-before-run.json",
+          "originalEvidencePath": "sources/history/geo-features.json",
+          "historicalNote": "Історичний вимір; цього запуску не повторювався. Межу ділянки та вихід із двору не встановлено."
+        },
+        "stop": {
+          "meters": 140,
+          "name": "Вул. Малишка",
+          "url": "https://www.openstreetmap.org/node/3352862483",
+          "coords": [
+            [
+              49.5478603,
+              25.6138526
+            ]
+          ],
+          "basis": "адресна точка",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T22:52:42.377898+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/baseline-before-run.json",
+          "originalEvidencePath": "sources/history/geo-features.json",
+          "historicalNote": "Історичний вимір; цього запуску не повторювався. Межу ділянки та вихід із двору не встановлено."
+        },
+        "kindergarten": {
+          "meters": 447,
+          "name": "Ясла-садок № 29 \"Віночок\"",
+          "url": "https://www.openstreetmap.org/way/339271185",
+          "coords": [
+            [
+              49.5499629,
+              25.6080011
+            ],
+            [
+              49.5501201,
+              25.6083596
+            ],
+            [
+              49.5502228,
+              25.6083796
+            ],
+            [
+              49.5504125,
+              25.6081994
+            ],
+            [
+              49.5504748,
+              25.6083656
+            ],
+            [
+              49.55071,
+              25.6080191
+            ],
+            [
+              49.5505385,
+              25.6073302
+            ],
+            [
+              49.550289,
+              25.6075325
+            ],
+            [
+              49.5502436,
+              25.6074203
+            ],
+            [
+              49.5500838,
+              25.6075705
+            ],
+            [
+              49.5501253,
+              25.6077007
+            ],
+            [
+              49.5500149,
+              25.6078309
+            ],
+            [
+              49.5499629,
+              25.6080011
+            ]
+          ],
+          "basis": "адресна точка",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T22:52:42.377898+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/baseline-before-run.json",
+          "originalEvidencePath": "sources/history/geo-features.json",
+          "historicalNote": "Історичний вимір; цього запуску не повторювався. Межу ділянки та вихід із двору не встановлено."
+        }
+      },
+      "photoReviewDate": "2026-09-24T09:46:23+03:00",
+      "satelliteCheckedAt": "2026-09-21T22:52:42.377898+03:00",
+      "linkVerification": [
+        {
+          "url": "https://dom.ria.com/uk/realty-prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa-34461737.html",
+          "label": "dom.ria.com",
+          "sourceType": "detail",
+          "status": 200,
+          "checkedAt": "2026-09-24T09:02:05.958086+03:00",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "evidence": "sources/2bcd46eacb2e2db7.txt",
+          "method": "Свіже публічне HTTP-читання",
+          "availability": "прочитано без входу"
+        },
+        {
+          "url": "https://rieltor.ua/ternopol/houses-sale/view/12863697/",
+          "label": "rieltor.ua",
+          "sourceType": "detail",
+          "status": 200,
+          "checkedAt": "2026-09-24T09:02:57.354674+03:00",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "evidence": "sources/0a9f2bd1cc582511.txt",
+          "method": "Свіже публічне HTTP-читання",
+          "availability": "прочитано без входу"
+        },
+        {
+          "url": "https://kadastrova-karta.com/dilyanka/6110100000:08:007:0044",
+          "label": "kadastrova-karta.com",
+          "sourceType": "cadastre",
+          "status": 200,
+          "checkedAt": "2026-09-24T09:02:58.530038+03:00",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "evidence": "sources/1d7ede0781734c35.txt",
+          "method": "Свіже публічне HTTP-читання",
+          "availability": "прочитано без входу"
+        }
+      ],
+      "setback": "На фото між стіною та огорожею є смуга двору/прохід. Усі межі тротуару не показані; ширину 1–2 м не встановлено.",
+      "setbackWidthMeters": null,
+      "setbackVerified": false,
+      "commission": "Невідомо, чи 5% із RIELTOR застосовуються до підтвердженої ціни $138 000. Якщо так, комісія становить $6 900, а загальна сума — $144 900; це треба окремо підтвердити.",
+      "duplicates": "RIELTOR 190 м² / 9 соток та DIM.RIA 94,5 м² / 3,29 сотки мають однакові фасад, дерево, кімнати й кухню. Це одна садиба з різним обсягом продажу; оголошення про половину не зараховано як цілий будинок.",
+      "mapEvidence": {
+        "checkedAt": "2026-09-24T09:46:23+03:00",
+        "newSatelliteVerification": false,
+        "attemptEvidence": "sources/browser-availability.json",
+        "historicalEvidence": "sources/history/baseline-before-run.json"
+      },
+      "satelliteReview": "23.09.2026 новий супутниковий огляд недоступний: браузер iab відсутній. Попередній висновок від 2026-09-21T22:52:42.377898+03:00: На двох садових ракурсах RIELTOR безпосередньо за садом видно багатоповерхову житлову забудову з вікнами/балконами в бік ділянки. Повторний супутниковий перегляд 24.09.2026 недоступний: браузер не надано. Старий висновок не є свіжим доказом.",
+      "verificationAttemptAt": "2026-09-23T09:27:42.486900+03:00",
+      "availabilityNote": "24.09.2026 прочитано хоча б одну детальну сторінку без позначки зняття. Неперевірені дублікати підписані окремо; фактична наявність без контакту не гарантована.",
+      "evidence": [
+        "sources/history/baseline-before-run.json",
+        "sources/live-pages.json",
+        "sources/photo-review-index.json",
+        "sources/2bcd46eacb2e2db7.txt",
+        "sources/0a9f2bd1cc582511.txt",
+        "sources/1d7ede0781734c35.txt"
+      ],
+      "zoning": "За довідковою кадастровою сторінкою 6110100000:08:007:0044: 02.01, присадибна ділянка, 2,69 сотки. Дані довідкові й можуть бути застарілими; потрібні офіційні витяги та інші кадастрові номери.",
+      "utilities": "Газовий котел, центральний водопровід і центральна каналізація заявлені.",
+      "photoReview": "24.09.2026 повторно переглянуто 31 локальне фото історичних галерей цілої садиби та частини. Поточні тексти RIELTOR і DOM.RIA прочитані. Позаду двору на фото видна багатоповерхова забудова; повна приватність не доведена.",
+      "photoSources": [
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264648fl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264662xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264671xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264656xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264669xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264675xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264693xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264694xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264692xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264700xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264712xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264715xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264721xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264724xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264728xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-ternopol-vostochnyy-glubokaya-ulitsa__337264729xl.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959184268832.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959182309866.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959180601100.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959179930138.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959183635038.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959184184173.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959186614235.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959187560289.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959187678457.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959188086678.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959188554614.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959190006792.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959191770457.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959192122311.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1869959192343964.jpg"
+      ],
+      "allCriteriaEvidence": {
+        "status": "не підтверджено",
+        "parcelBoundaryMeasurementsVerified": false,
+        "setbackWidthVerified": false,
+        "terrainElevationsVerified": false,
+        "suburbWalkingRoutesVerified": null
+      },
+      "rank": 1,
+      "number": 13,
+      "priceLabel": "$138 000 за цілий будинок + 9 соток",
+      "questions": "1) Чи входить у $138 000 вся садиба 190 м² і всі 9 соток одним продажем? 2) Які всі кадастрові номери входять у 9 соток? 3) Чи застосовується додаткова комісія 5% до $138 000? 4) Чи продаються обидві частини без сторонніх співвласників і спільних зон? 5) Чи є окремий автомобільний заїзд та ворота для всього об’єкта?",
+      "cadastreLinks": [
+        {
+          "number": "6110100000:08:007:0044",
+          "url": "https://kadastrova-karta.com/dilyanka/6110100000:08:007:0044",
+          "label": "6110100000:08:007:0044 · 2,69 сот.",
+          "checkedAt": "2026-09-24T09:02:58.530038+03:00",
+          "verified": true,
+          "evidence": "sources/1d7ede0781734c35.txt",
+          "referenceOnly": true
+        }
+      ],
+      "cadastreNote": "Відкрита сторінка прив’язує цю ділянку площею 2,69 сотки до Глибокої, 46. Це лише частина заявлених 9 соток: потрібно отримати всі кадастрові номери, які входять у продаж, і свіжі офіційні витяги.",
+      "previousCheckedAt": "2026-09-22T09:18:15.677329+03:00",
+      "historicalMapEvidence": true,
+      "priceConflict": "Підтвердження користувача від 22.09: $138 000 за цілий будинок 190 м² і всі 9 соток. Свіжий RIELTOR 23.09: $143 000 + 5% ($150 150 разом). DIM.RIA: $68 000 за частину 94,5 м² / 3,29 сотки; це не ціна цілої садиби. Кадастр описує лише 2,69 сотки.",
+      "factsCheckedAt": "2026-09-24T09:46:23+03:00",
+      "photoEvidenceDate": "2026-09-23T09:27:42.486900+03:00",
+      "priceConfirmedByUserAt": "2026-09-22T18:36:33+03:00",
+      "userConfirmedFacts": {
+        "priceUsd": 138000,
+        "scope": "цілий будинок і 9 соток",
+        "confirmedAt": "2026-09-22T18:36:33+03:00"
+      },
+      "priceCurrency": "USD",
+      "excludedByUserAt": "2026-09-24",
+      "userDecision": "Не розглядати далі: надто висока ціна та очікуваний ремонт близько 50% вартості будинку."
     },
     {
       "id": "hlyboka110",
@@ -49232,11 +49234,11 @@
       "geometryCheckedAt": "2026-09-24T09:46:23+03:00"
     }
   ],
-  "summary": "24.09.2026: 5 пріоритетних/актуальних сторінок із невизначеностями; додано 13 нових будинків і одну ділянку до другої таблиці. Виявлено додаткові дублікати та конфлікти площ, цін і адрес. Повністю підтверджених відповідностей немає.",
+  "summary": "24.09.2026: 4 пріоритетні/актуальні сторінки з невизначеностями; 82 позиції відсіяно або поки не включено. Додано 13 нових будинків і одну ділянку до другої таблиці; виявлено додаткові дублікати та конфлікти площ, цін і адрес. Повністю підтверджених відповідностей немає.",
   "researchDate": "2026-09-24",
   "photoReviewNote": "24.09.2026 переглянуто поточні галереї перспективних нових об’єктів і дублікатів; для частини старих карток повторно оглянуто збережені фото з явною історичною датою. Аватари та рекомендації не включалися. Повний перелік доступних файлів і контактні аркуші — sources/photo-review-index.json. Фактична ширина відступу не оцінювалася за перспективою фото.",
   "landSummary": "Нова ділянка 6110100000:17:001:0828 пропонується за $6 500 / $8 000; у кадастровому блоці садівництво 01.05, електрика лише поруч. Пронятинська ділянка 7 соток / $20 000 має нове читабельне джерело: заявлені трифазна електрика й фундамент, газ поруч; точний двір і обидва маршрути 500 м не доведені. 5 або 5,6 сотки не прирівнюються до 6. Готових до житлового будівництва ділянок з усіма підтвердженими умовами немає.",
-  "decisionSummary": "Студинського, 6 залишається пріоритетом користувача; ціна $110 000 без комісії, але кутове положення, висотки, відступ і межі потребують доказів. Великі Гаї, Лесі Українки: знайдено дубль із №16, 250 м² і $95 000 проти 180 м² і $89 000 + 5%; це одна садиба. Глибока, 46 збережена як раніше погоджений виняток: ціна цілого будинку вища за ліміт, пропозиція частини за $68 000 не підміняє ціну цілого.",
+  "decisionSummary": "Студинського, 6 залишається пріоритетом користувача; ціна $110 000 без комісії, але кутове положення, висотки, відступ і межі потребують доказів. Великі Гаї, Лесі Українки: знайдено дубль із №16, 250 м² і $95 000 проти 180 м² і $89 000 + 5%; це одна садиба. Глибока, 46 остаточно відсіяна рішенням користувача: $138 000 плюс очікуваний ремонт близько $69 000 дають орієнтовний повний бюджет близько $207 000 до комісії.",
   "coverageLimitations": [
     "DIM.RIA: запитані сторінки 1–3 Тернополя, Великих Гаїв, Підгороднього, Кутківців і Пронятина. На окремих каталогах пізні сторінки повторюють попередні. Це охоплення доступної видачі, не всіх оголошень порталу.",
     "Flatfy: прочитана доступна видача 1–2 (41 позиція); page=3 повторює першу. LUN, RIELTOR, ВІСОН, земельні розділи перевірені в межах доступних сторінок. Для LUN Підгороднього не зараховано Дніпропетровську область.",
