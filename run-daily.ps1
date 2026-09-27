@@ -39,6 +39,10 @@ try {
         if ((Get-Item -LiteralPath $htmlReport).Length -lt 500) { throw 'The generated HTML report is unexpectedly short.' }
         $reportData = Get-Content -LiteralPath $jsonReport -Raw -Encoding UTF8 | ConvertFrom-Json
         if (-not $reportData.listings -or -not $reportData.sources) { throw 'The report lacks listings or source coverage; the previous report is preserved.' }
+        $overBudgetHouses = @($reportData.listings | Where-Object {
+            $_.kind -ne 'land' -and $_.price -gt 110000 -and ($_.section -eq 'active' -or $_.qualified_all_criteria -eq $true)
+        })
+        if ($overBudgetHouses.Count -gt 0) { throw 'A house above the USD 110000 budget is active or qualified; the previous report is preserved.' }
         $htmlText = Get-Content -LiteralPath $htmlReport -Raw -Encoding UTF8
         if ($htmlText -notmatch 'Актуальні сторінки' -or $htmlText -notmatch 'Що відсіяно або не включено' -or $htmlText -notmatch 'id="map"') { throw 'The report lacks the required tables or map.' }
         $previousBaseline = Join-Path $taskRoot 'baseline.json'

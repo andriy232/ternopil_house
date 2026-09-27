@@ -13,8 +13,8 @@ OUT=Path(a.out);OUT.mkdir(parents=True,exist_ok=True)
 session=requests.Session()
 session.headers.update({'User-Agent':'TernopilHouseSearch/1.0 (personal property monitoring)'})
 CATALOGS=[
-'https://flatfy.ua/uk/search?geo_id=10023304&has_eoselia=false&land_area_min=3&page=1&price_max=120000&section_id=3&sort=relevance',
-'https://flatfy.ua/uk/search?geo_id=10023304&has_eoselia=false&land_area_min=3&page=2&price_max=120000&section_id=3&sort=relevance',
+'https://flatfy.ua/uk/search?geo_id=10023304&has_eoselia=false&land_area_min=3&page=1&price_max=110000&section_id=3&sort=relevance',
+'https://flatfy.ua/uk/search?geo_id=10023304&has_eoselia=false&land_area_min=3&page=2&price_max=110000&section_id=3&sort=relevance',
 'https://dom.ria.com/uk/prodazha-domov/ternopol/',
 'https://dom.ria.com/uk/prodazha-domov/ternopol/?page=2',
 'https://dom.ria.com/uk/prodazha-domov/ternopol/?page=3',
