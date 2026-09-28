@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-09-28T09:27:18+03:00",
+  "method": "web.run open: публічна індексована копія, Crawled 4 days ago",
+  "olxCorner": {
+    "id": "IDOoUlA",
+    "priceUSD": 110000,
+    "area": 80,
+    "landDescription": 10.5,
+    "landField": 10,
+    "commission": "Без комісії",
+    "cadastre": "6110100000:10:005:0019",
+    "status": "Детальна сторінка читабельна через вебіндекс; origin HTTP 403"
+  },
+  "olxMostova": {
+    "id": "IDU2bKQ",
+    "priceUSD": 120000,
+    "area": 120,
+    "land": 4.5,
+    "status": "Детальна сторінка читабельна через вебіндекс; origin HTTP 403"
+  },
+  "limitations": "Не є свіжою прямою відповіддю OLX. Не підтверджує фактичної непроданості."
+}
