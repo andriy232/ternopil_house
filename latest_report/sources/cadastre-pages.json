@@ -1,0 +1,1480 @@
+[
+  {
+    "url": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:4329",
+    "id": "extra-a223a48447251dd1",
+    "checkedAt": "2026-09-30T09:19:13.273126+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": 200,
+    "finalUrl": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:4329",
+    "title": "6125286900:02:001:4329 | Кадастрова карта України",
+    "links": [
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fland_sales%2Fnew%3Fland_sale%255Bcadnum%255D%3D6125286900%253A02%253A001%253A4329",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Зберегти до колекції"
+      },
+      {
+        "url": "https://e.land.gov.ua/back/cadaster/?cad_num=6125286900:02:001:4329",
+        "text": "Відкрити на сайті ДЗК"
+      },
+      {
+        "url": "https://www.google.com/maps/dir/?api=1&destination=49.546993895723574,25.516691559329498",
+        "text": "Прокласти маршрут"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/download_credits",
+        "text": "Докупити завантаження"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Перейти до преміум"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Додати компанію"
+      },
+      {
+        "url": "https://t.me/share/url?url=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A4329&text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A4329.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.",
+        "text": "Поділитися земельною ділянкою у Telegram"
+      },
+      {
+        "url": "viber://forward?text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A4329.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.%20%D0%94%D0%B5%D1%82%D0%B0%D0%BB%D1%96%20%D0%B7%D0%B0%20%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F%D0%BC%3A%20https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A4329&link=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A4329",
+        "text": "Поділитися земельною ділянкою у Viber image/svg+xml"
+      },
+      {
+        "url": "fb-messenger://share?link=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A4329&text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A4329.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.",
+        "text": "Поділитися земельною ділянкою у Messenger"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans?source=premium_modal",
+        "text": "Переглянути пакети"
+      },
+      {
+        "url": "https://kadastrova-karta.com/terms",
+        "text": "умовами оферти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/privacy",
+        "text": "політикою конфіденційності"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти або створити акаунт"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Головна"
+      },
+      {
+        "url": "https://kadastrova-karta.com/listings",
+        "text": "Оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Компанії"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/advertisements/new",
+        "text": "Додати рекламу"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/land_sales/new",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Отримати преміум доступ -61%"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Вхід"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Контакти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Контакти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Кадастрова карта України логотип"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Компанія в каталозі Безкоштовно Вас знайдуть власники ділянок, які шукають виконавця поруч"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fadvertisements%2Fnew",
+        "text": "Ваша реклама на карті Вас побачить кожен, хто дивиться ділянки у вашому районі"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fdilyanka%2F6125286900%3A02%3A001%3A4329",
+        "text": "Зареєструйтеся"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans?source=esri_session_limit_banner",
+        "text": "Активуйте преміум"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Отримати преміум доступ -61%"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Головна"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Каталог компаній"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/companies/new",
+        "text": "Додати свою компанію"
+      },
+      {
+        "url": "https://kadastrova-karta.com/listings",
+        "text": "Оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fland_sales%2Fnew",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/reklama",
+        "text": "Реклама"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Тарифи"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Зв'язатися з нами"
+      },
+      {
+        "url": "https://kadastrova-karta.com/terms",
+        "text": "Публічна оферта"
+      },
+      {
+        "url": "https://kadastrova-karta.com/privacy",
+        "text": "Політика конфіденційності"
+      },
+      {
+        "url": "https://e.land.gov.ua",
+        "text": "e.land.gov.ua"
+      },
+      {
+        "url": "https://soilgrids.org",
+        "text": ""
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Напишіть нам →"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Звʼязатися з нами"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fadvertisements%2Fnew",
+        "text": "Додати рекламу"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Додати компанію"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Каталог компаній"
+      }
+    ],
+    "images": [
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/cash-6f7b90a6.svg",
+      "https://kadastrova-karta.com/assets/icons/legend/coin-64b25887.svg"
+    ],
+    "structured": [],
+    "text": "6125286900:02:001:4329 | Кадастрова карта України\nДеталі ділянки\nПродаєте цю ділянку? Створіть у нас оголошення!\nДодати оголошення\nБезкоштовне оголошення на карті після перевірки\nРозширений пошук ділянок поруч\nNew\nЗберегти до колекції\nКопіювати посилання на ділянку\nЗберегти до закладок\nВідкрити на сайті ДЗК\nПрокласти маршрут\nЗавантажити GeoJSON\n5/міс\nЗавантажити KML\n5/міс\nЗареєструйтесь для завантажень\nБезкоштовно: до 5 файлів на місяць. Преміум: до 100 за поточну підписку.\nУвійти\nЛіміт завантажень вичерпано\nПреміум-доступ дозволяє завантажувати до 100 файлів за поточну підписку. Куплені окремо завантаження діють 1 рік.\nДокупити завантаження\nПерейти до преміум\nЗакрити\nclose\nУвійдіть, щоб завантажити\nЗавантаження GeoJSON та KML доступне зареєстрованим користувачам. Увійдіть або зареєструйтесь, щоб отримати свій файл.\nПреміум: до 100 завантажень за поточну підписку\nРозблокуйте розширений ліміт та інші преміум-можливості.\nУвійти\nЗакрити\nclose\nКадастровий номер:\n6125286900:02:001:4329\nПлоща:\n0.1053 га\nФорма власності:\nПриватна власність\nЦільове призначення:\nB.02.01\nВид використання:\nДля будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка)\nКатегорія:\nЗемлі житлової та громадської забудови\nАдреса:\nТернопільська область, Тернопільський район, с.Підгородне, вулиця Юркевича, 2\nПн\nПд\nЗх\nСх\nА\nБ\nВ\nГ\nПлоща:\n0.1053 га\nПериметр:\n133 м\nА → Б\n26 м\nБ → В\n40 м\nВ → Г\n26 м\nГ → А\n40 м\nВи професійно працюєте з землею?\nДодайте свою компанію в каталог — клієнти, які шукають геодезію, оцінку чи юридичні послуги, знайдуть вас тут.\nДодати компанію\nQR-код ділянки:\nЗавантажити QR-код\nПоділитися:\nПоділитися земельною ділянкою у Telegram\nПоділитися земельною ділянкою у Viber\nimage/svg+xml\nПоділитися земельною ділянкою у Messenger\n⭐️ Преміум доступ\nРозблокуйте всі можливості карти\nУ вас є увімкнені преміум-фільтри. Для продовження роботи з ними, будь ласка, придбайте преміум-доступ.\nGoogle Maps та інші фільтри\nДетальні супутникові знімки високої якості від Google, фільтрування по категоріях земель, формам власності та іншим параметрам\nМаксимальна чіткість\nРозглядайте межі земельних ділянок з найвищою точністю\nШвидкість блискавки\nМиттєве завантаження шарів без затримок\nПереглянути пакети\nОплачуючи, ви погоджуєтесь з\nумовами оферти\nта\nполітикою конфіденційності\nclose\nПотрібен обліковий запис\nУвійдіть або створіть безкоштовний акаунт, щоб продовжити\nПовний доступ до функції\nУвійдіть, щоб користуватися всіма можливостями кадастрової карти.\nБезкоштовна реєстрація\nСтворіть акаунт за хвилину — це безкоштовно.\nУвійти або створити акаунт\nclose\n🚧 Шар тимчасово недоступний\nМи працюємо над поверненням цього шару в роботу\nНа жаль, фільтр ще не працює\nСервіс, який надає цей шар, тимчасово припинив свою роботу. Як тільки все запрацює — фільтр з'явиться автоматично.\nДякуємо за інтерес\nВаша зацікавленість допомагає нам зрозуміти важливість цієї функції для вас — це впливає на пріоритет запуску.\nЗрозуміло\nclose\nКадастрова карта України логотип\nКомпанія в каталозі\nБезкоштовно\nВас знайдуть власники ділянок, які шукають виконавця поруч\nНе показувати більше\nВаша реклама на карті\nВас побачить кожен, хто дивиться ділянки у вашому районі\nНе показувати більше\nВи використали всі 10 сесій цього місяця.\n        Нові сесії будуть доступні після 01 жовт., 00:00.\nБажаєте отримати ще 5 сесій?\nЗареєструйтеся\n.\nАктивуйте преміум\n,\n        щоб вмикати шар Супутник (ArcGIS) без обмежень.\nПереглянуті ділянки\nЗбережені ділянки\nМеню\n6125286900:02:001:4329\nФільтри\nСкинути фільтри\nНе показувати підказку про ділянку при наведенні\nБазові шари\nФонові зображення\nGoogle Maps (супутник)\n⭐️ Розблокувати\nGoogle Maps (рельєф)\n⭐️ Розблокувати\nGoogle Maps (дороги)\n⭐️ Розблокувати\nСупутник (ArcGIS)\n(10/10)\nҐрунти України\nOpenTopoMap (рельєф)\n⭐️ Розблокувати\nOpenStreetMap\nВекторні шари\nПлоща (га)\nдо 6 сот\nдо 10 сот\nдо 30 сот\nвід 10 до 30 сот\nвід 30 до 50 сот\nвід 50сот до 1 га\nбільше 1 га\n⭐️ Розблокувати\nЦіна\nUAH\nUSD\nEUR\nдо 100 тис грн\nдо 500 тис грн\nдо 1 млн грн\nдо 5 млн грн\nбільше 5 млн грн\nдо 5 тис$\nдо 20 тис$\nдо 50 тис$\nдо 100 тис$\nбільше 100 тис$\nдо 5 тис€\nдо 20 тис€\nдо 50 тис€\nдо 100 тис€\nбільше 100 тис€\nЗемельний кадастр\nІндексна карта\nДілянки\nДетальні фільтри\nФорма власності\nДержавна власність\nКомунальна власність\nПриватна власність\nНе визначено\nКатегорія земель\nВодний фонд\nЖитлова та громадська забудова\nІсторико-культурні ділянки\nЛісове господарство\nОздоровчого призначення\nПриродоохоронного призначення\nПромисловості, транспорту, оборони\nРекреаційного призначення\nСільськогосподарського призначення\nІнше\nПризначення\n*Показуються лише вибрані призначення\nВибрати всі\n|\nСкинути всі\n⭐️ Розблокувати\nПродажі земель\nЗемельні аукціони\nДетальні фільтри\nТип аукціону\nОренда землі\nПродаж землі\nІнший тип\nВибрати всі\n|\nСкинути всі\nДовкілля\nЗаповідний фонд\nАдміністративний устрій\nМежі областей\nМежі районів\nМежі громад\nНе знайшли потрібний фільтр?\nНапишіть нам →\nФільтр\nФільтр\nВи можете використовувати фільтри для пошуку необхідних вам ділянок чи змінювати налаштування карти.\nПреміум доступ\nЗвʼязатися з нами\nКарта сайту\nКопіювати координати\nПрокласти маршрут\nРозширений пошук ділянок навколо\nВиміряти відстань до ділянки\nВиміряти відстань до точки\nУмовні позначення\nДержавна / комунальна власність\nПриватна власність\nФорма власності невідома\nВибрана ділянка\nВідвідана ділянка\nОренда землі\nПродаж землі\nІнший тип аукціону\nОголошення про продаж\nТОП оголошення про продаж\nПрибрати виділення\nВимірювання\nGeoJSON\nНамалюйте фігуру на карті\nСписок ділянок\nДо 5 номерів за раз, по одному в рядку або через кому.\n          Преміум — до 500.\nСкинути\nПоказати\nclose\nДодати рекламу\nДодати компанію\nКаталог компаній\nКлікніть або перетягніть іконку на карту\nКлікніть на карті, щоб поставити іконку\nLoading...",
+    "evidence": "sources/extra-a223a48447251dd1.txt"
+  },
+  {
+    "url": "https://kadastrova-karta.com/dilyanka/6125286900:01:001:3421",
+    "id": "extra-3f9b8f82c299c01d",
+    "checkedAt": "2026-09-30T09:19:13.273126+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": 200,
+    "finalUrl": "https://kadastrova-karta.com/dilyanka/6125286900:01:001:3421",
+    "title": "6125286900:01:001:3421 | Кадастрова карта України",
+    "links": [
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fland_sales%2Fnew%3Fland_sale%255Bcadnum%255D%3D6125286900%253A01%253A001%253A3421",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Зберегти до колекції"
+      },
+      {
+        "url": "https://e.land.gov.ua/back/cadaster/?cad_num=6125286900:01:001:3421",
+        "text": "Відкрити на сайті ДЗК"
+      },
+      {
+        "url": "https://www.google.com/maps/dir/?api=1&destination=49.54875457882769,25.52971613277211",
+        "text": "Прокласти маршрут"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/download_credits",
+        "text": "Докупити завантаження"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Перейти до преміум"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Додати компанію"
+      },
+      {
+        "url": "https://t.me/share/url?url=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A01%3A001%3A3421&text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A01%3A001%3A3421.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.",
+        "text": "Поділитися земельною ділянкою у Telegram"
+      },
+      {
+        "url": "viber://forward?text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A01%3A001%3A3421.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.%20%D0%94%D0%B5%D1%82%D0%B0%D0%BB%D1%96%20%D0%B7%D0%B0%20%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F%D0%BC%3A%20https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A01%3A001%3A3421&link=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A01%3A001%3A3421",
+        "text": "Поділитися земельною ділянкою у Viber image/svg+xml"
+      },
+      {
+        "url": "fb-messenger://share?link=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A01%3A001%3A3421&text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A01%3A001%3A3421.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.",
+        "text": "Поділитися земельною ділянкою у Messenger"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans?source=premium_modal",
+        "text": "Переглянути пакети"
+      },
+      {
+        "url": "https://kadastrova-karta.com/terms",
+        "text": "умовами оферти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/privacy",
+        "text": "політикою конфіденційності"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти або створити акаунт"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Головна"
+      },
+      {
+        "url": "https://kadastrova-karta.com/listings",
+        "text": "Оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Компанії"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/advertisements/new",
+        "text": "Додати рекламу"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/land_sales/new",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Отримати преміум доступ -61%"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Вхід"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Контакти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Контакти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Кадастрова карта України логотип"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Компанія в каталозі Безкоштовно Вас знайдуть власники ділянок, які шукають виконавця поруч"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fadvertisements%2Fnew",
+        "text": "Ваша реклама на карті Вас побачить кожен, хто дивиться ділянки у вашому районі"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fdilyanka%2F6125286900%3A01%3A001%3A3421",
+        "text": "Зареєструйтеся"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans?source=esri_session_limit_banner",
+        "text": "Активуйте преміум"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Отримати преміум доступ -61%"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Головна"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Каталог компаній"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/companies/new",
+        "text": "Щоб вас знаходили клієнти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/listings",
+        "text": "Оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fland_sales%2Fnew",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/reklama",
+        "text": "Реклама"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Тарифи"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Зв'язатися з нами"
+      },
+      {
+        "url": "https://kadastrova-karta.com/terms",
+        "text": "Публічна оферта"
+      },
+      {
+        "url": "https://kadastrova-karta.com/privacy",
+        "text": "Політика конфіденційності"
+      },
+      {
+        "url": "https://e.land.gov.ua",
+        "text": "e.land.gov.ua"
+      },
+      {
+        "url": "https://soilgrids.org",
+        "text": ""
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Напишіть нам →"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Звʼязатися з нами"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fadvertisements%2Fnew",
+        "text": "Додати рекламу"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Додати компанію"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Каталог компаній"
+      }
+    ],
+    "images": [
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/cash-6f7b90a6.svg",
+      "https://kadastrova-karta.com/assets/icons/legend/coin-64b25887.svg"
+    ],
+    "structured": [],
+    "text": "6125286900:01:001:3421 | Кадастрова карта України\nДеталі ділянки\nПродаєте цю ділянку? Створіть у нас оголошення!\nДодати оголошення\nБезкоштовне оголошення на карті після перевірки\nРозширений пошук ділянок поруч\nNew\nЗберегти до колекції\nКопіювати посилання на ділянку\nЗберегти до закладок\nВідкрити на сайті ДЗК\nПрокласти маршрут\nЗавантажити GeoJSON\n5/міс\nЗавантажити KML\n5/міс\nЗареєструйтесь для завантажень\nБезкоштовно: до 5 файлів на місяць. Преміум: до 100 за поточну підписку.\nУвійти\nЛіміт завантажень вичерпано\nПреміум-доступ дозволяє завантажувати до 100 файлів за поточну підписку. Куплені окремо завантаження діють 1 рік.\nДокупити завантаження\nПерейти до преміум\nЗакрити\nclose\nУвійдіть, щоб завантажити\nЗавантаження GeoJSON та KML доступне зареєстрованим користувачам. Увійдіть або зареєструйтесь, щоб отримати свій файл.\nПреміум: до 100 завантажень за поточну підписку\nРозблокуйте розширений ліміт та інші преміум-можливості.\nУвійти\nЗакрити\nclose\nКадастровий номер:\n6125286900:01:001:3421\nПлоща:\n0.1 га\nФорма власності:\nПриватна власність\nЦільове призначення:\nA.01.05\nВид використання:\nДля індивідуального садівництва\nКатегорія:\nЗемлі сільськогосподарського призначення\nАдреса:\nТернопільська область, Тернопільський район, Підгороднянська сільська рада\nПн\nПд\nЗх\nСх\nА\nБ\nВ\nГ\nПлоща:\n0.1 га\nПериметр:\n129 м\nА → Б\n25 м\nБ → В\n39 м\nВ → Г\n25 м\nГ → А\n39 м\nВи професійно працюєте з землею?\nДодайте свою компанію в каталог — клієнти, які шукають геодезію, оцінку чи юридичні послуги, знайдуть вас тут.\nДодати компанію\nQR-код ділянки:\nЗавантажити QR-код\nПоділитися:\nПоділитися земельною ділянкою у Telegram\nПоділитися земельною ділянкою у Viber\nimage/svg+xml\nПоділитися земельною ділянкою у Messenger\n⭐️ Преміум доступ\nРозблокуйте всі можливості карти\nУ вас є увімкнені преміум-фільтри. Для продовження роботи з ними, будь ласка, придбайте преміум-доступ.\nGoogle Maps та інші фільтри\nДетальні супутникові знімки високої якості від Google, фільтрування по категоріях земель, формам власності та іншим параметрам\nМаксимальна чіткість\nРозглядайте межі земельних ділянок з найвищою точністю\nШвидкість блискавки\nМиттєве завантаження шарів без затримок\nПереглянути пакети\nОплачуючи, ви погоджуєтесь з\nумовами оферти\nта\nполітикою конфіденційності\nclose\nПотрібен обліковий запис\nУвійдіть або створіть безкоштовний акаунт, щоб продовжити\nПовний доступ до функції\nУвійдіть, щоб користуватися всіма можливостями кадастрової карти.\nБезкоштовна реєстрація\nСтворіть акаунт за хвилину — це безкоштовно.\nУвійти або створити акаунт\nclose\n🚧 Шар тимчасово недоступний\nМи працюємо над поверненням цього шару в роботу\nНа жаль, фільтр ще не працює\nСервіс, який надає цей шар, тимчасово припинив свою роботу. Як тільки все запрацює — фільтр з'явиться автоматично.\nДякуємо за інтерес\nВаша зацікавленість допомагає нам зрозуміти важливість цієї функції для вас — це впливає на пріоритет запуску.\nЗрозуміло\nclose\nКадастрова карта України логотип\nКомпанія в каталозі\nБезкоштовно\nВас знайдуть власники ділянок, які шукають виконавця поруч\nНе показувати більше\nВаша реклама на карті\nВас побачить кожен, хто дивиться ділянки у вашому районі\nНе показувати більше\nВи використали всі 10 сесій цього місяця.\n        Нові сесії будуть доступні після 01 жовт., 00:00.\nБажаєте отримати ще 5 сесій?\nЗареєструйтеся\n.\nАктивуйте преміум\n,\n        щоб вмикати шар Супутник (ArcGIS) без обмежень.\nПереглянуті ділянки\nЗбережені ділянки\nМеню\n6125286900:01:001:3421\nФільтри\nСкинути фільтри\nНе показувати підказку про ділянку при наведенні\nБазові шари\nФонові зображення\nGoogle Maps (супутник)\n⭐️ Розблокувати\nGoogle Maps (рельєф)\n⭐️ Розблокувати\nGoogle Maps (дороги)\n⭐️ Розблокувати\nСупутник (ArcGIS)\n(10/10)\nҐрунти України\nOpenTopoMap (рельєф)\n⭐️ Розблокувати\nOpenStreetMap\nВекторні шари\nПлоща (га)\nдо 6 сот\nдо 10 сот\nдо 30 сот\nвід 10 до 30 сот\nвід 30 до 50 сот\nвід 50сот до 1 га\nбільше 1 га\n⭐️ Розблокувати\nЦіна\nUAH\nUSD\nEUR\nдо 100 тис грн\nдо 500 тис грн\nдо 1 млн грн\nдо 5 млн грн\nбільше 5 млн грн\nдо 5 тис$\nдо 20 тис$\nдо 50 тис$\nдо 100 тис$\nбільше 100 тис$\nдо 5 тис€\nдо 20 тис€\nдо 50 тис€\nдо 100 тис€\nбільше 100 тис€\nЗемельний кадастр\nІндексна карта\nДілянки\nДетальні фільтри\nФорма власності\nДержавна власність\nКомунальна власність\nПриватна власність\nНе визначено\nКатегорія земель\nВодний фонд\nЖитлова та громадська забудова\nІсторико-культурні ділянки\nЛісове господарство\nОздоровчого призначення\nПриродоохоронного призначення\nПромисловості, транспорту, оборони\nРекреаційного призначення\nСільськогосподарського призначення\nІнше\nПризначення\n*Показуються лише вибрані призначення\nВибрати всі\n|\nСкинути всі\n⭐️ Розблокувати\nПродажі земель\nЗемельні аукціони\nДетальні фільтри\nТип аукціону\nОренда землі\nПродаж землі\nІнший тип\nВибрати всі\n|\nСкинути всі\nДовкілля\nЗаповідний фонд\nАдміністративний устрій\nМежі областей\nМежі районів\nМежі громад\nНе знайшли потрібний фільтр?\nНапишіть нам →\nФільтр\nФільтр\nВи можете використовувати фільтри для пошуку необхідних вам ділянок чи змінювати налаштування карти.\nПреміум доступ\nЗвʼязатися з нами\nКарта сайту\nКопіювати координати\nПрокласти маршрут\nРозширений пошук ділянок навколо\nВиміряти відстань до ділянки\nВиміряти відстань до точки\nУмовні позначення\nДержавна / комунальна власність\nПриватна власність\nФорма власності невідома\nВибрана ділянка\nВідвідана ділянка\nОренда землі\nПродаж землі\nІнший тип аукціону\nОголошення про продаж\nТОП оголошення про продаж\nПрибрати виділення\nВимірювання\nGeoJSON\nНамалюйте фігуру на карті\nСписок ділянок\nДо 5 номерів за раз, по одному в рядку або через кому.\n          Преміум — до 500.\nСкинути\nПоказати\nclose\nДодати рекламу\nДодати компанію\nКаталог компаній\nКлікніть або перетягніть іконку на карту\nКлікніть на карті, щоб поставити іконку\nLoading...",
+    "evidence": "sources/extra-3f9b8f82c299c01d.txt"
+  },
+  {
+    "url": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:0173",
+    "id": "extra-4afeeff30bdf029e",
+    "checkedAt": "2026-09-30T09:19:13.274126+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": 200,
+    "finalUrl": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:0173",
+    "title": "6125286900:02:001:0173 | Кадастрова карта України",
+    "links": [
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fland_sales%2Fnew%3Fland_sale%255Bcadnum%255D%3D6125286900%253A02%253A001%253A0173",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Зберегти до колекції"
+      },
+      {
+        "url": "https://e.land.gov.ua/back/cadaster/?cad_num=6125286900:02:001:0173",
+        "text": "Відкрити на сайті ДЗК"
+      },
+      {
+        "url": "https://www.google.com/maps/dir/?api=1&destination=49.54180034623367,25.521168927196836",
+        "text": "Прокласти маршрут"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/download_credits",
+        "text": "Докупити завантаження"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Перейти до преміум"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Додати компанію"
+      },
+      {
+        "url": "https://t.me/share/url?url=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A0173&text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A0173.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.",
+        "text": "Поділитися земельною ділянкою у Telegram"
+      },
+      {
+        "url": "viber://forward?text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A0173.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.%20%D0%94%D0%B5%D1%82%D0%B0%D0%BB%D1%96%20%D0%B7%D0%B0%20%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F%D0%BC%3A%20https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A0173&link=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A0173",
+        "text": "Поділитися земельною ділянкою у Viber image/svg+xml"
+      },
+      {
+        "url": "fb-messenger://share?link=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A0173&text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A0173.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.",
+        "text": "Поділитися земельною ділянкою у Messenger"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans?source=premium_modal",
+        "text": "Переглянути пакети"
+      },
+      {
+        "url": "https://kadastrova-karta.com/terms",
+        "text": "умовами оферти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/privacy",
+        "text": "політикою конфіденційності"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти або створити акаунт"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Головна"
+      },
+      {
+        "url": "https://kadastrova-karta.com/listings",
+        "text": "Оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Компанії"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/advertisements/new",
+        "text": "Додати рекламу"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/land_sales/new",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Отримати преміум доступ -61%"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Вхід"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Контакти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Контакти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Кадастрова карта України логотип"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Компанія в каталозі Безкоштовно Вас знайдуть власники ділянок, які шукають виконавця поруч"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fadvertisements%2Fnew",
+        "text": "Ваша реклама на карті Вас побачить кожен, хто дивиться ділянки у вашому районі"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fdilyanka%2F6125286900%3A02%3A001%3A0173",
+        "text": "Зареєструйтеся"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans?source=esri_session_limit_banner",
+        "text": "Активуйте преміум"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Отримати преміум доступ -61%"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Головна"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Каталог компаній"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/companies/new",
+        "text": "Додати свою компанію"
+      },
+      {
+        "url": "https://kadastrova-karta.com/listings",
+        "text": "Оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fland_sales%2Fnew",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/reklama",
+        "text": "Реклама"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Тарифи"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Зв'язатися з нами"
+      },
+      {
+        "url": "https://kadastrova-karta.com/terms",
+        "text": "Публічна оферта"
+      },
+      {
+        "url": "https://kadastrova-karta.com/privacy",
+        "text": "Політика конфіденційності"
+      },
+      {
+        "url": "https://e.land.gov.ua",
+        "text": "e.land.gov.ua"
+      },
+      {
+        "url": "https://soilgrids.org",
+        "text": ""
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Напишіть нам →"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Звʼязатися з нами"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fadvertisements%2Fnew",
+        "text": "Додати рекламу"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Додати компанію"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Каталог компаній"
+      }
+    ],
+    "images": [
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/cash-6f7b90a6.svg",
+      "https://kadastrova-karta.com/assets/icons/legend/coin-64b25887.svg"
+    ],
+    "structured": [],
+    "text": "6125286900:02:001:0173 | Кадастрова карта України\nДеталі ділянки\nПродаєте цю ділянку? Створіть у нас оголошення!\nДодати оголошення\nБезкоштовне оголошення на карті після перевірки\nРозширений пошук ділянок поруч\nNew\nЗберегти до колекції\nКопіювати посилання на ділянку\nЗберегти до закладок\nВідкрити на сайті ДЗК\nПрокласти маршрут\nЗавантажити GeoJSON\n5/міс\nЗавантажити KML\n5/міс\nЗареєструйтесь для завантажень\nБезкоштовно: до 5 файлів на місяць. Преміум: до 100 за поточну підписку.\nУвійти\nЛіміт завантажень вичерпано\nПреміум-доступ дозволяє завантажувати до 100 файлів за поточну підписку. Куплені окремо завантаження діють 1 рік.\nДокупити завантаження\nПерейти до преміум\nЗакрити\nclose\nУвійдіть, щоб завантажити\nЗавантаження GeoJSON та KML доступне зареєстрованим користувачам. Увійдіть або зареєструйтесь, щоб отримати свій файл.\nПреміум: до 100 завантажень за поточну підписку\nРозблокуйте розширений ліміт та інші преміум-можливості.\nУвійти\nЗакрити\nclose\nКадастровий номер:\n6125286900:02:001:0173\nПлоща:\n0.0905 га\nФорма власності:\nПриватна власність\nЦільове призначення:\nДля будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка)\nВид використання:\n02.01 Для будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка)\nКатегорія:\nЗемлі житлової та громадської забудови\nАдреса:\nДані відсутні\nПн\nПд\nЗх\nСх\nА\nБ\nВ\nГ\nҐ\nД\nЕ\nЄ\nПлоща:\n0.0905 га\nПериметр:\n130 м\nА → Б\n5 м\nБ → В\n33 м\nВ → Г\n34 м\nГ → Ґ\n7 м\nҐ → Д\n4 м\nД → Е\n16 м\nЕ → Є\n17 м\nЄ → А\n13 м\nВи професійно працюєте з землею?\nДодайте свою компанію в каталог — клієнти, які шукають геодезію, оцінку чи юридичні послуги, знайдуть вас тут.\nДодати компанію\nQR-код ділянки:\nЗавантажити QR-код\nПоділитися:\nПоділитися земельною ділянкою у Telegram\nПоділитися земельною ділянкою у Viber\nimage/svg+xml\nПоділитися земельною ділянкою у Messenger\n⭐️ Преміум доступ\nРозблокуйте всі можливості карти\nУ вас є увімкнені преміум-фільтри. Для продовження роботи з ними, будь ласка, придбайте преміум-доступ.\nGoogle Maps та інші фільтри\nДетальні супутникові знімки високої якості від Google, фільтрування по категоріях земель, формам власності та іншим параметрам\nМаксимальна чіткість\nРозглядайте межі земельних ділянок з найвищою точністю\nШвидкість блискавки\nМиттєве завантаження шарів без затримок\nПереглянути пакети\nОплачуючи, ви погоджуєтесь з\nумовами оферти\nта\nполітикою конфіденційності\nclose\nПотрібен обліковий запис\nУвійдіть або створіть безкоштовний акаунт, щоб продовжити\nПовний доступ до функції\nУвійдіть, щоб користуватися всіма можливостями кадастрової карти.\nБезкоштовна реєстрація\nСтворіть акаунт за хвилину — це безкоштовно.\nУвійти або створити акаунт\nclose\n🚧 Шар тимчасово недоступний\nМи працюємо над поверненням цього шару в роботу\nНа жаль, фільтр ще не працює\nСервіс, який надає цей шар, тимчасово припинив свою роботу. Як тільки все запрацює — фільтр з'явиться автоматично.\nДякуємо за інтерес\nВаша зацікавленість допомагає нам зрозуміти важливість цієї функції для вас — це впливає на пріоритет запуску.\nЗрозуміло\nclose\nКадастрова карта України логотип\nКомпанія в каталозі\nБезкоштовно\nВас знайдуть власники ділянок, які шукають виконавця поруч\nНе показувати більше\nВаша реклама на карті\nВас побачить кожен, хто дивиться ділянки у вашому районі\nНе показувати більше\nВи використали всі 10 сесій цього місяця.\n        Нові сесії будуть доступні після 01 жовт., 00:00.\nБажаєте отримати ще 5 сесій?\nЗареєструйтеся\n.\nАктивуйте преміум\n,\n        щоб вмикати шар Супутник (ArcGIS) без обмежень.\nПереглянуті ділянки\nЗбережені ділянки\nМеню\n6125286900:02:001:0173\nФільтри\nСкинути фільтри\nНе показувати підказку про ділянку при наведенні\nБазові шари\nФонові зображення\nGoogle Maps (супутник)\n⭐️ Розблокувати\nGoogle Maps (рельєф)\n⭐️ Розблокувати\nGoogle Maps (дороги)\n⭐️ Розблокувати\nСупутник (ArcGIS)\n(10/10)\nҐрунти України\nOpenTopoMap (рельєф)\n⭐️ Розблокувати\nOpenStreetMap\nВекторні шари\nПлоща (га)\nдо 6 сот\nдо 10 сот\nдо 30 сот\nвід 10 до 30 сот\nвід 30 до 50 сот\nвід 50сот до 1 га\nбільше 1 га\n⭐️ Розблокувати\nЦіна\nUAH\nUSD\nEUR\nдо 100 тис грн\nдо 500 тис грн\nдо 1 млн грн\nдо 5 млн грн\nбільше 5 млн грн\nдо 5 тис$\nдо 20 тис$\nдо 50 тис$\nдо 100 тис$\nбільше 100 тис$\nдо 5 тис€\nдо 20 тис€\nдо 50 тис€\nдо 100 тис€\nбільше 100 тис€\nЗемельний кадастр\nІндексна карта\nДілянки\nДетальні фільтри\nФорма власності\nДержавна власність\nКомунальна власність\nПриватна власність\nНе визначено\nКатегорія земель\nВодний фонд\nЖитлова та громадська забудова\nІсторико-культурні ділянки\nЛісове господарство\nОздоровчого призначення\nПриродоохоронного призначення\nПромисловості, транспорту, оборони\nРекреаційного призначення\nСільськогосподарського призначення\nІнше\nПризначення\n*Показуються лише вибрані призначення\nВибрати всі\n|\nСкинути всі\n⭐️ Розблокувати\nПродажі земель\nЗемельні аукціони\nДетальні фільтри\nТип аукціону\nОренда землі\nПродаж землі\nІнший тип\nВибрати всі\n|\nСкинути всі\nДовкілля\nЗаповідний фонд\nАдміністративний устрій\nМежі областей\nМежі районів\nМежі громад\nНе знайшли потрібний фільтр?\nНапишіть нам →\nФільтр\nФільтр\nВи можете використовувати фільтри для пошуку необхідних вам ділянок чи змінювати налаштування карти.\nПреміум доступ\nЗвʼязатися з нами\nКарта сайту\nКопіювати координати\nПрокласти маршрут\nРозширений пошук ділянок навколо\nВиміряти відстань до ділянки\nВиміряти відстань до точки\nУмовні позначення\nДержавна / комунальна власність\nПриватна власність\nФорма власності невідома\nВибрана ділянка\nВідвідана ділянка\nОренда землі\nПродаж землі\nІнший тип аукціону\nОголошення про продаж\nТОП оголошення про продаж\nПрибрати виділення\nВимірювання\nGeoJSON\nНамалюйте фігуру на карті\nСписок ділянок\nДо 5 номерів за раз, по одному в рядку або через кому.\n          Преміум — до 500.\nСкинути\nПоказати\nclose\nДодати рекламу\nДодати компанію\nКаталог компаній\nКлікніть або перетягніть іконку на карту\nКлікніть на карті, щоб поставити іконку\nLoading...",
+    "evidence": "sources/extra-4afeeff30bdf029e.txt"
+  },
+  {
+    "url": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:3178",
+    "id": "extra-ac61459066e87d29",
+    "checkedAt": "2026-09-30T09:19:13.274126+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": 200,
+    "finalUrl": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:3178",
+    "title": "6125286900:02:001:3178 | Кадастрова карта України",
+    "links": [
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fland_sales%2Fnew%3Fland_sale%255Bcadnum%255D%3D6125286900%253A02%253A001%253A3178",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Зберегти до колекції"
+      },
+      {
+        "url": "https://e.land.gov.ua/back/cadaster/?cad_num=6125286900:02:001:3178",
+        "text": "Відкрити на сайті ДЗК"
+      },
+      {
+        "url": "https://www.google.com/maps/dir/?api=1&destination=49.541579852519924,25.526268071866124",
+        "text": "Прокласти маршрут"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/download_credits",
+        "text": "Докупити завантаження"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Перейти до преміум"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Додати компанію"
+      },
+      {
+        "url": "https://t.me/share/url?url=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A3178&text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A3178.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.",
+        "text": "Поділитися земельною ділянкою у Telegram"
+      },
+      {
+        "url": "viber://forward?text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A3178.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.%20%D0%94%D0%B5%D1%82%D0%B0%D0%BB%D1%96%20%D0%B7%D0%B0%20%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F%D0%BC%3A%20https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A3178&link=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A3178",
+        "text": "Поділитися земельною ділянкою у Viber image/svg+xml"
+      },
+      {
+        "url": "fb-messenger://share?link=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A3178&text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A3178.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.",
+        "text": "Поділитися земельною ділянкою у Messenger"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans?source=premium_modal",
+        "text": "Переглянути пакети"
+      },
+      {
+        "url": "https://kadastrova-karta.com/terms",
+        "text": "умовами оферти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/privacy",
+        "text": "політикою конфіденційності"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти або створити акаунт"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Головна"
+      },
+      {
+        "url": "https://kadastrova-karta.com/listings",
+        "text": "Оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Компанії"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/advertisements/new",
+        "text": "Додати рекламу"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/land_sales/new",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Отримати преміум доступ -61%"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Вхід"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Контакти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Контакти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Кадастрова карта України логотип"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Компанія в каталозі Безкоштовно Вас знайдуть власники ділянок, які шукають виконавця поруч"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fadvertisements%2Fnew",
+        "text": "Ваша реклама на карті -50% Вас побачить кожен, хто дивиться ділянки у вашому районі"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fdilyanka%2F6125286900%3A02%3A001%3A3178",
+        "text": "Зареєструйтеся"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans?source=esri_session_limit_banner",
+        "text": "Активуйте преміум"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Отримати преміум доступ -61%"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Головна"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Каталог компаній"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/companies/new",
+        "text": "Додати свою компанію"
+      },
+      {
+        "url": "https://kadastrova-karta.com/listings",
+        "text": "Оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fland_sales%2Fnew",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/reklama",
+        "text": "Реклама"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Тарифи"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Зв'язатися з нами"
+      },
+      {
+        "url": "https://kadastrova-karta.com/terms",
+        "text": "Публічна оферта"
+      },
+      {
+        "url": "https://kadastrova-karta.com/privacy",
+        "text": "Політика конфіденційності"
+      },
+      {
+        "url": "https://e.land.gov.ua",
+        "text": "e.land.gov.ua"
+      },
+      {
+        "url": "https://soilgrids.org",
+        "text": ""
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Напишіть нам →"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Звʼязатися з нами"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fadvertisements%2Fnew",
+        "text": "Додати рекламу"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Додати компанію"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Каталог компаній"
+      }
+    ],
+    "images": [
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/cash-6f7b90a6.svg",
+      "https://kadastrova-karta.com/assets/icons/legend/coin-64b25887.svg"
+    ],
+    "structured": [],
+    "text": "6125286900:02:001:3178 | Кадастрова карта України\nДеталі ділянки\nПродаєте цю ділянку? Створіть у нас оголошення!\nДодати оголошення\nБезкоштовне оголошення на карті після перевірки\nРозширений пошук ділянок поруч\nNew\nЗберегти до колекції\nКопіювати посилання на ділянку\nЗберегти до закладок\nВідкрити на сайті ДЗК\nПрокласти маршрут\nЗавантажити GeoJSON\n5/міс\nЗавантажити KML\n5/міс\nЗареєструйтесь для завантажень\nБезкоштовно: до 5 файлів на місяць. Преміум: до 100 за поточну підписку.\nУвійти\nЛіміт завантажень вичерпано\nПреміум-доступ дозволяє завантажувати до 100 файлів за поточну підписку. Куплені окремо завантаження діють 1 рік.\nДокупити завантаження\nПерейти до преміум\nЗакрити\nclose\nУвійдіть, щоб завантажити\nЗавантаження GeoJSON та KML доступне зареєстрованим користувачам. Увійдіть або зареєструйтесь, щоб отримати свій файл.\nПреміум: до 100 завантажень за поточну підписку\nРозблокуйте розширений ліміт та інші преміум-можливості.\nУвійти\nЗакрити\nclose\nКадастровий номер:\n6125286900:02:001:3178\nПлоща:\n0.0678 га\nФорма власності:\nПриватна власність\nЦільове призначення:\nB.02.01\nВид використання:\nДля будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка)\nКатегорія:\nЗемлі житлової та громадської забудови\nАдреса:\nТернопільська область, Тернопільський район, с. Підгороднє\nПн\nПд\nЗх\nСх\nА\nБ\nВ\nГ\nҐ\nПлоща:\n0.0678 га\nПериметр:\n108 м\nА → Б\n19 м\nБ → В\n35 м\nВ → Г\n22 м\nГ → Ґ\n11 м\nҐ → А\n21 м\nВи професійно працюєте з землею?\nДодайте свою компанію в каталог — клієнти, які шукають геодезію, оцінку чи юридичні послуги, знайдуть вас тут.\nДодати компанію\nQR-код ділянки:\nЗавантажити QR-код\nПоділитися:\nПоділитися земельною ділянкою у Telegram\nПоділитися земельною ділянкою у Viber\nimage/svg+xml\nПоділитися земельною ділянкою у Messenger\n⭐️ Преміум доступ\nРозблокуйте всі можливості карти\nУ вас є увімкнені преміум-фільтри. Для продовження роботи з ними, будь ласка, придбайте преміум-доступ.\nGoogle Maps та інші фільтри\nДетальні супутникові знімки високої якості від Google, фільтрування по категоріях земель, формам власності та іншим параметрам\nМаксимальна чіткість\nРозглядайте межі земельних ділянок з найвищою точністю\nШвидкість блискавки\nМиттєве завантаження шарів без затримок\nПереглянути пакети\nОплачуючи, ви погоджуєтесь з\nумовами оферти\nта\nполітикою конфіденційності\nclose\nПотрібен обліковий запис\nУвійдіть або створіть безкоштовний акаунт, щоб продовжити\nПовний доступ до функції\nУвійдіть, щоб користуватися всіма можливостями кадастрової карти.\nБезкоштовна реєстрація\nСтворіть акаунт за хвилину — це безкоштовно.\nУвійти або створити акаунт\nclose\n🚧 Шар тимчасово недоступний\nМи працюємо над поверненням цього шару в роботу\nНа жаль, фільтр ще не працює\nСервіс, який надає цей шар, тимчасово припинив свою роботу. Як тільки все запрацює — фільтр з'явиться автоматично.\nДякуємо за інтерес\nВаша зацікавленість допомагає нам зрозуміти важливість цієї функції для вас — це впливає на пріоритет запуску.\nЗрозуміло\nclose\nКадастрова карта України логотип\nКомпанія в каталозі\nБезкоштовно\nВас знайдуть власники ділянок, які шукають виконавця поруч\nНе показувати більше\nВаша реклама на карті\n-50%\nВас побачить кожен, хто дивиться ділянки у вашому районі\nНе показувати більше\nВи використали всі 10 сесій цього місяця.\n        Нові сесії будуть доступні після 01 жовт., 00:00.\nБажаєте отримати ще 5 сесій?\nЗареєструйтеся\n.\nАктивуйте преміум\n,\n        щоб вмикати шар Супутник (ArcGIS) без обмежень.\nПереглянуті ділянки\nЗбережені ділянки\nМеню\n6125286900:02:001:3178\nФільтри\nСкинути фільтри\nНе показувати підказку про ділянку при наведенні\nБазові шари\nФонові зображення\nGoogle Maps (супутник)\n⭐️ Розблокувати\nGoogle Maps (рельєф)\n⭐️ Розблокувати\nGoogle Maps (дороги)\n⭐️ Розблокувати\nСупутник (ArcGIS)\n(10/10)\nҐрунти України\nOpenTopoMap (рельєф)\n⭐️ Розблокувати\nOpenStreetMap\nВекторні шари\nПлоща (га)\nдо 6 сот\nдо 10 сот\nдо 30 сот\nвід 10 до 30 сот\nвід 30 до 50 сот\nвід 50сот до 1 га\nбільше 1 га\n⭐️ Розблокувати\nЦіна\nUAH\nUSD\nEUR\nдо 100 тис грн\nдо 500 тис грн\nдо 1 млн грн\nдо 5 млн грн\nбільше 5 млн грн\nдо 5 тис$\nдо 20 тис$\nдо 50 тис$\nдо 100 тис$\nбільше 100 тис$\nдо 5 тис€\nдо 20 тис€\nдо 50 тис€\nдо 100 тис€\nбільше 100 тис€\nЗемельний кадастр\nІндексна карта\nДілянки\nДетальні фільтри\nФорма власності\nДержавна власність\nКомунальна власність\nПриватна власність\nНе визначено\nКатегорія земель\nВодний фонд\nЖитлова та громадська забудова\nІсторико-культурні ділянки\nЛісове господарство\nОздоровчого призначення\nПриродоохоронного призначення\nПромисловості, транспорту, оборони\nРекреаційного призначення\nСільськогосподарського призначення\nІнше\nПризначення\n*Показуються лише вибрані призначення\nВибрати всі\n|\nСкинути всі\n⭐️ Розблокувати\nПродажі земель\nЗемельні аукціони\nДетальні фільтри\nТип аукціону\nОренда землі\nПродаж землі\nІнший тип\nВибрати всі\n|\nСкинути всі\nДовкілля\nЗаповідний фонд\nАдміністративний устрій\nМежі областей\nМежі районів\nМежі громад\nНе знайшли потрібний фільтр?\nНапишіть нам →\nФільтр\nФільтр\nВи можете використовувати фільтри для пошуку необхідних вам ділянок чи змінювати налаштування карти.\nПреміум доступ\nЗвʼязатися з нами\nКарта сайту\nКопіювати координати\nПрокласти маршрут\nРозширений пошук ділянок навколо\nВиміряти відстань до ділянки\nВиміряти відстань до точки\nУмовні позначення\nДержавна / комунальна власність\nПриватна власність\nФорма власності невідома\nВибрана ділянка\nВідвідана ділянка\nОренда землі\nПродаж землі\nІнший тип аукціону\nОголошення про продаж\nТОП оголошення про продаж\nПрибрати виділення\nВимірювання\nGeoJSON\nНамалюйте фігуру на карті\nСписок ділянок\nДо 5 номерів за раз, по одному в рядку або через кому.\n          Преміум — до 500.\nСкинути\nПоказати\nclose\nДодати рекламу\nДодати компанію\nКаталог компаній\nКлікніть або перетягніть іконку на карту\nКлікніть на карті, щоб поставити іконку\nLoading...",
+    "evidence": "sources/extra-ac61459066e87d29.txt"
+  },
+  {
+    "url": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:3285",
+    "id": "extra-495dc03926895f96",
+    "checkedAt": "2026-09-30T09:19:13.274126+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": 200,
+    "finalUrl": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:3285",
+    "title": "6125286900:02:001:3285 | Кадастрова карта України",
+    "links": [
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fland_sales%2Fnew%3Fland_sale%255Bcadnum%255D%3D6125286900%253A02%253A001%253A3285",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Зберегти до колекції"
+      },
+      {
+        "url": "https://e.land.gov.ua/back/cadaster/?cad_num=6125286900:02:001:3285",
+        "text": "Відкрити на сайті ДЗК"
+      },
+      {
+        "url": "https://www.google.com/maps/dir/?api=1&destination=49.550069692441205,25.515919651604406",
+        "text": "Прокласти маршрут"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/download_credits",
+        "text": "Докупити завантаження"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Перейти до преміум"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Додати компанію"
+      },
+      {
+        "url": "https://t.me/share/url?url=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A3285&text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A3285.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.",
+        "text": "Поділитися земельною ділянкою у Telegram"
+      },
+      {
+        "url": "viber://forward?text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A3285.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.%20%D0%94%D0%B5%D1%82%D0%B0%D0%BB%D1%96%20%D0%B7%D0%B0%20%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F%D0%BC%3A%20https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A3285&link=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A3285",
+        "text": "Поділитися земельною ділянкою у Viber image/svg+xml"
+      },
+      {
+        "url": "fb-messenger://share?link=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A3285&text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A3285.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.",
+        "text": "Поділитися земельною ділянкою у Messenger"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans?source=premium_modal",
+        "text": "Переглянути пакети"
+      },
+      {
+        "url": "https://kadastrova-karta.com/terms",
+        "text": "умовами оферти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/privacy",
+        "text": "політикою конфіденційності"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти або створити акаунт"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Головна"
+      },
+      {
+        "url": "https://kadastrova-karta.com/listings",
+        "text": "Оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Компанії"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/advertisements/new",
+        "text": "Додати рекламу"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/land_sales/new",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Отримати преміум доступ -61%"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Вхід"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Контакти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Контакти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Кадастрова карта України логотип"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Компанія в каталозі Безкоштовно Вас знайдуть власники ділянок, які шукають виконавця поруч"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fadvertisements%2Fnew",
+        "text": "Ваша реклама на карті Вас побачить кожен, хто дивиться ділянки у вашому районі"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fdilyanka%2F6125286900%3A02%3A001%3A3285",
+        "text": "Зареєструйтеся"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans?source=esri_session_limit_banner",
+        "text": "Активуйте преміум"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Отримати преміум доступ -61%"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Головна"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Каталог компаній"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/companies/new",
+        "text": "Щоб вас знаходили клієнти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/listings",
+        "text": "Оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fland_sales%2Fnew",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/reklama",
+        "text": "Реклама"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Тарифи"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Зв'язатися з нами"
+      },
+      {
+        "url": "https://kadastrova-karta.com/terms",
+        "text": "Публічна оферта"
+      },
+      {
+        "url": "https://kadastrova-karta.com/privacy",
+        "text": "Політика конфіденційності"
+      },
+      {
+        "url": "https://e.land.gov.ua",
+        "text": "e.land.gov.ua"
+      },
+      {
+        "url": "https://soilgrids.org",
+        "text": ""
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Напишіть нам →"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Звʼязатися з нами"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fadvertisements%2Fnew",
+        "text": "Додати рекламу"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Додати компанію"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Каталог компаній"
+      }
+    ],
+    "images": [
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/cash-6f7b90a6.svg",
+      "https://kadastrova-karta.com/assets/icons/legend/coin-64b25887.svg"
+    ],
+    "structured": [],
+    "text": "6125286900:02:001:3285 | Кадастрова карта України\nДеталі ділянки\nПродаєте цю ділянку? Створіть у нас оголошення!\nДодати оголошення\nБезкоштовне оголошення на карті після перевірки\nРозширений пошук ділянок поруч\nNew\nЗберегти до колекції\nКопіювати посилання на ділянку\nЗберегти до закладок\nВідкрити на сайті ДЗК\nПрокласти маршрут\nЗавантажити GeoJSON\n5/міс\nЗавантажити KML\n5/міс\nЗареєструйтесь для завантажень\nБезкоштовно: до 5 файлів на місяць. Преміум: до 100 за поточну підписку.\nУвійти\nЛіміт завантажень вичерпано\nПреміум-доступ дозволяє завантажувати до 100 файлів за поточну підписку. Куплені окремо завантаження діють 1 рік.\nДокупити завантаження\nПерейти до преміум\nЗакрити\nclose\nУвійдіть, щоб завантажити\nЗавантаження GeoJSON та KML доступне зареєстрованим користувачам. Увійдіть або зареєструйтесь, щоб отримати свій файл.\nПреміум: до 100 завантажень за поточну підписку\nРозблокуйте розширений ліміт та інші преміум-можливості.\nУвійти\nЗакрити\nclose\nКадастровий номер:\n6125286900:02:001:3285\nПлоща:\n0.0998 га\nФорма власності:\nПриватна власність\nЦільове призначення:\nB.02.01\nВид використання:\nДля будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка)\nКатегорія:\nЗемлі житлової та громадської забудови\nАдреса:\nТернопільська область, Тернопільський район, с.Підгородне, вулиця Незалежності, 19\nПн\nПд\nЗх\nСх\nА\nБ\nВ\nГ\nҐ\nД\nПлоща:\n0.0998 га\nПериметр:\n125 м\nА → Б\n25 м\nБ → В\n11 м\nВ → Г\n22 м\nГ → Ґ\n32 м\nҐ → Д\n5 м\nД → А\n29 м\nВи професійно працюєте з землею?\nДодайте свою компанію в каталог — клієнти, які шукають геодезію, оцінку чи юридичні послуги, знайдуть вас тут.\nДодати компанію\nQR-код ділянки:\nЗавантажити QR-код\nПоділитися:\nПоділитися земельною ділянкою у Telegram\nПоділитися земельною ділянкою у Viber\nimage/svg+xml\nПоділитися земельною ділянкою у Messenger\n⭐️ Преміум доступ\nРозблокуйте всі можливості карти\nУ вас є увімкнені преміум-фільтри. Для продовження роботи з ними, будь ласка, придбайте преміум-доступ.\nGoogle Maps та інші фільтри\nДетальні супутникові знімки високої якості від Google, фільтрування по категоріях земель, формам власності та іншим параметрам\nМаксимальна чіткість\nРозглядайте межі земельних ділянок з найвищою точністю\nШвидкість блискавки\nМиттєве завантаження шарів без затримок\nПереглянути пакети\nОплачуючи, ви погоджуєтесь з\nумовами оферти\nта\nполітикою конфіденційності\nclose\nПотрібен обліковий запис\nУвійдіть або створіть безкоштовний акаунт, щоб продовжити\nПовний доступ до функції\nУвійдіть, щоб користуватися всіма можливостями кадастрової карти.\nБезкоштовна реєстрація\nСтворіть акаунт за хвилину — це безкоштовно.\nУвійти або створити акаунт\nclose\n🚧 Шар тимчасово недоступний\nМи працюємо над поверненням цього шару в роботу\nНа жаль, фільтр ще не працює\nСервіс, який надає цей шар, тимчасово припинив свою роботу. Як тільки все запрацює — фільтр з'явиться автоматично.\nДякуємо за інтерес\nВаша зацікавленість допомагає нам зрозуміти важливість цієї функції для вас — це впливає на пріоритет запуску.\nЗрозуміло\nclose\nКадастрова карта України логотип\nКомпанія в каталозі\nБезкоштовно\nВас знайдуть власники ділянок, які шукають виконавця поруч\nНе показувати більше\nВаша реклама на карті\nВас побачить кожен, хто дивиться ділянки у вашому районі\nНе показувати більше\nВи використали всі 10 сесій цього місяця.\n        Нові сесії будуть доступні після 01 жовт., 00:00.\nБажаєте отримати ще 5 сесій?\nЗареєструйтеся\n.\nАктивуйте преміум\n,\n        щоб вмикати шар Супутник (ArcGIS) без обмежень.\nПереглянуті ділянки\nЗбережені ділянки\nМеню\n6125286900:02:001:3285\nФільтри\nСкинути фільтри\nНе показувати підказку про ділянку при наведенні\nБазові шари\nФонові зображення\nGoogle Maps (супутник)\n⭐️ Розблокувати\nGoogle Maps (рельєф)\n⭐️ Розблокувати\nGoogle Maps (дороги)\n⭐️ Розблокувати\nСупутник (ArcGIS)\n(10/10)\nҐрунти України\nOpenTopoMap (рельєф)\n⭐️ Розблокувати\nOpenStreetMap\nВекторні шари\nПлоща (га)\nдо 6 сот\nдо 10 сот\nдо 30 сот\nвід 10 до 30 сот\nвід 30 до 50 сот\nвід 50сот до 1 га\nбільше 1 га\n⭐️ Розблокувати\nЦіна\nUAH\nUSD\nEUR\nдо 100 тис грн\nдо 500 тис грн\nдо 1 млн грн\nдо 5 млн грн\nбільше 5 млн грн\nдо 5 тис$\nдо 20 тис$\nдо 50 тис$\nдо 100 тис$\nбільше 100 тис$\nдо 5 тис€\nдо 20 тис€\nдо 50 тис€\nдо 100 тис€\nбільше 100 тис€\nЗемельний кадастр\nІндексна карта\nДілянки\nДетальні фільтри\nФорма власності\nДержавна власність\nКомунальна власність\nПриватна власність\nНе визначено\nКатегорія земель\nВодний фонд\nЖитлова та громадська забудова\nІсторико-культурні ділянки\nЛісове господарство\nОздоровчого призначення\nПриродоохоронного призначення\nПромисловості, транспорту, оборони\nРекреаційного призначення\nСільськогосподарського призначення\nІнше\nПризначення\n*Показуються лише вибрані призначення\nВибрати всі\n|\nСкинути всі\n⭐️ Розблокувати\nПродажі земель\nЗемельні аукціони\nДетальні фільтри\nТип аукціону\nОренда землі\nПродаж землі\nІнший тип\nВибрати всі\n|\nСкинути всі\nДовкілля\nЗаповідний фонд\nАдміністративний устрій\nМежі областей\nМежі районів\nМежі громад\nНе знайшли потрібний фільтр?\nНапишіть нам →\nФільтр\nФільтр\nВи можете використовувати фільтри для пошуку необхідних вам ділянок чи змінювати налаштування карти.\nПреміум доступ\nЗвʼязатися з нами\nКарта сайту\nКопіювати координати\nПрокласти маршрут\nРозширений пошук ділянок навколо\nВиміряти відстань до ділянки\nВиміряти відстань до точки\nУмовні позначення\nДержавна / комунальна власність\nПриватна власність\nФорма власності невідома\nВибрана ділянка\nВідвідана ділянка\nОренда землі\nПродаж землі\nІнший тип аукціону\nОголошення про продаж\nТОП оголошення про продаж\nПрибрати виділення\nВимірювання\nGeoJSON\nНамалюйте фігуру на карті\nСписок ділянок\nДо 5 номерів за раз, по одному в рядку або через кому.\n          Преміум — до 500.\nСкинути\nПоказати\nclose\nДодати рекламу\nДодати компанію\nКаталог компаній\nКлікніть або перетягніть іконку на карту\nКлікніть на карті, щоб поставити іконку\nLoading...",
+    "evidence": "sources/extra-495dc03926895f96.txt"
+  },
+  {
+    "url": "https://dom.ria.com/uk/realty-prodaja-zemlya-selskohozyaystvennogo-naznacheniya-velikie-gai-ivana-franko-bokovaya-ulitsa-34640902.html",
+    "id": "extra-b40e3bf0b250e2aa",
+    "checkedAt": "2026-09-30T09:19:13.642641+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "HTTPSConnectionPool(host='dom.ria.com', port=443): Read timed out. (read timeout=30)"
+  },
+  {
+    "url": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:3295",
+    "id": "extra-197542eb76689848",
+    "checkedAt": "2026-09-30T09:22:38.854829+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": 200,
+    "finalUrl": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:3295",
+    "title": "6125286900:02:001:3295 | Кадастрова карта України",
+    "links": [
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fland_sales%2Fnew%3Fland_sale%255Bcadnum%255D%3D6125286900%253A02%253A001%253A3295",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Зберегти до колекції"
+      },
+      {
+        "url": "https://e.land.gov.ua/back/cadaster/?cad_num=6125286900:02:001:3295",
+        "text": "Відкрити на сайті ДЗК"
+      },
+      {
+        "url": "https://www.google.com/maps/dir/?api=1&destination=49.547175978481775,25.516474454994437",
+        "text": "Прокласти маршрут"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/download_credits",
+        "text": "Докупити завантаження"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Перейти до преміум"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Додати компанію"
+      },
+      {
+        "url": "https://t.me/share/url?url=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A3295&text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A3295.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.",
+        "text": "Поділитися земельною ділянкою у Telegram"
+      },
+      {
+        "url": "viber://forward?text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A3295.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.%20%D0%94%D0%B5%D1%82%D0%B0%D0%BB%D1%96%20%D0%B7%D0%B0%20%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F%D0%BC%3A%20https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A3295&link=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A3295",
+        "text": "Поділитися земельною ділянкою у Viber image/svg+xml"
+      },
+      {
+        "url": "fb-messenger://share?link=https%3A%2F%2Fkadastrova-karta.com%2Fdilyanka%2F6125286900%3A02%3A001%3A3295&text=%D0%9F%D1%80%D0%B8%D0%B2%D1%96%D1%82%21%20%D0%AF%20%D0%B7%D0%BD%D0%B0%D0%B9%D1%88%D0%BE%D0%B2%20%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D1%83%20%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D1%83%20%D0%B4%D1%96%D0%BB%D1%8F%D0%BD%D0%BA%D1%83%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%20%D0%B7%20%D0%BA%D0%B0%D0%B4%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%BC%206125286900%3A02%3A001%3A3295.%20%D0%94%D1%83%D0%BC%D0%B0%D1%8E%2C%20%D1%86%D0%B5%20%D0%BC%D0%BE%D0%B6%D0%B5%20%D0%B2%D0%B0%D1%81%20%D0%B7%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%B8%D1%82%D0%B8.",
+        "text": "Поділитися земельною ділянкою у Messenger"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans?source=premium_modal",
+        "text": "Переглянути пакети"
+      },
+      {
+        "url": "https://kadastrova-karta.com/terms",
+        "text": "умовами оферти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/privacy",
+        "text": "політикою конфіденційності"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти або створити акаунт"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Головна"
+      },
+      {
+        "url": "https://kadastrova-karta.com/listings",
+        "text": "Оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Компанії"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/advertisements/new",
+        "text": "Додати рекламу"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/land_sales/new",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Отримати преміум доступ -61%"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Вхід"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Контакти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Контакти"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Кадастрова карта України логотип"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Компанія в каталозі Безкоштовно Вас знайдуть власники ділянок, які шукають виконавця поруч"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fadvertisements%2Fnew",
+        "text": "Ваша реклама на карті -50% Вас побачить кожен, хто дивиться ділянки у вашому районі"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fdilyanka%2F6125286900%3A02%3A001%3A3295",
+        "text": "Зареєструйтеся"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans?source=esri_session_limit_banner",
+        "text": "Активуйте преміум"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Отримати преміум доступ -61%"
+      },
+      {
+        "url": "https://kadastrova-karta.com/",
+        "text": "Головна"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/faq",
+        "text": "Часті питання"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Каталог компаній"
+      },
+      {
+        "url": "https://kadastrova-karta.com/user/companies/new",
+        "text": "Додати свою компанію"
+      },
+      {
+        "url": "https://kadastrova-karta.com/listings",
+        "text": "Оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fland_sales%2Fnew",
+        "text": "Додати оголошення"
+      },
+      {
+        "url": "https://kadastrova-karta.com/reklama",
+        "text": "Реклама"
+      },
+      {
+        "url": "https://kadastrova-karta.com/payments/plans",
+        "text": "Тарифи"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in",
+        "text": "Увійти"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Зв'язатися з нами"
+      },
+      {
+        "url": "https://kadastrova-karta.com/terms",
+        "text": "Публічна оферта"
+      },
+      {
+        "url": "https://kadastrova-karta.com/privacy",
+        "text": "Політика конфіденційності"
+      },
+      {
+        "url": "https://e.land.gov.ua",
+        "text": "e.land.gov.ua"
+      },
+      {
+        "url": "https://soilgrids.org",
+        "text": ""
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Напишіть нам →"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVVhEHM7uk7qpZXKQ_f4ngjgEtEYoDW1whQAARgh59ahS5oA/viewform",
+        "text": "Звʼязатися з нами"
+      },
+      {
+        "url": "https://kadastrova-karta.com/sitemap",
+        "text": "Карта сайту"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fadvertisements%2Fnew",
+        "text": "Додати рекламу"
+      },
+      {
+        "url": "https://kadastrova-karta.com/users/sign_in?return_to=%2Fuser%2Fcompanies%2Fnew",
+        "text": "Додати компанію"
+      },
+      {
+        "url": "https://kadastrova-karta.com/companies",
+        "text": "Каталог компаній"
+      }
+    ],
+    "images": [
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/auction-e146d4b3.png",
+      "https://kadastrova-karta.com/assets/icons/legend/cash-6f7b90a6.svg",
+      "https://kadastrova-karta.com/assets/icons/legend/coin-64b25887.svg"
+    ],
+    "structured": [],
+    "text": "6125286900:02:001:3295 | Кадастрова карта України\nДеталі ділянки\nПродаєте цю ділянку? Створіть у нас оголошення!\nДодати оголошення\nБезкоштовне оголошення на карті після перевірки\nРозширений пошук ділянок поруч\nNew\nЗберегти до колекції\nКопіювати посилання на ділянку\nЗберегти до закладок\nВідкрити на сайті ДЗК\nПрокласти маршрут\nЗавантажити GeoJSON\n5/міс\nЗавантажити KML\n5/міс\nЗареєструйтесь для завантажень\nБезкоштовно: до 5 файлів на місяць. Преміум: до 100 за поточну підписку.\nУвійти\nЛіміт завантажень вичерпано\nПреміум-доступ дозволяє завантажувати до 100 файлів за поточну підписку. Куплені окремо завантаження діють 1 рік.\nДокупити завантаження\nПерейти до преміум\nЗакрити\nclose\nУвійдіть, щоб завантажити\nЗавантаження GeoJSON та KML доступне зареєстрованим користувачам. Увійдіть або зареєструйтесь, щоб отримати свій файл.\nПреміум: до 100 завантажень за поточну підписку\nРозблокуйте розширений ліміт та інші преміум-можливості.\nУвійти\nЗакрити\nclose\nКадастровий номер:\n6125286900:02:001:3295\nПлоща:\n0.1027 га\nФорма власності:\nПриватна власність\nЦільове призначення:\nB.02.01\nВид використання:\nДля будівництва і обслуговування житлового будинку, господарських будівель і споруд (присадибна ділянка)\nКатегорія:\nЗемлі житлової та громадської забудови\nАдреса:\nТернопільська область, Тернопільський район, с.Підгородне, вулиця Юркевича, 3\nПн\nПд\nЗх\nСх\nА\nБ\nВ\nГ\nПлоща:\n0.1027 га\nПериметр:\n132 м\nА → Б\n25 м\nБ → В\n40 м\nВ → Г\n25 м\nГ → А\n41 м\nВи професійно працюєте з землею?\nДодайте свою компанію в каталог — клієнти, які шукають геодезію, оцінку чи юридичні послуги, знайдуть вас тут.\nДодати компанію\nQR-код ділянки:\nЗавантажити QR-код\nПоділитися:\nПоділитися земельною ділянкою у Telegram\nПоділитися земельною ділянкою у Viber\nimage/svg+xml\nПоділитися земельною ділянкою у Messenger\n⭐️ Преміум доступ\nРозблокуйте всі можливості карти\nУ вас є увімкнені преміум-фільтри. Для продовження роботи з ними, будь ласка, придбайте преміум-доступ.\nGoogle Maps та інші фільтри\nДетальні супутникові знімки високої якості від Google, фільтрування по категоріях земель, формам власності та іншим параметрам\nМаксимальна чіткість\nРозглядайте межі земельних ділянок з найвищою точністю\nШвидкість блискавки\nМиттєве завантаження шарів без затримок\nПереглянути пакети\nОплачуючи, ви погоджуєтесь з\nумовами оферти\nта\nполітикою конфіденційності\nclose\nПотрібен обліковий запис\nУвійдіть або створіть безкоштовний акаунт, щоб продовжити\nПовний доступ до функції\nУвійдіть, щоб користуватися всіма можливостями кадастрової карти.\nБезкоштовна реєстрація\nСтворіть акаунт за хвилину — це безкоштовно.\nУвійти або створити акаунт\nclose\n🚧 Шар тимчасово недоступний\nМи працюємо над поверненням цього шару в роботу\nНа жаль, фільтр ще не працює\nСервіс, який надає цей шар, тимчасово припинив свою роботу. Як тільки все запрацює — фільтр з'явиться автоматично.\nДякуємо за інтерес\nВаша зацікавленість допомагає нам зрозуміти важливість цієї функції для вас — це впливає на пріоритет запуску.\nЗрозуміло\nclose\nКадастрова карта України логотип\nКомпанія в каталозі\nБезкоштовно\nВас знайдуть власники ділянок, які шукають виконавця поруч\nНе показувати більше\nВаша реклама на карті\n-50%\nВас побачить кожен, хто дивиться ділянки у вашому районі\nНе показувати більше\nВи використали всі 10 сесій цього місяця.\n        Нові сесії будуть доступні після 01 жовт., 00:00.\nБажаєте отримати ще 5 сесій?\nЗареєструйтеся\n.\nАктивуйте преміум\n,\n        щоб вмикати шар Супутник (ArcGIS) без обмежень.\nПереглянуті ділянки\nЗбережені ділянки\nМеню\n6125286900:02:001:3295\nФільтри\nСкинути фільтри\nНе показувати підказку про ділянку при наведенні\nБазові шари\nФонові зображення\nGoogle Maps (супутник)\n⭐️ Розблокувати\nGoogle Maps (рельєф)\n⭐️ Розблокувати\nGoogle Maps (дороги)\n⭐️ Розблокувати\nСупутник (ArcGIS)\n(10/10)\nҐрунти України\nOpenTopoMap (рельєф)\n⭐️ Розблокувати\nOpenStreetMap\nВекторні шари\nПлоща (га)\nдо 6 сот\nдо 10 сот\nдо 30 сот\nвід 10 до 30 сот\nвід 30 до 50 сот\nвід 50сот до 1 га\nбільше 1 га\n⭐️ Розблокувати\nЦіна\nUAH\nUSD\nEUR\nдо 100 тис грн\nдо 500 тис грн\nдо 1 млн грн\nдо 5 млн грн\nбільше 5 млн грн\nдо 5 тис$\nдо 20 тис$\nдо 50 тис$\nдо 100 тис$\nбільше 100 тис$\nдо 5 тис€\nдо 20 тис€\nдо 50 тис€\nдо 100 тис€\nбільше 100 тис€\nЗемельний кадастр\nІндексна карта\nДілянки\nДетальні фільтри\nФорма власності\nДержавна власність\nКомунальна власність\nПриватна власність\nНе визначено\nКатегорія земель\nВодний фонд\nЖитлова та громадська забудова\nІсторико-культурні ділянки\nЛісове господарство\nОздоровчого призначення\nПриродоохоронного призначення\nПромисловості, транспорту, оборони\nРекреаційного призначення\nСільськогосподарського призначення\nІнше\nПризначення\n*Показуються лише вибрані призначення\nВибрати всі\n|\nСкинути всі\n⭐️ Розблокувати\nПродажі земель\nЗемельні аукціони\nДетальні фільтри\nТип аукціону\nОренда землі\nПродаж землі\nІнший тип\nВибрати всі\n|\nСкинути всі\nДовкілля\nЗаповідний фонд\nАдміністративний устрій\nМежі областей\nМежі районів\nМежі громад\nНе знайшли потрібний фільтр?\nНапишіть нам →\nФільтр\nФільтр\nВи можете використовувати фільтри для пошуку необхідних вам ділянок чи змінювати налаштування карти.\nПреміум доступ\nЗвʼязатися з нами\nКарта сайту\nКопіювати координати\nПрокласти маршрут\nРозширений пошук ділянок навколо\nВиміряти відстань до ділянки\nВиміряти відстань до точки\nУмовні позначення\nДержавна / комунальна власність\nПриватна власність\nФорма власності невідома\nВибрана ділянка\nВідвідана ділянка\nОренда землі\nПродаж землі\nІнший тип аукціону\nОголошення про продаж\nТОП оголошення про продаж\nПрибрати виділення\nВимірювання\nGeoJSON\nНамалюйте фігуру на карті\nСписок ділянок\nДо 5 номерів за раз, по одному в рядку або через кому.\n          Преміум — до 500.\nСкинути\nПоказати\nclose\nДодати рекламу\nДодати компанію\nКаталог компаній\nКлікніть або перетягніть іконку на карту\nКлікніть на карті, щоб поставити іконку\nLoading...",
+    "evidence": "sources/extra-197542eb76689848.txt"
+  }
+]
