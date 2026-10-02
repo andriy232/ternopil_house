@@ -231,7 +231,7 @@
         ]
       },
       "properties": {
-        "number": 19,
+        "number": 18,
         "id": "land-pid-yur2",
         "kind": "land",
         "address": "Ділянка · Юркевича, 2 — адреса довідкового кадастру",
@@ -253,7 +253,7 @@
         ]
       },
       "properties": {
-        "number": 24,
+        "number": 23,
         "id": "land-st1633",
         "kind": "land",
         "address": "Ділянка · СТ у західній околиці, кадастр …1633",
@@ -275,7 +275,7 @@
         ]
       },
       "properties": {
-        "number": 27,
+        "number": 26,
         "id": "land-pid-nez19",
         "kind": "land",
         "address": "Ділянка · Незалежності, 19 — адреса довідкового кадастру",
@@ -297,7 +297,7 @@
         ]
       },
       "properties": {
-        "number": 28,
+        "number": 27,
         "id": "land-franka",
         "kind": "land",
         "address": "Ділянка · Івана Франка, номер невідомий",
@@ -319,7 +319,7 @@
         ]
       },
       "properties": {
-        "number": 35,
+        "number": 34,
         "id": "land-pid-yur3",
         "kind": "land",
         "address": "Ділянка · Юркевича, 3 — адреса у фото витягу 2016 року",
@@ -341,7 +341,7 @@
         ]
       },
       "properties": {
-        "number": 44,
+        "number": 43,
         "id": "land-lviv69",
         "kind": "land",
         "address": "Ділянка · Львівська / дорога Н02, кадастр …0592",
@@ -363,7 +363,7 @@
         ]
       },
       "properties": {
-        "number": 45,
+        "number": 44,
         "id": "land-pro150",
         "kind": "land",
         "address": "Ділянка · Проєктна, 150 — адреса довідкового кадастру",
@@ -380,34 +380,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.527700424194336,
-          49.541866302490234
-        ]
-      },
-      "properties": {
-        "number": 46,
-        "id": "land-pid27",
-        "kind": "land",
-        "address": "Ділянка · 27,41 сотки, кадастр …0722",
-        "district": "Підгороднє",
-        "price": 15000,
-        "section": "excluded",
-        "mapPrecision": "маркер оголошення; межі не встановлені",
-        "reason": "Відсіяно: попри ярлик «під забудову», кадастровий блок указує 01.03 — особисте селянське господарство.",
-        "map": "https://www.google.com/maps/search/?api=1&query=49.541866302490234%2C25.527700424194336"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           25.526268071866124,
           49.541579852519924
         ]
       },
       "properties": {
-        "number": 51,
+        "number": 49,
         "id": "land-pid-polova678",
         "kind": "land",
         "address": "Ділянка · Польова, номер невідомий · кадастр …3178",
@@ -429,7 +407,7 @@
         ]
       },
       "properties": {
-        "number": 52,
+        "number": 50,
         "id": "land-pid-medova",
         "kind": "land",
         "address": "Ділянка · Медова, номер невідомий",
@@ -451,7 +429,7 @@
         ]
       },
       "properties": {
-        "number": 53,
+        "number": 51,
         "id": "land-pron7-electric",
         "kind": "land",
         "address": "Ділянка · Проєктна, 6,67 сотки за кадастровим блоком",
@@ -473,7 +451,7 @@
         ]
       },
       "properties": {
-        "number": 55,
+        "number": 53,
         "id": "land-haiolha",
         "kind": "land",
         "address": "Ділянка · Княгині Ольги, номер невідомий",
@@ -495,7 +473,7 @@
         ]
       },
       "properties": {
-        "number": 58,
+        "number": 56,
         "id": "land-haikashuba",
         "kind": "land",
         "address": "Ділянка · Отця Кашуби, номер невідомий",
@@ -517,7 +495,7 @@
         ]
       },
       "properties": {
-        "number": 62,
+        "number": 60,
         "id": "land-ter53",
         "kind": "land",
         "address": "Ділянка · Тернопільська, 53",
@@ -539,7 +517,7 @@
         ]
       },
       "properties": {
-        "number": 64,
+        "number": 62,
         "id": "proektna164",
         "kind": "house",
         "address": "Проєктна, 216 за Flatfy",
@@ -561,7 +539,7 @@
         ]
       },
       "properties": {
-        "number": 66,
+        "number": 64,
         "id": "hlybokadolyna",
         "kind": "house",
         "address": "Глибока Долина, 29",
@@ -583,7 +561,7 @@
         ]
       },
       "properties": {
-        "number": 70,
+        "number": 67,
         "id": "pid83",
         "kind": "house",
         "address": "Зелена, 28 за ВІСОН, СТ «Жовтневе» — номер не звірений на місці",
@@ -605,7 +583,7 @@
         ]
       },
       "properties": {
-        "number": 71,
+        "number": 68,
         "id": "land-dolyna-detail",
         "kind": "land",
         "address": "Ділянка · Глибока Долина, номер невідомий",
@@ -627,7 +605,7 @@
         ]
       },
       "properties": {
-        "number": 73,
+        "number": 70,
         "id": "land-pid52",
         "kind": "land",
         "address": "Ділянка · Підгороднє, заявлено 52 сотки — кадастр …3421",
@@ -644,34 +622,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.64443808,
-          49.52753068
-        ]
-      },
-      "properties": {
-        "number": 78,
-        "id": "hai125",
-        "kind": "house",
-        "address": "Івана Франка бічна, номер невідомий",
-        "district": "Великі Гаї",
-        "price": 61560,
-        "section": "excluded",
-        "mapPrecision": "приблизний маркер вулиці",
-        "reason": "DOM.RIA містить явну позначку видалення. Причина зняття невідома. Старі фото й €54 000 збережено як історію, обидва маршрути 500 м не доведені.",
-        "map": "https://www.google.com/maps/search/?api=1&query=49.52753068%2C25.64443808"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           25.543469,
           49.5855739
         ]
       },
       "properties": {
-        "number": 84,
+        "number": 79,
         "id": "proektna260",
         "kind": "house",
         "address": "Проєктна, номер не вказано",
@@ -693,7 +649,7 @@
         ]
       },
       "properties": {
-        "number": 85,
+        "number": 80,
         "id": "hai188-alt",
         "kind": "house",
         "address": "Шевченка, 22 — за оголошенням",
@@ -715,7 +671,7 @@
         ]
       },
       "properties": {
-        "number": 91,
+        "number": 86,
         "id": "pid120",
         "kind": "house",
         "address": "Садова, 15-А / Озерна — конфлікт адреси в дублікатах",
@@ -732,34 +688,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.68052128020716,
-          49.51456011382374
-        ]
-      },
-      "properties": {
-        "number": 93,
-        "id": "hai120",
-        "kind": "house",
-        "address": "Назарія Яремчука, номер невідомий",
-        "district": "Великі Гаї",
-        "price": 87000,
-        "section": "excluded",
-        "mapPrecision": "приблизний маркер вулиці",
-        "reason": "DOM.RIA містить явну позначку видалення. Причина невідома; старі $87 000 / 120 м² / 4 сотки й фото збережено як історію. Точна адреса й маршрути не доведені.",
-        "map": "https://www.google.com/maps/search/?api=1&query=49.51456011382374%2C25.68052128020716"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           25.642342685986925,
           49.51928661888711
         ]
       },
       "properties": {
-        "number": 94,
+        "number": 88,
         "id": "vhai-lesi-34082264",
         "kind": "house",
         "address": "Лесі Українки, 16 — номер із дубліката, не звірений на місці",
@@ -781,7 +715,7 @@
         ]
       },
       "properties": {
-        "number": 95,
+        "number": 89,
         "id": "ternopilska",
         "kind": "house",
         "address": "Тернопільська, номер не вказано",
@@ -803,7 +737,7 @@
         ]
       },
       "properties": {
-        "number": 105,
+        "number": 99,
         "id": "hai164",
         "kind": "house",
         "address": "Івана Франка / Франка бічна, номер невідомий",
@@ -825,7 +759,7 @@
         ]
       },
       "properties": {
-        "number": 107,
+        "number": 101,
         "id": "kalyna147",
         "kind": "house",
         "address": "Калинова / KALYNA HILLS · 147 м²",
@@ -847,7 +781,7 @@
         ]
       },
       "properties": {
-        "number": 108,
+        "number": 102,
         "id": "pid-lesi229",
         "kind": "house",
         "address": "Северина Наливайка, 12 (дубль помилково підписаний «Лесі Українки»)",
@@ -869,7 +803,7 @@
         ]
       },
       "properties": {
-        "number": 110,
+        "number": 104,
         "id": "kalyna120",
         "kind": "house",
         "address": "Калинова / KALYNA HILLS · 120 м²",
@@ -891,7 +825,7 @@
         ]
       },
       "properties": {
-        "number": 111,
+        "number": 105,
         "id": "kalyna179",
         "kind": "house",
         "address": "Калинова / KALYNA HILLS · 179 м²",
@@ -913,7 +847,7 @@
         ]
       },
       "properties": {
-        "number": 112,
+        "number": 106,
         "id": "malynova",
         "kind": "house",
         "address": "Малинова, СТ Тернопільське",
@@ -935,7 +869,7 @@
         ]
       },
       "properties": {
-        "number": 113,
+        "number": 107,
         "id": "kalyna117",
         "kind": "house",
         "address": "Калинова / KALYNA HILLS · 117.5 м²",
@@ -957,7 +891,7 @@
         ]
       },
       "properties": {
-        "number": 124,
+        "number": 118,
         "id": "tiutiunnyka",
         "kind": "house",
         "address": "Генерала Тютюнника, 22",
@@ -979,7 +913,7 @@
         ]
       },
       "properties": {
-        "number": 125,
+        "number": 119,
         "id": "leontovycha",
         "kind": "house",
         "address": "Леонтовича, імовірно 21",
@@ -1001,7 +935,7 @@
         ]
       },
       "properties": {
-        "number": 128,
+        "number": 122,
         "id": "festyvalna",
         "kind": "house",
         "address": "Фестивальна, номер не вказано",
@@ -1023,7 +957,7 @@
         ]
       },
       "properties": {
-        "number": 130,
+        "number": 124,
         "id": "myk115",
         "kind": "house",
         "address": "Микулинецька, 115",
@@ -1033,6 +967,72 @@
         "mapPrecision": "номер у рекламі; маркер не звірений з адресою",
         "reason": "Відсіяно: дуплекс у КМ Кленовий Гай, недозволений район. Ціна RIELTOR зросла з $100 000 до $110 000; ще 3% комісії.",
         "map": "https://www.google.com/maps/search/?api=1&query=49.51240158081055%2C25.618000030517578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.527700424194336,
+          49.541866302490234
+        ]
+      },
+      "properties": {
+        "number": 126,
+        "id": "land-pid27",
+        "kind": "land",
+        "address": "Ділянка · 27,41 сотки, кадастр …0722",
+        "district": "Підгороднє",
+        "price": 15000,
+        "section": "removed",
+        "mapPrecision": "маркер оголошення; межі не встановлені",
+        "reason": "Відсіяно: попри ярлик «під забудову», кадастровий блок указує 01.03 — особисте селянське господарство.",
+        "map": "https://www.google.com/maps/search/?api=1&query=49.541866302490234%2C25.527700424194336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.64443808,
+          49.52753068
+        ]
+      },
+      "properties": {
+        "number": 129,
+        "id": "hai125",
+        "kind": "house",
+        "address": "Івана Франка бічна, номер невідомий",
+        "district": "Великі Гаї",
+        "price": 61560,
+        "section": "removed",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "DOM.RIA містить явну позначку видалення. Причина зняття невідома. Старі фото й €54 000 збережено як історію, обидва маршрути 500 м не доведені.",
+        "map": "https://www.google.com/maps/search/?api=1&query=49.52753068%2C25.64443808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.68052128020716,
+          49.51456011382374
+        ]
+      },
+      "properties": {
+        "number": 130,
+        "id": "hai120",
+        "kind": "house",
+        "address": "Назарія Яремчука, номер невідомий",
+        "district": "Великі Гаї",
+        "price": 87000,
+        "section": "removed",
+        "mapPrecision": "приблизний маркер вулиці",
+        "reason": "DOM.RIA містить явну позначку видалення. Причина невідома; старі $87 000 / 120 м² / 4 сотки й фото збережено як історію. Точна адреса й маршрути не доведені.",
+        "map": "https://www.google.com/maps/search/?api=1&query=49.51456011382374%2C25.68052128020716"
       }
     }
   ]

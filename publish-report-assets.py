@@ -39,10 +39,9 @@ destination_root = Path(args.destination_root).resolve()
 destination_root.mkdir(parents=True, exist_ok=True)
 
 collector = LocalReferenceParser()
-documents = [report]
-sources_report = source_root / "sources.html"
-if sources_report.is_file() and sources_report != report:
-    documents.append(sources_report)
+documents = sorted(source_root.glob("*.html"))
+if report not in documents:
+    documents.append(report)
 for document in documents:
     collector.feed(document.read_text(encoding="utf-8-sig"))
 
@@ -60,7 +59,7 @@ for value in sorted(collector.references):
     if not source.is_file():
         missing.append({"reference": value, "reason": "source file missing"})
         continue
-    if source == report:
+    if source.suffix.lower() == ".html" and source.parent == source_root:
         continue
     destination.parent.mkdir(parents=True, exist_ok=True)
     if not destination.is_file() or destination.stat().st_size != source.stat().st_size:

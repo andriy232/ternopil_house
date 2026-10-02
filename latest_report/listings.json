@@ -3826,210 +3826,6 @@
       "priceLabel": "$140 000 DIM.RIA / $120 000 історичний OLX"
     },
     {
-      "id": "lemkivska",
-      "district": "Канада",
-      "address": "Лемківська, номер невідомий",
-      "price": 95000,
-      "area": 330,
-      "land": 4,
-      "section": "excluded",
-      "reason": "Лемківська: свіжа сторінка RITM.home $95 000 / 330 м² / 4,6 сотки. Фото фасаду зіставлено з відомою пропозицією OLX, де прямо заявлено дуплекс. Окремість цілого будинку не підтверджена; залишається у відсіві.",
-      "sources": [
-        {
-          "url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dupleks-v-privatnomu-masiv-kanada-ternopolya-IDXuIX2.html",
-          "label": "olx.ua",
-          "sourceType": "detail",
-          "verified": false,
-          "linkEnabled": false,
-          "removed": false,
-          "previouslyRemoved": false,
-          "checkedAt": "2026-10-02T09:02:54.976016+03:00",
-          "status": 403,
-          "requiresAuthentication": false,
-          "evidence": "sources/live-pages.json",
-          "method": "Колектор: публічне HTTP-читання 02.10.2026",
-          "availability": "HTTP 403: технічне обмеження, це не доказ продажу.",
-          "finalUrl": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dupleks-v-privatnomu-masiv-kanada-ternopolya-IDXuIX2.html",
-          "attempts": [
-            {
-              "checkedAt": "2026-09-30T09:02:46.377641+03:00",
-              "status": 403
-            }
-          ]
-        },
-        {
-          "url": "https://www.home.ritm.group/prodayetsya-2-poverhovij-budinok-v-rajoni-kanada-po-vul-lemkivska-z-dilyankoyu-v-46-sotih",
-          "label": "home.ritm.group",
-          "sourceType": "detail",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "previouslyRemoved": false,
-          "checkedAt": "2026-10-02T09:02:55.600471+03:00",
-          "status": 200,
-          "requiresAuthentication": false,
-          "evidence": "sources/de5eab20ea338c90.txt",
-          "method": "Колектор: публічне HTTP-читання 02.10.2026",
-          "availability": "Детальну сторінку прочитано; ознаки зняття немає. Продаж не гарантовано.",
-          "finalUrl": "https://www.home.ritm.group/prodayetsya-2-poverhovij-budinok-v-rajoni-kanada-po-vul-lemkivska-z-dilyankoyu-v-46-sotih",
-          "attempts": [
-            {
-              "checkedAt": "2026-09-30T09:02:47.001986+03:00",
-              "status": 200
-            }
-          ]
-        }
-      ],
-      "photos": [
-        "sources/photos/920f5ce9de5d4999955d.jpg",
-        "sources/photos/7f98b95fca4d7045b26b.jpg",
-        "sources/photos/2f8587daec5e5b85e603.jpg",
-        "sources/photos/257aaa6032c91d86b296.jpg",
-        "sources/photos/dc6dc784295559d1bf13.jpg",
-        "sources/photos/f02297a12178b86018b1.jpg",
-        "sources/photos/033ff3161eec62d5da74.jpg",
-        "sources/photos/d17edc27f2b89f8d607a.jpg",
-        "sources/photos/7e7ac8963518da75c6a5.jpg",
-        "sources/photos/ba44e69116f08a9b927d.jpg",
-        "sources/photos/bd613ad294fd52fd70e5.jpg",
-        "sources/photos/db2e78fcc77d4249214d.jpg",
-        "sources/photos/beb668b5003f2b0fb5d0.jpg",
-        "sources/photos/7b70286e98537ce9527b.jpg",
-        "sources/photos/85247fbd7b7236eb0e7f.jpg",
-        "sources/photos/8804b5f1a26450e507a0.jpg",
-        "sources/photos/481dfcb3ce259879c00d.jpg",
-        "sources/photos/003552b084fd1624b359.jpg",
-        "sources/photos/d1567ac48603debeb4ed.jpg",
-        "sources/photos/a6504da01dac91360aa0.jpg",
-        "sources/photos/25382cf5acaebfca44e1.jpg",
-        "sources/photos/89a444be4031af652514.jpg",
-        "sources/photos/3923ab26360508875860.jpg",
-        "sources/photos/0c0e2285c73bfbfaa0e9.png",
-        "sources/photos/e5109c3c9b8eba267564.png",
-        "sources/photos/df4912f26f3fae51817d.png",
-        "sources/photos/fa9a1df7b0663b3cb5af.png"
-      ],
-      "coords": null,
-      "location": "Номер/межі ділянки не підтверджені; маркер приблизний.",
-      "checkedAt": "2026-10-02T09:02:55.600471+03:00",
-      "availability": "page_readable",
-      "qualified_all_criteria": false,
-      "mapQuery": "Лемківська, номер невідомий, Тернопіль",
-      "map": "https://www.google.com/maps/search/?api=1&query=%D0%9B%D0%B5%D0%BC%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%2C%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B5%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
-      "satellite": "",
-      "centerKm": null,
-      "thumbnail": "sources/photos/920f5ce9de5d4999955d.jpg",
-      "numberKnown": false,
-      "mapPrecision": "адреса не встановлена",
-      "photoReviewDate": "2026-09-29",
-      "satelliteReview": "30.09.2026: свіжий супутник недоступний. Історична перевірка 2026-09-21: не встановлено",
-      "linkVerification": [
-        {
-          "url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dupleks-v-privatnomu-masiv-kanada-ternopolya-IDXuIX2.html",
-          "label": "olx.ua",
-          "sourceType": "detail",
-          "verified": false,
-          "linkEnabled": false,
-          "removed": false,
-          "previouslyRemoved": false,
-          "checkedAt": "2026-09-29T09:02:54.332353+03:00",
-          "status": 403,
-          "requiresAuthentication": false,
-          "evidence": "sources/history/111c59fe29da09e04bf6.json",
-          "method": "Публічне HTTP-читання колектором поточного запуску",
-          "availability": "Технічне обмеження HTTP 403; не доказ продажу.",
-          "finalUrl": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dupleks-v-privatnomu-masiv-kanada-ternopolya-IDXuIX2.html"
-        },
-        {
-          "url": "https://www.home.ritm.group/prodayetsya-2-poverhovij-budinok-v-rajoni-kanada-po-vul-lemkivska-z-dilyankoyu-v-46-sotih",
-          "label": "home.ritm.group",
-          "sourceType": "detail",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "previouslyRemoved": false,
-          "checkedAt": "2026-09-29T09:12:07.968613+03:00",
-          "status": 200,
-          "requiresAuthentication": false,
-          "evidence": "sources/history/f05c6edd8c021427bb45.txt",
-          "method": "Публічне HTTP-читання поточного запуску",
-          "availability": "Зміст сторінки прочитано; відсутність позначки зняття не доводить фактичної непроданості.",
-          "finalUrl": "https://www.home.ritm.group/prodayetsya-2-poverhovij-budinok-v-rajoni-kanada-po-vul-lemkivska-z-dilyankoyu-v-46-sotih"
-        }
-      ],
-      "setback": "29.09.2026: На фото фасад відділений від огорожі зеленню та вузьким двором. Громадський тротуар і ширину 1–2 м не виміряно.",
-      "kind": "house",
-      "number": 15,
-      "rank": 4,
-      "previousCheckedAt": "2026-10-01T09:02:45.980235+03:00",
-      "satelliteCheckedAt": "2026-09-21",
-      "mapEvidence": {
-        "checkedAt": "2026-09-30T09:38:27+03:00",
-        "newSatelliteVerification": false,
-        "attemptEvidence": "sources/browser-availability.json",
-        "historicalEvidence": "sources/history/baseline-before-run.json"
-      },
-      "verificationAttemptAt": "2026-10-02T09:02:55.600471+03:00",
-      "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
-      "evidence": [
-        "sources/history/111c59fe29da09e04bf6.json",
-        "sources/history/f05c6edd8c021427bb45.txt",
-        "sources/history/7b8b66ccfbaebf92d107.json",
-        "sources/history/9703786ead96dc3401b8.json",
-        "sources/history/74683923e48ecaf2a3bc.json"
-      ],
-      "commission": "Не вказана / не встановлена.",
-      "zoning": "Не перевірено в кадастровому блоці.",
-      "utilities": "Підключення мереж не перевірено.",
-      "setbackWidthMeters": null,
-      "setbackVerified": false,
-      "photoReview": "29.09.2026: Переглянуто всі 4 актуальні фото RITM і 23 історичні OLX. Видно той самий фасад з кількома балконами, спільну забудову та сирі приміщення у старій галереї. Номер не видно.",
-      "photoSources": [
-        "https://ireland.apollo.olxcdn.com/v1/files/gh3h82di3m2u2-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/88h3gpzgh1ws-UA/image;s=1200x1600",
-        "https://ireland.apollo.olxcdn.com/v1/files/2ambpbmk2vfg3-UA/image;s=1200x1600",
-        "https://ireland.apollo.olxcdn.com/v1/files/zh4ltz1wbgbh-UA/image;s=1200x1600",
-        "https://ireland.apollo.olxcdn.com/v1/files/qyxizuv6xchp3-UA/image;s=1200x1600",
-        "https://ireland.apollo.olxcdn.com/v1/files/dz5p4r4n7wtz-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/advry1nudf881-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/56fr1uax73213-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/312l5h4299793-UA/image;s=1200x1600",
-        "https://ireland.apollo.olxcdn.com/v1/files/fmyur8qzgo5v3-UA/image;s=1200x1600",
-        "https://ireland.apollo.olxcdn.com/v1/files/fdtoznudzye83-UA/image;s=1200x1600",
-        "https://ireland.apollo.olxcdn.com/v1/files/exmqff708dcg1-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/rh3gpkye9a3m1-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/lkrj3v5xwetm-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/qi9zklb8fvro3-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/otyk8k4d7x9b2-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/kznk0bh40fmr2-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/emy8x8ikdv5h2-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/y61dwso691263-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/x2lqyktmsw3x1-UA/image;s=1200x1600",
-        "https://ireland.apollo.olxcdn.com/v1/files/wwxi710f8rxs3-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/uhr3c6fyu6jm2-UA/image;s=1600x1200",
-        "https://ireland.apollo.olxcdn.com/v1/files/m29ouvf0pbyk1-UA/image;s=1600x1200"
-      ],
-      "measurements": {},
-      "allCriteriaEvidence": {
-        "qualified": false,
-        "checkedAt": "2026-10-01T09:30:03+03:00",
-        "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
-      },
-      "historicalMapEvidence": true,
-      "factsCheckedAt": "2026-10-01T09:02:45.980235+03:00",
-      "photoEvidenceDate": "2026-09-29T09:12:07.968613+03:00",
-      "status": "Детальний зміст прочитано; повна відповідність не доведена",
-      "cadastreLinks": [],
-      "priceCurrency": "USD",
-      "priceLabel": "$95 000 (RITM); попередній OLX $120 000",
-      "landConflict": "RITM: 4,6 сотки; попереднє OLX: 4 сотки. Межі й склад продажу не встановлені.",
-      "priceConflict": "29.09 пряма сторінка RITM.home: $95 000. Старий вебіндекс цієї сторінки показував $89 000; попереднє OLX — $120 000, сьогодні прямий OLX 403. Це конфлікт джерел/віку, не підтверджене зниження однієї ціни.",
-      "duplicates": "RITM 24292253 і старе OLX IDXuIX2 зіставлені за білим фасадом, конфігурацією балконів і вікон, цоколем та площею 330 м². Імовірний дубль однієї будівлі; юридичний склад/секція продажу та розбіжність 4/4,6 сотки не з’ясовані. Не рахувати окремою садибою.",
-      "photoReviewEvidence": [
-        "sources/history/12ac3f592158e59e3db6.json"
-      ]
-    },
-    {
       "id": "zagreb",
       "district": "Дружба",
       "address": "Загребельна, 12 / 26 — конфлікт номера",
@@ -4196,7 +3992,7 @@
       ],
       "setback": "30.09.2026: Між видимим фасадом та огорожею є смуга зелені, далі мощений тротуар. Ширину 1–2 м за перспективою не визначали.",
       "kind": "house",
-      "number": 16,
+      "number": 15,
       "rank": 5,
       "previousCheckedAt": "2026-10-01T09:02:51.475549+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -4383,7 +4179,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 17,
+      "number": 16,
       "previousCheckedAt": "2026-10-01T09:02:52.442782+03:00",
       "verificationAttemptAt": "2026-10-02T09:02:59.181101+03:00",
       "mapEvidence": {
@@ -4507,7 +4303,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 18,
+      "number": 17,
       "previousCheckedAt": "2026-10-01T09:02:53.670142+03:00",
       "verificationAttemptAt": "2026-10-02T09:03:00.544474+03:00",
       "mapEvidence": {
@@ -4690,7 +4486,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 19,
+      "number": 18,
       "previousCheckedAt": "2026-10-01T09:02:56.686395+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -4918,7 +4714,7 @@
       ],
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 20,
+      "number": 19,
       "previousCheckedAt": "2026-10-01T09:02:59.597024+03:00",
       "verificationAttemptAt": "2026-10-02T09:03:06.577158+03:00",
       "factsCheckedAt": "2026-10-01T09:02:58.380779+03:00",
@@ -5039,7 +4835,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 21,
+      "number": 20,
       "previousCheckedAt": "2026-10-01T09:03:00.500674+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -5168,7 +4964,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 22,
+      "number": 21,
       "previousCheckedAt": "2026-10-01T09:03:01.308959+03:00",
       "verificationAttemptAt": "2026-10-02T09:03:08.338351+03:00",
       "mapEvidence": {
@@ -5300,7 +5096,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 23,
+      "number": 22,
       "previousCheckedAt": "2026-10-01T09:03:02.432805+03:00",
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
@@ -5462,7 +5258,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 24,
+      "number": 23,
       "previousCheckedAt": "2026-10-01T09:03:03.680884+03:00",
       "verificationAttemptAt": "2026-10-02T09:03:10.724852+03:00",
       "historicalMapEvidence": true,
@@ -5689,7 +5485,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 25,
+      "number": 24,
       "historicalMapEvidence": true,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
@@ -5821,7 +5617,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 26,
+      "number": 25,
       "previousCheckedAt": "2026-10-01T09:03:06.967921+03:00",
       "verificationAttemptAt": "2026-10-02T09:03:13.992125+03:00",
       "mapEvidence": {
@@ -6000,7 +5796,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 27,
+      "number": 26,
       "previousCheckedAt": "2026-10-01T09:03:09.516707+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -6358,7 +6154,7 @@
       },
       "photoCheckedAt": "2026-09-21",
       "rowHousing": "На фото садова розріджена забудова, ознак щільного ряду однакових будинків немає.",
-      "number": 28,
+      "number": 27,
       "rank": 6,
       "previousCheckedAt": "2026-10-01T09:03:15.195318+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -6517,7 +6313,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 29,
+      "number": 28,
       "previousCheckedAt": "2026-10-01T09:03:15.972280+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -6640,7 +6436,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 30,
+      "number": 29,
       "previousCheckedAt": "2026-10-01T09:03:16.738447+03:00",
       "verificationAttemptAt": "2026-10-02T09:03:24.543666+03:00",
       "mapEvidence": {
@@ -6803,7 +6599,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 31,
+      "number": 30,
       "historicalMapEvidence": true,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
@@ -6966,7 +6762,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 32,
+      "number": 31,
       "historicalMapEvidence": true,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
@@ -7126,7 +6922,7 @@
       ],
       "priceCurrency": "USD",
       "rank": 6,
-      "number": 33,
+      "number": 32,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
         "newSatelliteVerification": false,
@@ -7251,7 +7047,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 34,
+      "number": 33,
       "previousCheckedAt": "2026-10-01T09:03:22.079041+03:00",
       "verificationAttemptAt": "2026-10-02T09:03:29.720088+03:00",
       "mapEvidence": {
@@ -7394,7 +7190,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 35,
+      "number": 34,
       "previousCheckedAt": "2026-10-01T09:03:24.300599+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -7518,7 +7314,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 36,
+      "number": 35,
       "previousCheckedAt": "2026-09-30T09:38:27+03:00",
       "verificationAttemptAt": "2026-10-01T09:30:03+03:00",
       "mapEvidence": {
@@ -7635,7 +7431,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 37,
+      "number": 36,
       "previousCheckedAt": "2026-10-01T09:03:25.174811+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -7758,7 +7554,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 38,
+      "number": 37,
       "previousCheckedAt": "2026-10-01T09:03:26.036576+03:00",
       "verificationAttemptAt": "2026-10-02T09:03:33.407149+03:00",
       "mapEvidence": {
@@ -7861,7 +7657,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 39,
+      "number": 38,
       "previousCheckedAt": "2026-10-01T09:03:27.146543+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -7946,7 +7742,7 @@
       "rowHousing": "Відкрита садова забудова, поле й низькі споруди. Однотипного щільного ряду на фото немає; точне оточення невідоме.",
       "photoCheckedAt": "2026-09-21",
       "excludedByGeography": true,
-      "number": 40,
+      "number": 39,
       "rank": 6,
       "previousCheckedAt": "2026-09-30T09:38:27+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -8144,7 +7940,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "photoEvidenceDate": "2026-09-23T09:27:42.486900+03:00",
       "rank": 6,
-      "number": 41,
+      "number": 40,
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "previousCheckedAt": "2026-10-01T09:03:28.560078+03:00",
       "verificationAttemptAt": "2026-10-02T09:03:35.899020+03:00",
@@ -8292,7 +8088,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 42,
+      "number": 41,
       "previousCheckedAt": "2026-10-01T09:03:29.353639+03:00",
       "verificationAttemptAt": "2026-10-02T09:03:36.736103+03:00",
       "mapEvidence": {
@@ -8416,7 +8212,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 43,
+      "number": 42,
       "previousCheckedAt": "2026-10-01T09:03:30.088144+03:00",
       "verificationAttemptAt": "2026-10-02T09:03:37.538843+03:00",
       "mapEvidence": {
@@ -8599,7 +8395,7 @@
       ],
       "priceCurrency": "USD",
       "rank": 6,
-      "number": 44,
+      "number": 43,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
         "newSatelliteVerification": false,
@@ -8741,7 +8537,7 @@
       "measurements": {},
       "rowHousing": "Відкрите поле та один огороджений сусід; щільного однотипного ряду на цих фото не видно. Повного огляду немає.",
       "photoCheckedAt": "2026-09-21",
-      "number": 45,
+      "number": 44,
       "rank": 6,
       "commission": "5% = $750; разом $15 750 до інших витрат.",
       "previousCheckedAt": "2026-10-01T09:03:33.542576+03:00",
@@ -8886,276 +8682,6 @@
       }
     },
     {
-      "id": "land-pid27",
-      "kind": "land",
-      "district": "Підгороднє",
-      "address": "Ділянка · 27,41 сотки, кадастр …0722",
-      "price": 15000,
-      "area": null,
-      "land": 27.41,
-      "section": "excluded",
-      "reason": "Відсіяно: попри ярлик «під забудову», кадастровий блок указує 01.03 — особисте селянське господарство.",
-      "sources": [
-        {
-          "url": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846671/",
-          "label": "rieltor.ua",
-          "sourceType": "detail",
-          "verified": false,
-          "linkEnabled": false,
-          "removed": true,
-          "previouslyRemoved": true,
-          "checkedAt": "2026-10-02T09:03:41.808211+03:00",
-          "status": 410,
-          "requiresAuthentication": false,
-          "evidence": "sources/live-pages.json",
-          "method": "Колектор: публічне HTTP-читання 02.10.2026",
-          "availability": "Сторінка явно знята з пошуку або повертає 410.",
-          "finalUrl": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846671/",
-          "attempts": [
-            {
-              "checkedAt": "2026-09-30T09:03:19.246884+03:00",
-              "status": 410
-            }
-          ]
-        },
-        {
-          "url": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:0722",
-          "label": "kadastrova-karta.com",
-          "sourceType": "cadastre",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "previouslyRemoved": false,
-          "checkedAt": "2026-10-02T09:03:42.763475+03:00",
-          "status": 200,
-          "requiresAuthentication": false,
-          "evidence": "sources/85e807ed819c391a.txt",
-          "method": "Колектор: публічне HTTP-читання 02.10.2026",
-          "availability": "Детальну сторінку прочитано; ознаки зняття немає. Продаж не гарантовано.",
-          "finalUrl": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:0722",
-          "attempts": [
-            {
-              "checkedAt": "2026-09-30T09:03:20.242924+03:00",
-              "status": 200
-            },
-            {
-              "checkedAt": "2026-09-30T09:10:49.794662+03:00",
-              "status": 200
-            }
-          ]
-        },
-        {
-          "url": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846669/",
-          "label": "rieltor.ua",
-          "sourceType": "detail",
-          "verified": false,
-          "linkEnabled": false,
-          "removed": true,
-          "previouslyRemoved": true,
-          "checkedAt": "2026-10-02T09:03:43.662363+03:00",
-          "status": 410,
-          "requiresAuthentication": false,
-          "evidence": "sources/live-pages.json",
-          "method": "Колектор: публічне HTTP-читання 02.10.2026",
-          "availability": "Сторінка явно знята з пошуку або повертає 410.",
-          "finalUrl": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846669/",
-          "attempts": [
-            {
-              "checkedAt": "2026-09-30T09:03:21.117950+03:00",
-              "status": 410
-            }
-          ]
-        }
-      ],
-      "photos": [
-        "sources/photos/b6bc1dd933ab7eebe666.jpg",
-        "sources/photos/9d1b94039b2ef939f050.jpg",
-        "sources/photos/e30c798c0ed772c6a356.jpg"
-      ],
-      "thumbnail": "sources/photos/b6bc1dd933ab7eebe666.jpg",
-      "coords": [
-        49.541866302490234,
-        25.527700424194336
-      ],
-      "centerKm": 5.01,
-      "map": "https://www.google.com/maps/search/?api=1&query=49.541866302490234%2C25.527700424194336",
-      "satellite": "https://www.google.com/maps/@49.541866302490234,25.527700424194336,18z/data=!3m1!1e3",
-      "mapPrecision": "маркер оголошення; межі не встановлені",
-      "numberKnown": false,
-      "location": "Точка оголошення орієнтовна; конкретні межі не звірені з кадастром.",
-      "condition": "Електрика й газ уздовж ділянки, підключень не підтверджено; води/каналізації немає в описі. Без комісії за карткою.",
-      "utilities": "Електрика й газ уздовж ділянки, підключень не підтверджено; води/каналізації немає в описі. Без комісії за карткою.",
-      "zoning": "6125286900:02:001:0722; кадастрові дані порталу: землі сільськогосподарського призначення, ОСГ. Не готова житлова ділянка за вашою умовою.",
-      "setback": "Незабудована ділянка / наявну житлову стіну не ідентифіковано: відступ майбутнього будинку 1–2 м не встановлений; потрібен план забудови. Історичний огляд: Будинок треба проєктувати з відступом від тротуару 1–2 м або більше; габарити й допустиме розміщення не встановлені.",
-      "driveway": "На фото ґрунтова колія вздовж поля; права й ширина проїзду не підтверджені.",
-      "privacy": "Забудова переважно вдалині; визначити суміжні ділянки за трьома фото не вдалося.",
-      "terrain": "Схил із видом у долину, поруч повітряні лінії. Висоти, водовідведення та межі обмежень не встановлені.",
-      "checkedAt": "2026-10-02T09:03:43.662363+03:00",
-      "qualified_all_criteria": false,
-      "linkVerification": [
-        {
-          "url": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846671/",
-          "label": "rieltor.ua",
-          "sourceType": "detail",
-          "verified": false,
-          "linkEnabled": false,
-          "removed": true,
-          "previouslyRemoved": false,
-          "checkedAt": "2026-09-29T09:03:28.478280+03:00",
-          "status": 410,
-          "requiresAuthentication": false,
-          "evidence": "sources/history/111c59fe29da09e04bf6.json",
-          "method": "Публічне HTTP-читання колектором поточного запуску",
-          "availability": "Сторінку знято або URL повертає 404/410; причина невідома, продаж не доведений.",
-          "finalUrl": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846671/"
-        },
-        {
-          "url": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:0722",
-          "label": "kadastrova-karta.com",
-          "sourceType": "cadastre",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "previouslyRemoved": false,
-          "checkedAt": "2026-09-29T09:09:21.463596+03:00",
-          "status": 200,
-          "requiresAuthentication": false,
-          "evidence": "sources/history/f165deaa9d554bc2ce1a.txt",
-          "method": "Публічне HTTP-читання поточного запуску",
-          "availability": "Зміст сторінки прочитано; відсутність позначки зняття не доводить фактичної непроданості.",
-          "finalUrl": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:0722"
-        },
-        {
-          "url": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846669/",
-          "label": "rieltor.ua",
-          "sourceType": "detail",
-          "verified": false,
-          "linkEnabled": false,
-          "removed": true,
-          "previouslyRemoved": true,
-          "checkedAt": "2026-09-29T09:03:30.488946+03:00",
-          "status": 410,
-          "requiresAuthentication": false,
-          "evidence": "sources/history/111c59fe29da09e04bf6.json",
-          "method": "Публічне HTTP-читання колектором поточного запуску",
-          "availability": "Сторінку знято або URL повертає 404/410; причина невідома, продаж не доведений.",
-          "finalUrl": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846669/"
-        }
-      ],
-      "measurements": {
-        "rail": {
-          "meters": 4849,
-          "name": "Тернопіль - Копичинці",
-          "url": "https://www.openstreetmap.org/way/1463703213",
-          "basis": "приблизний маркер оголошення",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
-          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
-          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
-        },
-        "cemetery": {
-          "meters": 285,
-          "name": "cemetery",
-          "url": "https://www.openstreetmap.org/way/171453310",
-          "basis": "приблизний маркер оголошення",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
-          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
-          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
-        },
-        "stop": {
-          "meters": 587,
-          "name": "Зупинка Підгороднє — Google Maps",
-          "url": "https://www.google.com/maps/search/?api=1&query=49.5381554,25.5219174",
-          "basis": "приблизний маркер оголошення",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
-          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
-          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
-        },
-        "kindergarten": {
-          "meters": 482,
-          "name": "Дошкільне відділення, Пасічна, 9",
-          "url": "https://pidgorodnyanska-gromada.gov.ua/pidgorodnyanska-pochatkova-shkola-z-doshkilnim-viddilennyam-13-47-16-06-06-2022/",
-          "basis": "приблизний маркер оголошення",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
-          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
-          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
-        }
-      },
-      "rowHousing": "Забудова переважно вдалині; визначити суміжні ділянки за трьома фото не вдалося.",
-      "photoCheckedAt": "2026-09-21",
-      "number": 46,
-      "rank": 6,
-      "previousCheckedAt": "2026-10-01T09:03:36.033254+03:00",
-      "satelliteCheckedAt": "2026-09-21",
-      "satelliteReview": "30.09.2026: свіжий супутник недоступний. Історична перевірка 2026-09-21: Забудова переважно вдалині; визначити суміжні ділянки за трьома фото не вдалося.",
-      "mapEvidence": {
-        "checkedAt": "2026-09-30T09:38:27+03:00",
-        "newSatelliteVerification": false,
-        "attemptEvidence": "sources/browser-availability.json",
-        "historicalEvidence": "sources/history/baseline-before-run.json"
-      },
-      "verificationAttemptAt": "2026-10-02T09:03:43.662363+03:00",
-      "availability": "removed_or_history",
-      "availabilityNote": "02.10.2026: сторінку явно знято або URL повернув 410; історичні факти збережено.",
-      "evidence": [
-        "sources/history/111c59fe29da09e04bf6.json",
-        "sources/history/f165deaa9d554bc2ce1a.txt",
-        "sources/history/7b8b66ccfbaebf92d107.json",
-        "sources/history/a7d02fb5f8bb404ab754.txt",
-        "sources/history/7979c2a9ca75e18f34c0.txt",
-        "sources/history/496bde75d356732093a2.txt",
-        "sources/history/a8a1d55cf904ac773c50.txt",
-        "sources/history/74683923e48ecaf2a3bc.json"
-      ],
-      "commission": "Джерело заявляє: без комісії.",
-      "setbackWidthMeters": null,
-      "setbackVerified": false,
-      "photoReviewDate": "2026-09-21T12:49:56.092201+03:00",
-      "photoReview": "Історичний огляд (нова галерея повністю не переглядалася): Фото цього запуску завантажено;  повний новий візуальний огляд для цього рядка не проводився. Історичний висновок: Попередній перегляд від 2026-09-21T12:49:56.092201+03:00. Повторний повний перегляд у цьому запуску не заявляється.",
-      "photoSources": [
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/231c2c9f99ae9c3f53a32fb64728adc6.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/a768ab7c2fdeb07d68ae09024d9fe443.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/e0e820ac384f8da1013c35551f3ed3ad.jpg"
-      ],
-      "mapQuery": "27,41 сотки, кадастр …0722, Підгороднє",
-      "allCriteriaEvidence": {
-        "qualified": false,
-        "checkedAt": "2026-10-01T09:30:03+03:00",
-        "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
-      },
-      "cadastreLinks": [
-        {
-          "number": "6125286900:02:001:0722",
-          "url": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:0722",
-          "label": "6125286900:02:001:0722",
-          "checkedAt": "2026-10-02T09:03:42.763475+03:00",
-          "verified": true,
-          "evidence": "sources/85e807ed819c391a.txt",
-          "referenceOnly": true,
-          "status": 200,
-          "requiresAuthentication": false
-        }
-      ],
-      "cadastreNote": "RIELTOR верифікує номер, але кадастровий блок оголошення показує 01.03 — особисте селянське господарство. До купівлі під житлову забудову потрібна офіційна перевірка призначення та можливості його зміни.",
-      "historicalMapEvidence": true,
-      "factsCheckedAt": "2026-09-27T09:03:43.853121+03:00",
-      "photoEvidenceDate": "2026-09-23T09:27:42.486900+03:00",
-      "status": "Зняте оголошення / історія",
-      "landConflict": "26.09.2026 обидва RIELTOR-дублі заявляють 27,41 сотки, довідкова кадастрова сторінка — 0,2752 га / 27,52 сотки. Категорія ОСГ 01.03, не готова житлова ділянка.",
-      "priceCurrency": "USD"
-    },
-    {
       "id": "land-zdorovia75",
       "kind": "land",
       "section": "excluded",
@@ -9287,7 +8813,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 47,
+      "number": 45,
       "previousCheckedAt": "2026-10-01T09:03:37.122093+03:00",
       "verificationAttemptAt": "2026-10-02T09:03:44.675434+03:00",
       "mapEvidence": {
@@ -9396,7 +8922,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 48,
+      "number": 46,
       "previousCheckedAt": "2026-10-01T09:03:38.350494+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -9495,7 +9021,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 49,
+      "number": 47,
       "previousCheckedAt": "2026-10-01T09:03:39.132985+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -9592,7 +9118,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 50,
+      "number": 48,
       "previousCheckedAt": "2026-10-01T09:03:40.101619+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -9734,7 +9260,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 51,
+      "number": 49,
       "previousCheckedAt": "2026-10-01T09:03:42.088058+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -9882,7 +9408,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 52,
+      "number": 50,
       "previousCheckedAt": "2026-10-01T09:03:43.833062+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -10178,7 +9704,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "photoEvidenceDate": "2026-09-28T09:22:19.320418+03:00",
       "rank": 6,
-      "number": 53,
+      "number": 51,
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "previousCheckedAt": "2026-10-01T09:03:48.507290+03:00",
       "verificationAttemptAt": "2026-10-02T09:03:56.032313+03:00",
@@ -10324,7 +9850,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 54,
+      "number": 52,
       "previousCheckedAt": "2026-10-01T09:03:49.268012+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -10499,7 +10025,7 @@
       },
       "rowHousing": "У доступних ракурсах окремі різні приватні будинки; безпосередніх висоток не видно. Межі й усе оточення не підтверджені.",
       "photoCheckedAt": "2026-09-21",
-      "number": 55,
+      "number": 53,
       "rank": 6,
       "previousCheckedAt": "2026-10-01T09:03:51.444415+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -10780,7 +10306,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 56,
+      "number": 54,
       "previousCheckedAt": "2026-10-01T09:03:53.222466+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:01.037674+03:00",
       "mapEvidence": {
@@ -10888,7 +10414,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 57,
+      "number": 55,
       "previousCheckedAt": "2026-10-01T09:03:54.081864+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -11027,7 +10553,7 @@
       },
       "rowHousing": "Поряд різні окремі двоповерхові будинки. Суцільного однотипного ряду на фото не видно; повного огляду суміжних ділянок немає.",
       "photoCheckedAt": "2026-09-21",
-      "number": 58,
+      "number": 56,
       "rank": 6,
       "previousCheckedAt": "2026-10-01T09:03:54.970667+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -11174,7 +10700,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 59,
+      "number": 57,
       "previousCheckedAt": "2026-10-01T09:03:56.613811+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -11330,7 +10856,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 60,
+      "number": 58,
       "previousCheckedAt": "2026-10-01T09:03:58.367526+03:00",
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
@@ -11504,7 +11030,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 61,
+      "number": 59,
       "historicalMapEvidence": true,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
@@ -11731,7 +11257,7 @@
       },
       "rowHousing": "У кадрах малоповерхові сусіди, без безпосередньої висотки; дерева закривають частину оточення.",
       "photoCheckedAt": "2026-09-21",
-      "number": 62,
+      "number": 60,
       "rank": 6,
       "previousCheckedAt": "2026-10-01T09:04:02.346057+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -11992,7 +11518,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 63,
+      "number": 61,
       "previousCheckedAt": "2026-10-01T09:04:06.722304+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -12464,7 +11990,7 @@
       ],
       "setback": "30.09.2026: Стіни оточені ґрунтом/травою, тротуар не ідентифікований. Ширина необхідного відступу невідома.",
       "kind": "house",
-      "number": 64,
+      "number": 62,
       "rank": 6,
       "commission": "Новий RIELTOR: без комісії. У старих матеріалах були суперечливі умови; потрібні умови конкретної угоди.",
       "previousCheckedAt": "2026-10-01T09:04:07.747101+03:00",
@@ -12653,7 +12179,7 @@
       ],
       "priceCurrency": "USD",
       "rank": 6,
-      "number": 65,
+      "number": 63,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
         "newSatelliteVerification": false,
@@ -13149,7 +12675,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 66,
+      "number": 64,
       "rank": 6,
       "previousCheckedAt": "2026-10-01T09:04:08.913815+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -13386,7 +12912,7 @@
       ],
       "priceCurrency": "USD",
       "rank": 6,
-      "number": 67,
+      "number": 65,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
         "newSatelliteVerification": false,
@@ -13398,155 +12924,6 @@
       "previousCheckedAt": "2026-10-01T09:04:10.217857+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:16.142046+03:00",
       "historicalMapEvidence": true
-    },
-    {
-      "id": "pid-verbytskoho120",
-      "section": "excluded",
-      "kind": "house",
-      "address": "Вербицького, 10 — номер із оголошення",
-      "district": "Підгороднє",
-      "price": 48000,
-      "area": 120,
-      "land": 3.7,
-      "coords": null,
-      "centerKm": null,
-      "numberKnown": false,
-      "mapPrecision": "адреса не встановлена",
-      "reason": "26.09.2026 актуальність детального оголошення не підтверджена; ціна й фото з попередньої перевірки. RIELTOR 12869535 повторно повертає HTTP 410 24.09.2026. Причина зняття невідома. Історичні $48 000 / 120 м² / 3,7 сотки збережені; не плутати з новою окремою недобудовою 285 м² / 20 соток за $65 000 на Вербицького.",
-      "sources": [
-        {
-          "url": "https://rieltor.ua/podgorodnoe-1698/houses-sale/view/12869535/",
-          "label": "rieltor.ua",
-          "sourceType": "detail",
-          "verified": false,
-          "linkEnabled": false,
-          "removed": true,
-          "previouslyRemoved": false,
-          "checkedAt": "2026-10-02T09:04:16.758489+03:00",
-          "status": 410,
-          "requiresAuthentication": false,
-          "evidence": "sources/live-pages.json",
-          "method": "Колектор: публічне HTTP-читання 02.10.2026",
-          "availability": "Сторінка явно знята з пошуку або повертає 410.",
-          "finalUrl": "https://rieltor.ua/podgorodnoe-1698/houses-sale/view/12869535/",
-          "attempts": [
-            {
-              "checkedAt": "2026-09-30T09:03:36.422800+03:00",
-              "status": 429
-            }
-          ]
-        }
-      ],
-      "photos": [
-        "sources/history/photos/1e6a870c83d9a79965ea.jpg",
-        "sources/history/photos/532977febc1465323b05.jpg",
-        "sources/history/photos/52457a300176baf2757a.jpg",
-        "sources/history/photos/72743dab7a7eed0c010f.jpg",
-        "sources/history/photos/76321035ba5f83f155eb.jpg",
-        "sources/history/photos/250c38ce2abfe755f7a9.jpg",
-        "sources/history/photos/8b8d7b5162c8987b6a2a.jpg",
-        "sources/history/photos/c527d8684ad815a60c61.jpg",
-        "sources/history/photos/1eb03137493ecc1bbd23.jpg",
-        "sources/history/photos/92eb9608fe40c1d7dec4.jpg",
-        "sources/history/photos/90ca8d6c9c5c87412024.jpg",
-        "sources/history/photos/0bc35f4dc5a21e4397bb.jpg",
-        "sources/history/photos/243926d9a59d02f337d5.jpg",
-        "sources/history/photos/10f068522b4f86ddef83.jpg",
-        "sources/history/photos/be1985b218176a86ceb9.jpg",
-        "sources/history/photos/0d24ccd8dcd249ae1e57.jpg",
-        "sources/history/photos/3c667708a3fbd0933eef.jpg"
-      ],
-      "thumbnail": "sources/history/photos/1e6a870c83d9a79965ea.jpg",
-      "qualified_all_criteria": false,
-      "checkedAt": "2026-10-02T09:04:16.758489+03:00",
-      "measurements": {},
-      "satelliteReview": "30.09.2026: свіжий супутник недоступний. Історична перевірка дата не встановлена: Суміжні багатоповерхівки та приватність двору не перевірено.",
-      "satelliteCheckedAt": null,
-      "setback": "Не встановлено: фото перелічені в галереї, але в цьому запуску візуально не завантажені; ширина відступу стіни від тротуару невідома.",
-      "infrastructure": "Історична перевірка від 2026-09-21; цього запуску маршрути не повторювались. Не встановлені обидва пішохідні маршрути від виходу з двору до зупинки та підтвердженого садочка ≤500 м. Відстань по прямій не обчислювалась без надійної точки.",
-      "terrain": "Низину, перехрестя та положення ділянки не перевірено. Супутник без висот не доводить відсутність низини.",
-      "privacy": "Суміжні багатоповерхівки та приватність двору не перевірено.",
-      "rowHousing": "Щільний ряд однотипних будинків не виключено.",
-      "driveway": "Асфальтований під’їзд заявлений. Заїзд через ворота не перевірено.",
-      "commission": "У rieltor.ua зазначено 5%.",
-      "zoning": "Не встановлено в кадастровому блоці.",
-      "utilities": "Заявлена власна свердловина; всі підключення не доведені.",
-      "commissionPercent": 5,
-      "totalWithCommission": 50400,
-      "landConflict": "3 сотки в картці; 0,037 га (3,7 сотки) в описі. Кадастрову площу не підтверджено.",
-      "previousCheckedAt": "2026-10-01T09:04:10.845077+03:00",
-      "verificationAttemptAt": "2026-10-02T09:04:16.758489+03:00",
-      "linkVerification": [
-        {
-          "url": "https://rieltor.ua/podgorodnoe-1698/houses-sale/view/12869535/",
-          "label": "rieltor.ua",
-          "sourceType": "detail",
-          "verified": false,
-          "linkEnabled": false,
-          "removed": false,
-          "previouslyRemoved": true,
-          "checkedAt": "2026-09-29T09:10:58.724570+03:00",
-          "status": 429,
-          "requiresAuthentication": false,
-          "evidence": "sources/history/0c2e5b9363ab47323ce9.json",
-          "method": "Публічне HTTP-читання поточного запуску",
-          "availability": "Технічне обмеження HTTP 429; не доказ продажу. Попередню позначку зняття не спростовано; технічна помилка не доводить відновлення.",
-          "finalUrl": "https://rieltor.ua/podgorodnoe-1698/houses-sale/view/12869535/"
-        }
-      ],
-      "availability": "unverified",
-      "availabilityNote": "02.10.2026: сторінку явно знято або URL повернув 410; історичні факти збережено.",
-      "evidence": [
-        "sources/history/0c2e5b9363ab47323ce9.json",
-        "sources/history/7b8b66ccfbaebf92d107.json",
-        "sources/history/9703786ead96dc3401b8.json",
-        "sources/history/74683923e48ecaf2a3bc.json"
-      ],
-      "setbackWidthMeters": null,
-      "setbackVerified": false,
-      "photoReviewDate": null,
-      "photoReview": "Історичний огляд (нова галерея повністю не переглядалася): Збережено фото попереднього звіту;  повний новий візуальний огляд для цього рядка не проводився. Історичний висновок: Попередній перегляд від None. Повторний повний перегляд у цьому запуску не заявляється.",
-      "photoSources": [
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141533628439.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141533828713.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141445698261.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141445677862.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141445701318.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141445700601.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141445702123.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141446618584.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141446626360.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141446633764.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141446623398.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141446636374.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141531605583.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141531648706.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141531546957.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141531590461.jpg",
-        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141531559598.jpg"
-      ],
-      "mapQuery": "Вербицького 10, Підгородне, Тернопільська область",
-      "map": "https://www.google.com/maps/search/?api=1&query=%D0%92%D0%B5%D1%80%D0%B1%D0%B8%D1%86%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2010%2C%20%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%B5%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
-      "satellite": "",
-      "allCriteriaEvidence": {
-        "qualified": false,
-        "checkedAt": "2026-10-01T09:30:03+03:00",
-        "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
-      },
-      "rank": 6,
-      "number": 68,
-      "historicalMapEvidence": true,
-      "mapEvidence": {
-        "checkedAt": "2026-09-30T09:38:27+03:00",
-        "newSatelliteVerification": false,
-        "attemptEvidence": "sources/browser-availability.json",
-        "historicalEvidence": "sources/history/baseline-before-run.json"
-      },
-      "factsCheckedAt": "2026-09-22T06:10:00.667Z",
-      "photoEvidenceDate": null,
-      "status": "Технічно не перевірено / історія",
-      "cadastreLinks": [],
-      "priceCurrency": "USD"
     },
     {
       "id": "land-ternopilska842",
@@ -13709,7 +13086,7 @@
       "priceConflict": "DIM.RIA 34127108 — $49 000; ВІСОН 26-163-697 — $52 900. Одночасна розбіжність, не доведене зниження ціни.",
       "landConflict": "DIM.RIA 8,5 сотки; ВІСОН 8,42 сотки. Точної кадастрової площі немає.",
       "rank": 6,
-      "number": 69,
+      "number": 66,
       "previousCheckedAt": "2026-10-01T09:04:14.389220+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:18.837935+03:00",
       "mapEvidence": {
@@ -14212,7 +13589,7 @@
       ],
       "setback": "27.09.2026: Між фасадом і огорожею видно двір/сходи. Примикання стіни до тротуару не видно; точний відступ не виміряний.",
       "kind": "house",
-      "number": 70,
+      "number": 67,
       "rank": 6,
       "landConflict": "8,5 сотки в актуальній картці DIM.RIA; 8,56 у попередньому записі. Документальна площа не звірена.",
       "priceConflict": "DIM.RIA $50 000; LUN містить схожу пропозицію 83 м²/8,5 сотки за $57 000 і $50 000. Тотожність дорожчої картки не доведена, це не встановлена зміна ціни садиби.",
@@ -14403,7 +13780,7 @@
       },
       "duplicates": "Маркер лише приблизно за 22 м від Глибокої Долини, 29. Може бути той самий або сусідній наділ, але 6,3 проти 7 соток і різні фото не дозволяють об’єднати без підтвердження.",
       "photoCheckedAt": "2026-09-21",
-      "number": 71,
+      "number": 68,
       "rank": 6,
       "priceConflict": "DIM.RIA: 2 245 000 грн у заголовку та $50 000 у валютному відображенні. Це ціни порталу, незалежний поточний курс не застосовувався.",
       "previousCheckedAt": "2026-10-01T09:04:16.215990+03:00",
@@ -14551,7 +13928,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 72,
+      "number": 69,
       "previousCheckedAt": "2026-10-01T09:04:16.994162+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -14695,7 +14072,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 73,
+      "number": 70,
       "previousCheckedAt": "2026-10-01T09:04:19.074934+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -14812,7 +14189,7 @@
       "availabilityNote": "02.10.2026: технічне обмеження доступу до деталей; продаж не доведено.",
       "photoEvidenceDate": "2026-09-23T09:27:42.486900+03:00",
       "rank": 6,
-      "number": 74,
+      "number": 71,
       "status": "Технічно не перевірено / історія",
       "previousCheckedAt": "2026-10-01T09:04:19.949020+03:00",
       "verificationAttemptAt": "2026-10-02T09:02:34.304201+03:00",
@@ -14946,7 +14323,7 @@
         }
       ],
       "rank": 6,
-      "number": 75,
+      "number": 72,
       "previousCheckedAt": "2026-10-01T09:04:21.725343+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:24.155751+03:00",
       "mapEvidence": {
@@ -15071,7 +14448,7 @@
       ],
       "priceCurrency": "USD",
       "rank": 6,
-      "number": 76,
+      "number": 73,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
         "newSatelliteVerification": false,
@@ -15082,488 +14459,6 @@
       "previousCheckedAt": "2026-10-01T09:00:49.199446+03:00",
       "verificationAttemptAt": "2026-10-02T09:00:47.544396+03:00",
       "historicalMapEvidence": true
-    },
-    {
-      "id": "hai-shevchenka60",
-      "section": "excluded",
-      "kind": "house",
-      "address": "Шевченка, будинок 60 м² — номер невідомий",
-      "district": "Великі Гаї",
-      "price": 60000,
-      "area": 60,
-      "land": 5,
-      "coords": null,
-      "centerKm": null,
-      "map": "https://www.google.com/maps/search/?api=1&query=%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%B0%2C%20%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%2060%20%D0%BC%C2%B2%20%E2%80%94%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B5%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%2C%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D1%96%20%D0%93%D0%B0%D1%97%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
-      "satellite": "",
-      "mapPrecision": "адреса двору не встановлена; назва вулиці/номер лише з оголошення",
-      "numberKnown": false,
-      "reason": "30.09: DIM.RIA 34942335 повідомляє «Оголошення видалено та не бере участі у пошуку» попри HTTP 200. Посилання вимкнено; продаж не доведений. Історія: візуалізація та незавершені стіни без даху/вікон, 60 м²; маршрути до садочка і зупинки не підтверджені.",
-      "sources": [
-        {
-          "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-shevchenko-ulitsa-34942335.html",
-          "label": "dom.ria.com",
-          "sourceType": "detail",
-          "verified": false,
-          "linkEnabled": false,
-          "removed": true,
-          "previouslyRemoved": false,
-          "checkedAt": "2026-10-02T09:04:24.965860+03:00",
-          "status": 200,
-          "requiresAuthentication": false,
-          "evidence": "sources/304859faccf5704c.txt",
-          "method": "Колектор: публічне HTTP-читання 02.10.2026",
-          "availability": "Сторінка явно знята з пошуку або повертає 410.",
-          "finalUrl": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-shevchenko-ulitsa-34942335.html",
-          "attempts": [
-            {
-              "checkedAt": "2026-09-30T09:03:41.826579+03:00",
-              "status": 200
-            }
-          ]
-        }
-      ],
-      "thumbnail": "sources/photos/98124aee35ec9012de28.jpg",
-      "photos": [
-        "sources/photos/552e188c78b1bc7ec8c5.jpg",
-        "sources/photos/1a46777b4b5c1666908b.jpg",
-        "sources/photos/98124aee35ec9012de28.jpg",
-        "sources/photos/f0cf72de2ee5261a3ecd.jpg",
-        "sources/photos/0df9ed2d748d7583bcf9.jpg",
-        "sources/photos/6a57c295e7174011d82d.jpg",
-        "sources/photos/48aff158f441ab4b8ad5.jpg"
-      ],
-      "checkedAt": "2026-10-02T09:04:24.965860+03:00",
-      "factsCheckedAt": "2026-09-29T09:02:14.861119+03:00",
-      "qualified_all_criteria": false,
-      "driveway": "Заїзд із вулиці не доведено; є ґрунтова територія будівництва.",
-      "setback": "На реальних фото стіни серед ділянки; лінію тротуару й ширину не встановлено.",
-      "setbackWidthMeters": null,
-      "setbackVerified": false,
-      "condition": "Перше зображення — візуалізація. Реальні фото показують незавершені стіни без даху і вікон; 60 м² — компроміс.",
-      "privacy": "За фото видимі лише окремі сусіди. Відсутність суміжних багатоповерхівок та огляду двору не доведено.",
-      "rowHousing": "Фотографії показують окрему споруду; повний квартал та приватність усіх меж не перевірені.",
-      "terrain": "Висотної перевірки немає; низина та кутове положення не виключені. Перше зображення — візуалізація. Реальні фото показують незавершені стіни без даху і вікон; 60 м² — компроміс.",
-      "location": "Шевченка, будинок 60 м² — номер невідомий Великі Гаї Тернопільська область. Точного виходу з двору не встановлено. Маркер порталу не використано як точну адресу.",
-      "commission": "Комісія 5%: $3,000; разом $63,000.",
-      "commissionPercent": 5.0,
-      "totalWithCommission": 63000.0,
-      "utilities": "В описі заявлені вода, електрика й септик. На реальних фото рання стадія будівництва; підключення та готовність до проживання документально не перевірені.",
-      "rail": "Не виміряно: немає точної адреси/меж.",
-      "cemetery": "Не виміряно: немає точної адреси/меж.",
-      "measurements": {},
-      "infrastructure": "Для Підгороднього повторно підтверджений ІСУО 59076 (Пасічна, 9), для Великих Гаїв — ІСУО 48390 (Галицька, 44-В). Це не встановлює найближчий маршрут від цього двору. Відстані по прямій та пішки не виміряні без точної точки виходу.",
-      "availability": "removed_or_history",
-      "availabilityNote": "02.10.2026: сторінку явно знято або URL повернув 410; історичні факти збережено.",
-      "satelliteReview": "30.09.2026: свіжий супутник недоступний. Історична перевірка дата не встановлена: За фото видимі лише окремі сусіди. Відсутність суміжних багатоповерхівок та огляду двору не доведено.",
-      "satelliteCheckedAt": null,
-      "photoReview": "24.09.2026 переглянуто 7 доступних локально збережених фото галереї. Перше зображення — візуалізація. Реальні фото показують незавершені стіни без даху і вікон; 60 м² — компроміс.",
-      "photoReviewDate": "2026-09-24T09:46:23+03:00",
-      "cadastreLinks": [],
-      "evidence": [
-        "sources/history/1ae6c648ab37aa9faf12.txt",
-        "sources/history/80292f1a863cf8204af6.txt",
-        "sources/history/d160b281466f5d9965db.txt",
-        "sources/history/74683923e48ecaf2a3bc.json"
-      ],
-      "mapEvidence": {
-        "checkedAt": "2026-09-30T09:38:27+03:00",
-        "newSatelliteVerification": false,
-        "attemptEvidence": "sources/browser-availability.json",
-        "historicalEvidence": "sources/history/baseline-before-run.json"
-      },
-      "allCriteriaEvidence": {
-        "qualified": false,
-        "checkedAt": "2026-10-01T09:30:03+03:00",
-        "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
-      },
-      "linkVerification": [
-        {
-          "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-shevchenko-ulitsa-34942335.html",
-          "label": "dom.ria.com",
-          "sourceType": "detail",
-          "verified": true,
-          "linkEnabled": true,
-          "removed": false,
-          "previouslyRemoved": false,
-          "checkedAt": "2026-09-29T09:02:14.861119+03:00",
-          "status": 200,
-          "requiresAuthentication": false,
-          "evidence": "sources/history/1ae6c648ab37aa9faf12.txt",
-          "method": "Публічне HTTP-читання колектором поточного запуску",
-          "availability": "Зміст сторінки прочитано; відсутність позначки зняття не доводить фактичної непроданості.",
-          "finalUrl": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-shevchenko-ulitsa-34942335.html"
-        }
-      ],
-      "status": "Зняте оголошення / історія",
-      "rank": 6,
-      "number": 77,
-      "previousCheckedAt": "2026-10-01T09:04:22.598215+03:00",
-      "verificationAttemptAt": "2026-10-02T09:04:24.965860+03:00",
-      "historicalMapEvidence": true,
-      "zoning": "Не підтверджено кадастровим блоком."
-    },
-    {
-      "id": "hai125",
-      "district": "Великі Гаї",
-      "address": "Івана Франка бічна, номер невідомий",
-      "price": 61560,
-      "area": 124.5,
-      "land": 8,
-      "reason": "DOM.RIA містить явну позначку видалення. Причина зняття невідома. Старі фото й €54 000 збережено як історію, обидва маршрути 500 м не доведені.",
-      "section": "excluded",
-      "sources": [
-        {
-          "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa-33415017.html",
-          "label": "dom.ria.com",
-          "sourceType": "detail",
-          "verified": false,
-          "linkEnabled": false,
-          "removed": true,
-          "previouslyRemoved": true,
-          "checkedAt": "2026-10-02T09:04:26.125855+03:00",
-          "status": 200,
-          "requiresAuthentication": false,
-          "evidence": "sources/4d1b7ad7539b4aae.txt",
-          "method": "Колектор: публічне HTTP-читання 02.10.2026",
-          "availability": "Сторінка явно знята з пошуку або повертає 410.",
-          "finalUrl": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa-33415017.html",
-          "attempts": [
-            {
-              "checkedAt": "2026-09-30T09:03:42.991340+03:00",
-              "status": 200
-            }
-          ]
-        }
-      ],
-      "photos": [
-        "sources/photos/ade0afd40ec2c22173f0.jpg",
-        "sources/photos/18fbf7145aa7eb106590.jpg",
-        "sources/photos/72041bfe8fad76856768.jpg",
-        "sources/photos/542b80fa908cfb9ed19f.jpg",
-        "sources/photos/67ffc4ffdb23ac64c7de.jpg",
-        "sources/photos/67cec73cf65fffe0fe38.jpg",
-        "sources/photos/ef768106b60a34a5bc69.jpg",
-        "sources/photos/598a516213e3b4ee9749.jpg",
-        "sources/photos/006dad0f307d44cfac68.jpg",
-        "sources/photos/30f1ecb9018f4462df03.jpg",
-        "sources/photos/c394b10264469dbaee13.jpg",
-        "sources/photos/b91b024037cd1cb44a2d.jpg",
-        "sources/photos/6bbb3066352dc380d676.jpg",
-        "sources/photos/89e0b3cd6a0be361254a.jpg",
-        "sources/photos/b6210b7596f0b5b3ceea.jpg",
-        "sources/photos/02ce55718ae15b21a3e9.jpg",
-        "sources/photos/5aa19403012b909d0a0c.jpg",
-        "sources/photos/dfb4a0856c4710f36311.jpg",
-        "sources/photos/452ad12f9808bda883fe.jpg"
-      ],
-      "coords": [
-        49.52753068,
-        25.64443808
-      ],
-      "checkedAt": "2026-10-02T09:04:26.125855+03:00",
-      "availability": "removed_or_history",
-      "qualified_all_criteria": false,
-      "location": "Маркер порталу — приблизний; ідентичність конкретної ділянки на супутнику не доведено.",
-      "cemetery": "Оцінка від маркера, не межі ділянки.",
-      "mapQuery": "Івана Франка бічна, номер невідомий, Великі Гаї, Тернопільська область",
-      "map": "https://www.google.com/maps/search/?api=1&query=49.52753068%2C25.64443808",
-      "satellite": "https://www.google.com/maps/@49.52753068,25.64443808,18z/data=!3m1!1e3",
-      "measurements": {
-        "coords": [
-          49.52753068,
-          25.64443808
-        ],
-        "centerKm": 4.62,
-        "rail": {
-          "meters": 279,
-          "name": "Тернопіль - Гречани",
-          "url": "https://www.openstreetmap.org/way/585219541",
-          "coords": [
-            [
-              49.5321973,
-              25.6339708
-            ],
-            [
-              49.5306865,
-              25.6416946
-            ],
-            [
-              49.5305612,
-              25.6423351
-            ],
-            [
-              49.5290135,
-              25.6502489
-            ]
-          ],
-          "basis": "приблизний маркер оголошення",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
-          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
-          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
-        },
-        "cemetery": {
-          "meters": 865,
-          "name": "cemetery",
-          "url": "https://www.openstreetmap.org/way/249831621",
-          "coords": [
-            [
-              49.5193664,
-              25.6505593
-            ],
-            [
-              49.5193721,
-              25.6505614
-            ],
-            [
-              49.5197137,
-              25.6506798
-            ],
-            [
-              49.5199193,
-              25.650751
-            ],
-            [
-              49.5200447,
-              25.6507907
-            ],
-            [
-              49.5202666,
-              25.6508779
-            ],
-            [
-              49.5204273,
-              25.6509465
-            ],
-            [
-              49.5204801,
-              25.6508555
-            ],
-            [
-              49.5205447,
-              25.650566
-            ],
-            [
-              49.5206092,
-              25.6502765
-            ],
-            [
-              49.5206305,
-              25.6500801
-            ],
-            [
-              49.5206077,
-              25.6499469
-            ],
-            [
-              49.520506,
-              25.6497271
-            ],
-            [
-              49.5204499,
-              25.6496476
-            ],
-            [
-              49.5204635,
-              25.6494443
-            ],
-            [
-              49.5197063,
-              25.6491451
-            ],
-            [
-              49.5196456,
-              25.6492175
-            ],
-            [
-              49.5195925,
-              25.649318
-            ],
-            [
-              49.5195545,
-              25.6494863
-            ],
-            [
-              49.5194726,
-              25.6499679
-            ],
-            [
-              49.5193664,
-              25.6505593
-            ]
-          ],
-          "basis": "приблизний маркер оголошення",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
-          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
-          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
-        },
-        "stop": {
-          "meters": 460,
-          "name": "Перша зупинка",
-          "url": "https://www.openstreetmap.org/node/1403964647",
-          "coords": [
-            [
-              49.5242489,
-              25.6405477
-            ]
-          ],
-          "basis": "приблизний маркер оголошення",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
-          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
-          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
-        },
-        "kindergarten": {
-          "meters": 725,
-          "name": "Ясла-садок \"Країна дитинства\"",
-          "url": "https://www.openstreetmap.org/way/430870956",
-          "coords": [
-            [
-              49.5200946,
-              25.6451765
-            ],
-            [
-              49.5200024,
-              25.6458873
-            ],
-            [
-              49.5207755,
-              25.6462547
-            ],
-            [
-              49.5208973,
-              25.6462628
-            ],
-            [
-              49.5209513,
-              25.6462145
-            ],
-            [
-              49.5210697,
-              25.6457612
-            ],
-            [
-              49.5210053,
-              25.6457236
-            ],
-            [
-              49.5210366,
-              25.6455734
-            ],
-            [
-              49.5200946,
-              25.6451765
-            ]
-          ],
-          "basis": "приблизний маркер оголошення",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
-          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
-          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
-        }
-      },
-      "centerKm": 4.61,
-      "thumbnail": "sources/photos/ade0afd40ec2c22173f0.jpg",
-      "numberKnown": false,
-      "mapPrecision": "приблизний маркер вулиці",
-      "condition": "Старий будинок, ремонт та заміна котла. Ціну в EUR слід уточнити: на сторінці $62 178, розрахунок за м² — у євро.",
-      "driveway": "На фото огорожа та ворота вздовж асфальту; ширина автомобільного в’їзду не виміряна.",
-      "privacy": "Окремі садиби, дерева, без видимої суміжної висотки.",
-      "terrain": "Двір зарослий, будинок на цоколі; відсутність низини не підтверджена.",
-      "duplicates": "Поруч є оголошення 163,5 м² / 8,7 сотки за $110 000. Подібний тип старого фасаду й близькі маркери недостатні для об’єднання; збіг не доведено.",
-      "photoReviewDate": "2026-09-21",
-      "satelliteReview": "30.09.2026: свіжий супутник недоступний. Історична перевірка 2026-09-21: Окремі садиби, дерева, без видимої суміжної висотки.",
-      "linkVerification": [
-        {
-          "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa-33415017.html",
-          "label": "dom.ria.com",
-          "sourceType": "detail",
-          "verified": false,
-          "linkEnabled": false,
-          "removed": true,
-          "previouslyRemoved": true,
-          "checkedAt": "2026-09-29T09:03:50.759914+03:00",
-          "status": 200,
-          "requiresAuthentication": false,
-          "evidence": "sources/history/6d9ed138a70c2d76967f.txt",
-          "method": "Публічне HTTP-читання колектором поточного запуску",
-          "availability": "Сторінку знято або URL повертає 404/410; причина невідома, продаж не доведений.",
-          "finalUrl": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa-33415017.html"
-        }
-      ],
-      "setback": "Фото показують сад та смугу землі перед будинком за огорожею. Метраж від стіни до тротуару не встановлено.",
-      "kind": "house",
-      "number": 78,
-      "rank": 6,
-      "previousCheckedAt": "2026-10-01T09:04:23.643804+03:00",
-      "satelliteCheckedAt": "2026-09-21",
-      "mapEvidence": {
-        "checkedAt": "2026-09-30T09:38:27+03:00",
-        "newSatelliteVerification": false,
-        "attemptEvidence": "sources/browser-availability.json",
-        "historicalEvidence": "sources/history/baseline-before-run.json"
-      },
-      "verificationAttemptAt": "2026-10-02T09:04:26.125855+03:00",
-      "availabilityNote": "02.10.2026: сторінку явно знято або URL повернув 410; історичні факти збережено.",
-      "evidence": [
-        "sources/history/6d9ed138a70c2d76967f.txt",
-        "sources/history/e8cec644cdde6995d11e.txt",
-        "sources/history/ef89501c143af3713037.txt",
-        "sources/history/74683923e48ecaf2a3bc.json"
-      ],
-      "commission": "Не вказана / не встановлена.",
-      "zoning": "Не перевірено в кадастровому блоці.",
-      "utilities": "Старий будинок, ремонт та заміна котла. Ціну в EUR слід уточнити: на сторінці $62 178, розрахунок за м² — у євро.",
-      "setbackWidthMeters": null,
-      "setbackVerified": false,
-      "photoReview": "Історичний огляд (нова галерея повністю не переглядалася): Фото цього запуску завантажено;  повний новий візуальний огляд для цього рядка не проводився. Історичний висновок: Попередній перегляд від 2026-09-21. Повторний повний перегляд у цьому запуску не заявляється.",
-      "photoSources": [
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414242fl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414252xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414255xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414290xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414289xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414286xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414288xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414292xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414299xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414300xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414301xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414302xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414307xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414308xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322418558xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322418557xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322418556xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__341440501xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__341440502xl.jpg"
-      ],
-      "allCriteriaEvidence": {
-        "qualified": false,
-        "checkedAt": "2026-10-01T09:30:03+03:00",
-        "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
-      },
-      "historicalMapEvidence": true,
-      "priceLabel": "€54 000 ≈ $61 560",
-      "currencyNote": "30.09: базова ціна €54000; портал показує $61560. Зміна USD-еквівалента є курсовим перерахунком, не підтвердженою зміною ціни в євро.",
-      "factsCheckedAt": "2026-09-23T09:01:54.738900+03:00",
-      "photoEvidenceDate": "2026-09-23T09:27:42.486900+03:00",
-      "status": "Зняте оголошення / історія",
-      "cadastreLinks": [],
-      "priceCurrency": "USD",
-      "originalCurrency": "EUR",
-      "originalPrice": 54000,
-      "priceConflict": "30.09: базова ціна €54000; портал показує $61560. Зміна USD-еквівалента є курсовим перерахунком, не підтвердженою зміною ціни в євро."
     },
     {
       "id": "pid-verkhniapolova166",
@@ -15696,7 +14591,7 @@
       ],
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 79,
+      "number": 74,
       "previousCheckedAt": "2026-10-01T09:04:24.487590+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:26.963377+03:00",
       "historicalMapEvidence": true,
@@ -15795,7 +14690,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 80,
+      "number": 75,
       "rank": 6,
       "priceLabel": "€55 000 (≈$62 179 за DIM.RIA 02.10)",
       "priceConflict": "Ціна продавця €55 000; DIM.RIA 01.10 показує $62 787. Попереднє наближення $62 700. Зміна еквівалента не є зміною ціни в євро.",
@@ -15969,7 +14864,7 @@
       ],
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 81,
+      "number": 76,
       "previousCheckedAt": "2026-10-01T09:01:17.742166+03:00",
       "verificationAttemptAt": "2026-10-02T09:01:18.999479+03:00",
       "historicalMapEvidence": true,
@@ -16087,7 +14982,7 @@
       ],
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 82,
+      "number": 77,
       "previousCheckedAt": "2026-10-01T09:01:08.939496+03:00",
       "verificationAttemptAt": "2026-10-02T09:01:09.072009+03:00",
       "historicalMapEvidence": true,
@@ -16229,7 +15124,7 @@
       ],
       "priceCurrency": "USD",
       "rank": 6,
-      "number": 83,
+      "number": 78,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
         "newSatelliteVerification": false,
@@ -16667,7 +15562,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 84,
+      "number": 79,
       "rank": 6,
       "previousCheckedAt": "2026-10-01T09:00:56.804768+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -17202,7 +16097,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 85,
+      "number": 80,
       "rank": 6,
       "previousCheckedAt": "2026-10-01T09:02:16.026748+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -17391,7 +16286,7 @@
       ],
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 86,
+      "number": 81,
       "previousCheckedAt": "2026-10-01T09:01:18.678051+03:00",
       "verificationAttemptAt": "2026-10-02T09:01:20.261953+03:00",
       "historicalMapEvidence": true,
@@ -17484,7 +16379,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 87,
+      "number": 82,
       "rank": 6,
       "previousCheckedAt": "2026-10-01T09:00:41.727081+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -17662,7 +16557,7 @@
       ],
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 88,
+      "number": 83,
       "previousCheckedAt": "2026-10-01T09:01:11.839722+03:00",
       "verificationAttemptAt": "2026-10-02T09:01:12.764039+03:00",
       "historicalMapEvidence": true,
@@ -17801,7 +16696,7 @@
       ],
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 89,
+      "number": 84,
       "previousCheckedAt": "2026-10-01T09:01:20.780410+03:00",
       "verificationAttemptAt": "2026-10-02T09:01:22.071602+03:00",
       "historicalMapEvidence": true,
@@ -17924,7 +16819,7 @@
       ],
       "priceCurrency": "USD",
       "rank": 6,
-      "number": 90,
+      "number": 85,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
         "newSatelliteVerification": false,
@@ -18495,7 +17390,7 @@
       ],
       "setback": "Перед фасадом на фото є подвір’я з бруківкою; точне положення відносно громадського тротуару не доведено.",
       "kind": "house",
-      "number": 91,
+      "number": 86,
       "rank": 6,
       "duplicates": "34257042 — той самий білий одноповерховий будинок із навісом, кам’яним цоколем, бруківкою і характерними внутрішніми перегородками. Нове джерело називає Озерну, старі — Садову, 15-А.",
       "previousCheckedAt": "2026-10-01T09:04:27.014387+03:00",
@@ -18698,7 +17593,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 92,
+      "number": 87,
       "previousCheckedAt": "2026-10-01T09:04:28.315744+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:30.591391+03:00",
       "mapEvidence": {
@@ -18708,367 +17603,6 @@
         "historicalEvidence": "sources/history/baseline-before-run.json"
       },
       "historicalMapEvidence": true
-    },
-    {
-      "id": "hai120",
-      "district": "Великі Гаї",
-      "address": "Назарія Яремчука, номер невідомий",
-      "price": 87000,
-      "area": 120,
-      "land": 4,
-      "reason": "DOM.RIA містить явну позначку видалення. Причина невідома; старі $87 000 / 120 м² / 4 сотки й фото збережено як історію. Точна адреса й маршрути не доведені.",
-      "section": "excluded",
-      "sources": [
-        {
-          "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa-34888651.html",
-          "label": "dom.ria.com",
-          "sourceType": "detail",
-          "verified": false,
-          "linkEnabled": false,
-          "removed": true,
-          "previouslyRemoved": true,
-          "checkedAt": "2026-10-02T09:04:31.325407+03:00",
-          "status": 200,
-          "requiresAuthentication": false,
-          "evidence": "sources/339bbcc93345b993.txt",
-          "method": "Колектор: публічне HTTP-читання 02.10.2026",
-          "availability": "Сторінка явно знята з пошуку або повертає 410.",
-          "finalUrl": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa-34888651.html",
-          "attempts": [
-            {
-              "checkedAt": "2026-09-30T09:03:48.272012+03:00",
-              "status": 200
-            }
-          ]
-        }
-      ],
-      "photos": [
-        "sources/history/photos/5d731921c8f140bdd751.jpg",
-        "sources/history/photos/749ebbdad15f234cf567.jpg",
-        "sources/history/photos/2a768192c7e6af6ad287.jpg",
-        "sources/history/photos/5a83bdebb5fb8ea655f8.jpg",
-        "sources/history/photos/c767b7b042141dae8ae8.jpg",
-        "sources/history/photos/663b431a3fdb09312c9e.jpg",
-        "sources/history/photos/0195dd6c7f3dd89d01aa.jpg",
-        "sources/history/photos/884e5ebc12b66d7a471b.jpg",
-        "sources/history/photos/967f999397e8f46a2bff.jpg",
-        "sources/history/photos/48555845155776ea171f.jpg",
-        "sources/history/photos/905b19c3d62dda0dfa9a.jpg",
-        "sources/history/photos/13f5533a5ec99f3da65c.jpg",
-        "sources/history/photos/045e8748d1c25624399a.jpg",
-        "sources/history/photos/96957d776f939783c90a.jpg",
-        "sources/history/photos/1dc225d0d91d9775948e.jpg",
-        "sources/history/photos/9c402bbc1d5b88fab112.jpg",
-        "sources/history/photos/539a2b3edf74bba44e46.jpg",
-        "sources/history/photos/e6c8499bae8751495588.jpg",
-        "sources/history/photos/401fb6b68484e9a01783.jpg",
-        "sources/history/photos/0a49195ae45b4fcc1b6b.jpg",
-        "sources/history/photos/1735ca17d490750dbceb.jpg",
-        "sources/history/photos/1d6c9f4ba409f40240f6.jpg",
-        "sources/history/photos/daa061af294c4c331f25.jpg",
-        "sources/history/photos/900de8cb1f59b9e87be0.jpg",
-        "sources/history/photos/10117f6c8cf9323d6134.jpg",
-        "sources/history/photos/f792a596fb2ec31b7a93.jpg",
-        "sources/history/photos/49bb7df4903ef97f1a9e.jpg",
-        "sources/history/photos/b02edef4a747afbd551d.jpg"
-      ],
-      "coords": [
-        49.51456011382374,
-        25.68052128020716
-      ],
-      "checkedAt": "2026-10-02T09:04:31.325407+03:00",
-      "availability": "removed_or_history",
-      "qualified_all_criteria": false,
-      "location": "Маркер порталу — приблизний; ідентичність конкретної ділянки на супутнику не доведено.",
-      "cemetery": "Оцінка від маркера, не межі ділянки.",
-      "mapQuery": "Назарія Яремчука, номер невідомий, Великі Гаї, Тернопільська область",
-      "map": "https://www.google.com/maps/search/?api=1&query=49.51456011382374%2C25.68052128020716",
-      "satellite": "https://www.google.com/maps/@49.51456011382374,25.68052128020716,18z/data=!3m1!1e3",
-      "measurements": {
-        "coords": [
-          49.51456011382374,
-          25.68052128020716
-        ],
-        "centerKm": 7.57,
-        "rail": {
-          "meters": 907,
-          "name": "Тернопіль - Гречани",
-          "url": "https://www.openstreetmap.org/way/757311610",
-          "coords": [
-            [
-              49.5289798,
-              25.6504279
-            ],
-            [
-              49.523252,
-              25.6796731
-            ],
-            [
-              49.5231621,
-              25.6800903
-            ],
-            [
-              49.520149,
-              25.695594
-            ]
-          ],
-          "basis": "приблизний маркер оголошення",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
-          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
-          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
-        },
-        "cemetery": {
-          "meters": 2225,
-          "name": "cemetery",
-          "url": "https://www.openstreetmap.org/way/259585118",
-          "coords": [
-            [
-              49.5195834,
-              25.6489679
-            ],
-            [
-              49.5195686,
-              25.6491089
-            ],
-            [
-              49.5195414,
-              25.6491527
-            ],
-            [
-              49.5195093,
-              25.6492044
-            ],
-            [
-              49.5193838,
-              25.6499229
-            ],
-            [
-              49.5193285,
-              25.6502533
-            ],
-            [
-              49.5192804,
-              25.6505105
-            ],
-            [
-              49.519051,
-              25.650451
-            ],
-            [
-              49.5187474,
-              25.6503659
-            ],
-            [
-              49.5184164,
-              25.6502753
-            ],
-            [
-              49.5185911,
-              25.6495641
-            ],
-            [
-              49.5187349,
-              25.648972
-            ],
-            [
-              49.5187539,
-              25.6489235
-            ],
-            [
-              49.5188169,
-              25.64881
-            ],
-            [
-              49.5189548,
-              25.6486805
-            ],
-            [
-              49.519486,
-              25.6489258
-            ],
-            [
-              49.5195834,
-              25.6489679
-            ]
-          ],
-          "basis": "приблизний маркер оголошення",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
-          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
-          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
-        },
-        "stop": {
-          "meters": 957,
-          "name": "Гаї Великі",
-          "url": "https://www.openstreetmap.org/node/1612996369",
-          "coords": [
-            [
-              49.5231621,
-              25.6800903
-            ]
-          ],
-          "basis": "приблизний маркер оголошення",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
-          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
-          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
-        },
-        "kindergarten": {
-          "meters": 2569,
-          "name": "Ясла-садок \"Країна дитинства\"",
-          "url": "https://www.openstreetmap.org/way/430870956",
-          "coords": [
-            [
-              49.5200946,
-              25.6451765
-            ],
-            [
-              49.5200024,
-              25.6458873
-            ],
-            [
-              49.5207755,
-              25.6462547
-            ],
-            [
-              49.5208973,
-              25.6462628
-            ],
-            [
-              49.5209513,
-              25.6462145
-            ],
-            [
-              49.5210697,
-              25.6457612
-            ],
-            [
-              49.5210053,
-              25.6457236
-            ],
-            [
-              49.5210366,
-              25.6455734
-            ],
-            [
-              49.5200946,
-              25.6451765
-            ]
-          ],
-          "basis": "приблизний маркер оголошення",
-          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
-          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
-          "fromParcelBoundary": false,
-          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
-          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
-          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
-        }
-      },
-      "centerKm": 7.56,
-      "thumbnail": "sources/history/photos/5d731921c8f140bdd751.jpg",
-      "numberKnown": false,
-      "mapPrecision": "приблизний маркер вулиці",
-      "driveway": "На фото відкритий під’їзд і гаражні ворота.",
-      "rowHousing": "Щонайменше два близькі майже однакові котеджі видно на фото 3.",
-      "condition": "Сирі цегляні стіни; комісія 5%.",
-      "photoReviewDate": "2026-09-21",
-      "satelliteReview": "30.09.2026: свіжий супутник недоступний. Історична перевірка 2026-09-21: не встановлено",
-      "linkVerification": [
-        {
-          "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa-34888651.html",
-          "label": "dom.ria.com",
-          "sourceType": "detail",
-          "verified": false,
-          "linkEnabled": false,
-          "removed": true,
-          "previouslyRemoved": true,
-          "checkedAt": "2026-09-29T09:03:56.576036+03:00",
-          "status": 200,
-          "requiresAuthentication": false,
-          "evidence": "sources/history/7855cb28832d202dde0f.txt",
-          "method": "Публічне HTTP-читання колектором поточного запуску",
-          "availability": "Сторінку знято або URL повертає 404/410; причина невідома, продаж не доведений.",
-          "finalUrl": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa-34888651.html"
-        }
-      ],
-      "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
-      "kind": "house",
-      "number": 93,
-      "rank": 6,
-      "previousCheckedAt": "2026-10-01T09:04:29.015724+03:00",
-      "satelliteCheckedAt": "2026-09-21",
-      "mapEvidence": {
-        "checkedAt": "2026-09-30T09:38:27+03:00",
-        "newSatelliteVerification": false,
-        "attemptEvidence": "sources/browser-availability.json",
-        "historicalEvidence": "sources/history/baseline-before-run.json"
-      },
-      "verificationAttemptAt": "2026-10-02T09:04:31.325407+03:00",
-      "availabilityNote": "02.10.2026: сторінку явно знято або URL повернув 410; історичні факти збережено.",
-      "evidence": [
-        "sources/history/7855cb28832d202dde0f.txt",
-        "sources/history/a58dad4636d7841f7627.txt",
-        "sources/history/af71dfb9008ecb476520.txt",
-        "sources/history/74683923e48ecaf2a3bc.json"
-      ],
-      "commissionPercent": 5,
-      "totalWithCommission": 91350,
-      "commission": "5% · разом $91350.0",
-      "zoning": "Не перевірено в кадастровому блоці.",
-      "utilities": "Сирі цегляні стіни; комісія 5%.",
-      "setbackWidthMeters": null,
-      "setbackVerified": false,
-      "photoReview": "Історичний огляд (нова галерея повністю не переглядалася): Збережено фото попереднього звіту;  повний новий візуальний огляд для цього рядка не проводився. Історичний висновок: Попередній перегляд від 2026-09-21. Повторний повний перегляд у цьому запуску не заявляється.",
-      "photoSources": [
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344513485xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344513486xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344513487xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344513504xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344513524xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535141xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535145xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535146xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535152xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535156xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535159xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535163xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535179xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535193xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535194xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535195xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535196xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535197xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535198xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535199xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535202xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535203xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535205xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535220xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535221xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535219xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535222xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535223xl.jpg",
-        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344513485fl.jpg"
-      ],
-      "allCriteriaEvidence": {
-        "qualified": false,
-        "checkedAt": "2026-10-01T09:30:03+03:00",
-        "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
-      },
-      "historicalMapEvidence": true,
-      "factsCheckedAt": "2026-09-21T13:27:22.570171+03:00",
-      "photoEvidenceDate": "2026-09-21",
-      "status": "Зняте оголошення / історія",
-      "cadastreLinks": [],
-      "priceCurrency": "USD",
-      "duplicates": "ВІСОН 22-464-298 має схожі типові фасади, але це може бути інший будинок комплексу. Тотожність не встановлена; не оголошено відновлення старої картки DIM.RIA."
     },
     {
       "id": "vhai-lesi-34082264",
@@ -19323,7 +17857,7 @@
       "areaConflict": "180 м² у 34082264; 250 м² у 33351994. Потрібен техпаспорт.",
       "priceConflict": "$89 000 + 5% проти $95 000 без комісії; це одночасні пропозиції, не доведена зміна ціни.",
       "rank": 6,
-      "number": 94,
+      "number": 88,
       "previousCheckedAt": "2026-10-01T09:04:29.856475+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:32.269297+03:00",
       "photoReviewEvidence": [
@@ -19924,7 +18458,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 95,
+      "number": 89,
       "rank": 6,
       "previousCheckedAt": "2026-10-01T09:04:31.536680+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -20136,7 +18670,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 96,
+      "number": 90,
       "previousCheckedAt": "2026-10-01T09:04:33.170947+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:35.100137+03:00",
       "mapEvidence": {
@@ -20270,7 +18804,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 97,
+      "number": 91,
       "historicalMapEvidence": true,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
@@ -20365,7 +18899,7 @@
       "privacy": "Окремі малоповерхові споруди та сад; суміжної висотки в наявних ракурсах не видно, повний периметр не показано.",
       "condition": "Житлові кімнати зі старим ремонтом; фасад і покрівля потребують технічного огляду.",
       "kind": "house",
-      "number": 98,
+      "number": 92,
       "rank": 6,
       "previousCheckedAt": "2026-10-01T09:04:35.203723+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -20547,7 +19081,7 @@
         }
       ],
       "rank": 6,
-      "number": 99,
+      "number": 93,
       "previousCheckedAt": "2026-10-01T09:04:35.827993+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:37.469384+03:00",
       "mapEvidence": {
@@ -20775,7 +19309,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 100,
+      "number": 94,
       "rank": 6,
       "landConflict": "У заголовках округлені 3 сотки, у докладному описі власника 2,7 сотки. Нижній поріг 3 не доведено.",
       "previousCheckedAt": "2026-10-01T09:04:37.371862+03:00",
@@ -20944,7 +19478,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 101,
+      "number": 95,
       "rank": 6,
       "previousCheckedAt": "2026-10-01T09:01:33.940460+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -21176,7 +19710,7 @@
       ],
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 102,
+      "number": 96,
       "previousCheckedAt": "2026-10-01T09:04:38.430154+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:39.866172+03:00",
       "historicalMapEvidence": true,
@@ -21370,7 +19904,7 @@
       ],
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 103,
+      "number": 97,
       "previousCheckedAt": "2026-10-01T09:04:39.348666+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:41.113271+03:00",
       "historicalMapEvidence": true,
@@ -21467,7 +20001,7 @@
       "availabilityNote": "02.10.2026: конкретну сторінку оголошення повторно прочитано; фактичний статус продажу не підтверджено.",
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 104,
+      "number": 98,
       "previousCheckedAt": "2026-10-01T09:04:40.457205+03:00",
       "allCriteriaEvidence": {
         "qualified": false,
@@ -21807,7 +20341,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 105,
+      "number": 99,
       "rank": 6,
       "previousCheckedAt": "2026-10-01T09:04:41.926437+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -21993,7 +20527,7 @@
         }
       ],
       "rank": 6,
-      "number": 106,
+      "number": 100,
       "previousCheckedAt": "2026-10-01T09:04:42.734306+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:44.279946+03:00",
       "mapEvidence": {
@@ -22435,7 +20969,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 107,
+      "number": 101,
       "rank": 6,
       "duplicates": "Виділено з колишньої групи kalyna. Різні площі та галереї не дозволяють називати всі пропозиції однією садибою. Зв’язок OLX 120 м² з DIM.RIA 117,5 м² не доведено; можливий дублікат позначено, а не підтверджено.",
       "previousCheckedAt": "2026-10-01T09:04:43.832970+03:00",
@@ -22835,7 +21369,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 108,
+      "number": 102,
       "historicalMapEvidence": true,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
@@ -22982,7 +21516,7 @@
       ],
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 109,
+      "number": 103,
       "previousCheckedAt": "2026-10-01T09:01:02.783444+03:00",
       "verificationAttemptAt": "2026-10-02T09:01:01.663080+03:00",
       "historicalMapEvidence": true,
@@ -23414,7 +21948,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 110,
+      "number": 104,
       "rank": 6,
       "duplicates": "Виділено з колишньої групи kalyna. Різні площі та галереї не дозволяють називати всі пропозиції однією садибою. Зв’язок OLX 120 м² з DIM.RIA 117,5 м² не доведено; можливий дублікат позначено, а не підтверджено.",
       "previousCheckedAt": "2026-10-01T09:04:48.803078+03:00",
@@ -23892,7 +22426,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 111,
+      "number": 105,
       "rank": 6,
       "duplicates": "Виділено з колишньої групи kalyna. Різні площі та галереї не дозволяють називати всі пропозиції однією садибою. Зв’язок OLX 120 м² з DIM.RIA 117,5 м² не доведено; можливий дублікат позначено, а не підтверджено.",
       "previousCheckedAt": "2026-10-01T09:04:49.423199+03:00",
@@ -24458,7 +22992,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 112,
+      "number": 106,
       "rank": 6,
       "previousCheckedAt": "2026-10-01T09:02:32.030192+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -24951,7 +23485,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 113,
+      "number": 107,
       "rank": 6,
       "duplicates": "Виділено з колишньої групи kalyna. Різні площі та галереї не дозволяють називати всі пропозиції однією садибою. Зв’язок OLX 120 м² з DIM.RIA 117,5 м² не доведено; можливий дублікат позначено, а не підтверджено.",
       "previousCheckedAt": "2026-10-01T09:04:50.251459+03:00",
@@ -25250,7 +23784,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 6,
-      "number": 114,
+      "number": 108,
       "historicalMapEvidence": true,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
@@ -25394,7 +23928,7 @@
       ],
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 115,
+      "number": 109,
       "previousCheckedAt": "2026-10-01T09:01:07.737228+03:00",
       "verificationAttemptAt": "2026-10-02T09:01:07.733016+03:00",
       "historicalMapEvidence": true,
@@ -25581,7 +24115,7 @@
       ],
       "status": "Детальний зміст прочитано; повна відповідність не доведена",
       "rank": 6,
-      "number": 116,
+      "number": 110,
       "previousCheckedAt": "2026-10-01T09:01:30.885521+03:00",
       "verificationAttemptAt": "2026-10-02T09:01:32.160770+03:00",
       "historicalMapEvidence": true,
@@ -25700,7 +24234,7 @@
       ],
       "priceCurrency": "USD",
       "rank": 6,
-      "number": 117,
+      "number": 111,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
         "newSatelliteVerification": false,
@@ -25831,7 +24365,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 7,
-      "number": 118,
+      "number": 112,
       "previousCheckedAt": "2026-10-01T09:04:51.906072+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:54.100208+03:00",
       "mapEvidence": {
@@ -26013,7 +24547,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 7,
-      "number": 119,
+      "number": 113,
       "historicalMapEvidence": true,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
@@ -26163,7 +24697,7 @@
       "availabilityNote": "02.10.2026: технічне обмеження доступу до деталей; продаж не доведено.",
       "photoEvidenceDate": "2026-09-23T09:27:42.486900+03:00",
       "rank": 7,
-      "number": 120,
+      "number": 114,
       "status": "Технічно не перевірено / історія",
       "previousCheckedAt": "2026-10-01T09:04:53.712233+03:00",
       "verificationAttemptAt": "2026-10-02T09:00:41.319491+03:00",
@@ -26339,7 +24873,7 @@
         "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
       },
       "rank": 7,
-      "number": 121,
+      "number": 115,
       "previousCheckedAt": "2026-10-01T09:04:55.349343+03:00",
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
@@ -26507,7 +25041,7 @@
       ],
       "setback": "27.09.2026: будинок видно за садом і огорожею; повної лінії вулиці й тротуару немає. Відступ стіни 1–2 м не виміряний.",
       "kind": "house",
-      "number": 122,
+      "number": 116,
       "rank": 7,
       "previousCheckedAt": "2026-10-01T09:04:58.039122+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -26710,7 +25244,7 @@
         }
       ],
       "rank": 7,
-      "number": 123,
+      "number": 117,
       "previousCheckedAt": "2026-10-01T09:04:59.597847+03:00",
       "verificationAttemptAt": "2026-10-02T09:04:59.298186+03:00",
       "mapEvidence": {
@@ -26859,7 +25393,7 @@
       ],
       "setback": "30.09.2026: Стіна фасаду відділена від червоної огорожі смугою ґрунту; за огорожею тротуар. Точну ширину й достатність 1–2 м не встановлено.",
       "kind": "house",
-      "number": 124,
+      "number": 118,
       "rank": 7,
       "previousCheckedAt": "2026-10-01T09:05:01.204906+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -27029,7 +25563,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 125,
+      "number": 119,
       "rank": 7,
       "previousCheckedAt": "2026-10-01T09:00:51.831387+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -27238,7 +25772,7 @@
       ],
       "priceCurrency": "USD",
       "rank": 7,
-      "number": 126,
+      "number": 120,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
         "newSatelliteVerification": false,
@@ -27369,7 +25903,7 @@
       ],
       "priceCurrency": "USD",
       "rank": 7,
-      "number": 127,
+      "number": 121,
       "mapEvidence": {
         "checkedAt": "2026-09-30T09:38:27+03:00",
         "newSatelliteVerification": false,
@@ -27800,7 +26334,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 128,
+      "number": 122,
       "rank": 7,
       "previousCheckedAt": "2026-10-01T09:00:43.592298+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -27964,7 +26498,7 @@
         }
       ],
       "rank": 7,
-      "number": 129,
+      "number": 123,
       "previousCheckedAt": "2026-10-01T09:05:02.647575+03:00",
       "verificationAttemptAt": "2026-10-02T09:05:01.692990+03:00",
       "mapEvidence": {
@@ -28071,7 +26605,7 @@
       ],
       "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
       "kind": "house",
-      "number": 130,
+      "number": 124,
       "rank": 7,
       "previousCheckedAt": "2026-10-01T09:00:36.335295+03:00",
       "satelliteCheckedAt": "2026-09-21",
@@ -28134,6 +26668,1474 @@
       "cadastreLinks": [],
       "priceCurrency": "USD",
       "measurements": {}
+    },
+    {
+      "id": "lemkivska",
+      "district": "Канада",
+      "address": "Лемківська, номер невідомий",
+      "price": 95000,
+      "area": 330,
+      "land": 4,
+      "section": "removed",
+      "reason": "Лемківська: свіжа сторінка RITM.home $95 000 / 330 м² / 4,6 сотки. Фото фасаду зіставлено з відомою пропозицією OLX, де прямо заявлено дуплекс. Окремість цілого будинку не підтверджена; залишається у відсіві.",
+      "sources": [
+        {
+          "url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dupleks-v-privatnomu-masiv-kanada-ternopolya-IDXuIX2.html",
+          "label": "olx.ua",
+          "sourceType": "detail",
+          "verified": false,
+          "linkEnabled": false,
+          "removed": true,
+          "previouslyRemoved": false,
+          "checkedAt": "2026-10-02T09:02:54.976016+03:00",
+          "status": 403,
+          "requiresAuthentication": false,
+          "evidence": "sources/live-pages.json",
+          "method": "Колектор: публічне HTTP-читання 02.10.2026",
+          "availability": "HTTP 403: технічне обмеження, це не доказ продажу.",
+          "finalUrl": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dupleks-v-privatnomu-masiv-kanada-ternopolya-IDXuIX2.html",
+          "attempts": [
+            {
+              "checkedAt": "2026-09-30T09:02:46.377641+03:00",
+              "status": 403
+            }
+          ],
+          "removalBasis": "Повідомлення користувача; незалежної перевірки статусу сторінки немає."
+        },
+        {
+          "url": "https://www.home.ritm.group/prodayetsya-2-poverhovij-budinok-v-rajoni-kanada-po-vul-lemkivska-z-dilyankoyu-v-46-sotih",
+          "label": "home.ritm.group",
+          "sourceType": "detail",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "previouslyRemoved": false,
+          "checkedAt": "2026-10-02T09:02:55.600471+03:00",
+          "status": 200,
+          "requiresAuthentication": false,
+          "evidence": "sources/de5eab20ea338c90.txt",
+          "method": "Колектор: публічне HTTP-читання 02.10.2026",
+          "availability": "Детальну сторінку прочитано; ознаки зняття немає. Продаж не гарантовано.",
+          "finalUrl": "https://www.home.ritm.group/prodayetsya-2-poverhovij-budinok-v-rajoni-kanada-po-vul-lemkivska-z-dilyankoyu-v-46-sotih",
+          "attempts": [
+            {
+              "checkedAt": "2026-09-30T09:02:47.001986+03:00",
+              "status": 200
+            }
+          ]
+        }
+      ],
+      "photos": [
+        "sources/photos/920f5ce9de5d4999955d.jpg",
+        "sources/photos/7f98b95fca4d7045b26b.jpg",
+        "sources/photos/2f8587daec5e5b85e603.jpg",
+        "sources/photos/257aaa6032c91d86b296.jpg",
+        "sources/photos/dc6dc784295559d1bf13.jpg",
+        "sources/photos/f02297a12178b86018b1.jpg",
+        "sources/photos/033ff3161eec62d5da74.jpg",
+        "sources/photos/d17edc27f2b89f8d607a.jpg",
+        "sources/photos/7e7ac8963518da75c6a5.jpg",
+        "sources/photos/ba44e69116f08a9b927d.jpg",
+        "sources/photos/bd613ad294fd52fd70e5.jpg",
+        "sources/photos/db2e78fcc77d4249214d.jpg",
+        "sources/photos/beb668b5003f2b0fb5d0.jpg",
+        "sources/photos/7b70286e98537ce9527b.jpg",
+        "sources/photos/85247fbd7b7236eb0e7f.jpg",
+        "sources/photos/8804b5f1a26450e507a0.jpg",
+        "sources/photos/481dfcb3ce259879c00d.jpg",
+        "sources/photos/003552b084fd1624b359.jpg",
+        "sources/photos/d1567ac48603debeb4ed.jpg",
+        "sources/photos/a6504da01dac91360aa0.jpg",
+        "sources/photos/25382cf5acaebfca44e1.jpg",
+        "sources/photos/89a444be4031af652514.jpg",
+        "sources/photos/3923ab26360508875860.jpg",
+        "sources/photos/0c0e2285c73bfbfaa0e9.png",
+        "sources/photos/e5109c3c9b8eba267564.png",
+        "sources/photos/df4912f26f3fae51817d.png",
+        "sources/photos/fa9a1df7b0663b3cb5af.png"
+      ],
+      "coords": null,
+      "location": "Номер/межі ділянки не підтверджені; маркер приблизний.",
+      "checkedAt": "2026-10-02T09:02:55.600471+03:00",
+      "availability": "page_readable",
+      "qualified_all_criteria": false,
+      "mapQuery": "Лемківська, номер невідомий, Тернопіль",
+      "map": "https://www.google.com/maps/search/?api=1&query=%D0%9B%D0%B5%D0%BC%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%2C%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B5%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C",
+      "satellite": "",
+      "centerKm": null,
+      "thumbnail": "sources/photos/920f5ce9de5d4999955d.jpg",
+      "numberKnown": false,
+      "mapPrecision": "адреса не встановлена",
+      "photoReviewDate": "2026-09-29",
+      "satelliteReview": "30.09.2026: свіжий супутник недоступний. Історична перевірка 2026-09-21: не встановлено",
+      "linkVerification": [
+        {
+          "url": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dupleks-v-privatnomu-masiv-kanada-ternopolya-IDXuIX2.html",
+          "label": "olx.ua",
+          "sourceType": "detail",
+          "verified": false,
+          "linkEnabled": false,
+          "removed": false,
+          "previouslyRemoved": false,
+          "checkedAt": "2026-09-29T09:02:54.332353+03:00",
+          "status": 403,
+          "requiresAuthentication": false,
+          "evidence": "sources/history/111c59fe29da09e04bf6.json",
+          "method": "Публічне HTTP-читання колектором поточного запуску",
+          "availability": "Технічне обмеження HTTP 403; не доказ продажу.",
+          "finalUrl": "https://www.olx.ua/d/uk/obyavlenie/prodazh-dupleks-v-privatnomu-masiv-kanada-ternopolya-IDXuIX2.html"
+        },
+        {
+          "url": "https://www.home.ritm.group/prodayetsya-2-poverhovij-budinok-v-rajoni-kanada-po-vul-lemkivska-z-dilyankoyu-v-46-sotih",
+          "label": "home.ritm.group",
+          "sourceType": "detail",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "previouslyRemoved": false,
+          "checkedAt": "2026-09-29T09:12:07.968613+03:00",
+          "status": 200,
+          "requiresAuthentication": false,
+          "evidence": "sources/history/f05c6edd8c021427bb45.txt",
+          "method": "Публічне HTTP-читання поточного запуску",
+          "availability": "Зміст сторінки прочитано; відсутність позначки зняття не доводить фактичної непроданості.",
+          "finalUrl": "https://www.home.ritm.group/prodayetsya-2-poverhovij-budinok-v-rajoni-kanada-po-vul-lemkivska-z-dilyankoyu-v-46-sotih"
+        }
+      ],
+      "setback": "29.09.2026: На фото фасад відділений від огорожі зеленню та вузьким двором. Громадський тротуар і ширину 1–2 м не виміряно.",
+      "kind": "house",
+      "number": 125,
+      "rank": 4,
+      "previousCheckedAt": "2026-10-01T09:02:45.980235+03:00",
+      "satelliteCheckedAt": "2026-09-21",
+      "mapEvidence": {
+        "checkedAt": "2026-09-30T09:38:27+03:00",
+        "newSatelliteVerification": false,
+        "attemptEvidence": "sources/browser-availability.json",
+        "historicalEvidence": "sources/history/baseline-before-run.json"
+      },
+      "verificationAttemptAt": "2026-10-02T09:02:55.600471+03:00",
+      "availabilityNote": "Користувач повідомив, що OLX IDXuIX2 більше недоступне. Сторінку RITM для тієї ж садиби прочитано 02.10.2026; фактичний статус продажу не підтверджено.",
+      "evidence": [
+        "sources/history/111c59fe29da09e04bf6.json",
+        "sources/history/f05c6edd8c021427bb45.txt",
+        "sources/history/7b8b66ccfbaebf92d107.json",
+        "sources/history/9703786ead96dc3401b8.json",
+        "sources/history/74683923e48ecaf2a3bc.json"
+      ],
+      "commission": "Не вказана / не встановлена.",
+      "zoning": "Не перевірено в кадастровому блоці.",
+      "utilities": "Підключення мереж не перевірено.",
+      "setbackWidthMeters": null,
+      "setbackVerified": false,
+      "photoReview": "29.09.2026: Переглянуто всі 4 актуальні фото RITM і 23 історичні OLX. Видно той самий фасад з кількома балконами, спільну забудову та сирі приміщення у старій галереї. Номер не видно.",
+      "photoSources": [
+        "https://ireland.apollo.olxcdn.com/v1/files/gh3h82di3m2u2-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/88h3gpzgh1ws-UA/image;s=1200x1600",
+        "https://ireland.apollo.olxcdn.com/v1/files/2ambpbmk2vfg3-UA/image;s=1200x1600",
+        "https://ireland.apollo.olxcdn.com/v1/files/zh4ltz1wbgbh-UA/image;s=1200x1600",
+        "https://ireland.apollo.olxcdn.com/v1/files/qyxizuv6xchp3-UA/image;s=1200x1600",
+        "https://ireland.apollo.olxcdn.com/v1/files/dz5p4r4n7wtz-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/advry1nudf881-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/56fr1uax73213-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/312l5h4299793-UA/image;s=1200x1600",
+        "https://ireland.apollo.olxcdn.com/v1/files/fmyur8qzgo5v3-UA/image;s=1200x1600",
+        "https://ireland.apollo.olxcdn.com/v1/files/fdtoznudzye83-UA/image;s=1200x1600",
+        "https://ireland.apollo.olxcdn.com/v1/files/exmqff708dcg1-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/rh3gpkye9a3m1-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/lkrj3v5xwetm-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/qi9zklb8fvro3-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/otyk8k4d7x9b2-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/kznk0bh40fmr2-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/emy8x8ikdv5h2-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/y61dwso691263-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/x2lqyktmsw3x1-UA/image;s=1200x1600",
+        "https://ireland.apollo.olxcdn.com/v1/files/wwxi710f8rxs3-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/uhr3c6fyu6jm2-UA/image;s=1600x1200",
+        "https://ireland.apollo.olxcdn.com/v1/files/m29ouvf0pbyk1-UA/image;s=1600x1200"
+      ],
+      "measurements": {},
+      "allCriteriaEvidence": {
+        "qualified": false,
+        "checkedAt": "2026-10-01T09:30:03+03:00",
+        "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
+      },
+      "historicalMapEvidence": true,
+      "factsCheckedAt": "2026-10-01T09:02:45.980235+03:00",
+      "photoEvidenceDate": "2026-09-29T09:12:07.968613+03:00",
+      "status": "Детальний зміст прочитано; повна відповідність не доведена",
+      "cadastreLinks": [],
+      "priceCurrency": "USD",
+      "priceLabel": "$95 000 (RITM); попередній OLX $120 000",
+      "landConflict": "RITM: 4,6 сотки; попереднє OLX: 4 сотки. Межі й склад продажу не встановлені.",
+      "priceConflict": "29.09 пряма сторінка RITM.home: $95 000. Старий вебіндекс цієї сторінки показував $89 000; попереднє OLX — $120 000, сьогодні прямий OLX 403. Це конфлікт джерел/віку, не підтверджене зниження однієї ціни.",
+      "duplicates": "RITM 24292253 і старе OLX IDXuIX2 зіставлені за білим фасадом, конфігурацією балконів і вікон, цоколем та площею 330 м². Імовірний дубль однієї будівлі; юридичний склад/секція продажу та розбіжність 4/4,6 сотки не з’ясовані. Не рахувати окремою садибою.",
+      "photoReviewEvidence": [
+        "sources/history/12ac3f592158e59e3db6.json"
+      ],
+      "removalBasis": "Повідомлення користувача про недоступність OLX IDXuIX2; живий дубль RITM не підтверджує статус OLX."
+    },
+    {
+      "id": "land-pid27",
+      "kind": "land",
+      "district": "Підгороднє",
+      "address": "Ділянка · 27,41 сотки, кадастр …0722",
+      "price": 15000,
+      "area": null,
+      "land": 27.41,
+      "section": "removed",
+      "reason": "Відсіяно: попри ярлик «під забудову», кадастровий блок указує 01.03 — особисте селянське господарство.",
+      "sources": [
+        {
+          "url": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846671/",
+          "label": "rieltor.ua",
+          "sourceType": "detail",
+          "verified": false,
+          "linkEnabled": false,
+          "removed": true,
+          "previouslyRemoved": true,
+          "checkedAt": "2026-10-02T09:03:41.808211+03:00",
+          "status": 410,
+          "requiresAuthentication": false,
+          "evidence": "sources/live-pages.json",
+          "method": "Колектор: публічне HTTP-читання 02.10.2026",
+          "availability": "Сторінка явно знята з пошуку або повертає 410.",
+          "finalUrl": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846671/",
+          "attempts": [
+            {
+              "checkedAt": "2026-09-30T09:03:19.246884+03:00",
+              "status": 410
+            }
+          ]
+        },
+        {
+          "url": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:0722",
+          "label": "kadastrova-karta.com",
+          "sourceType": "cadastre",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "previouslyRemoved": false,
+          "checkedAt": "2026-10-02T09:03:42.763475+03:00",
+          "status": 200,
+          "requiresAuthentication": false,
+          "evidence": "sources/85e807ed819c391a.txt",
+          "method": "Колектор: публічне HTTP-читання 02.10.2026",
+          "availability": "Детальну сторінку прочитано; ознаки зняття немає. Продаж не гарантовано.",
+          "finalUrl": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:0722",
+          "attempts": [
+            {
+              "checkedAt": "2026-09-30T09:03:20.242924+03:00",
+              "status": 200
+            },
+            {
+              "checkedAt": "2026-09-30T09:10:49.794662+03:00",
+              "status": 200
+            }
+          ]
+        },
+        {
+          "url": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846669/",
+          "label": "rieltor.ua",
+          "sourceType": "detail",
+          "verified": false,
+          "linkEnabled": false,
+          "removed": true,
+          "previouslyRemoved": true,
+          "checkedAt": "2026-10-02T09:03:43.662363+03:00",
+          "status": 410,
+          "requiresAuthentication": false,
+          "evidence": "sources/live-pages.json",
+          "method": "Колектор: публічне HTTP-читання 02.10.2026",
+          "availability": "Сторінка явно знята з пошуку або повертає 410.",
+          "finalUrl": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846669/",
+          "attempts": [
+            {
+              "checkedAt": "2026-09-30T09:03:21.117950+03:00",
+              "status": 410
+            }
+          ]
+        }
+      ],
+      "photos": [
+        "sources/photos/b6bc1dd933ab7eebe666.jpg",
+        "sources/photos/9d1b94039b2ef939f050.jpg",
+        "sources/photos/e30c798c0ed772c6a356.jpg"
+      ],
+      "thumbnail": "sources/photos/b6bc1dd933ab7eebe666.jpg",
+      "coords": [
+        49.541866302490234,
+        25.527700424194336
+      ],
+      "centerKm": 5.01,
+      "map": "https://www.google.com/maps/search/?api=1&query=49.541866302490234%2C25.527700424194336",
+      "satellite": "https://www.google.com/maps/@49.541866302490234,25.527700424194336,18z/data=!3m1!1e3",
+      "mapPrecision": "маркер оголошення; межі не встановлені",
+      "numberKnown": false,
+      "location": "Точка оголошення орієнтовна; конкретні межі не звірені з кадастром.",
+      "condition": "Електрика й газ уздовж ділянки, підключень не підтверджено; води/каналізації немає в описі. Без комісії за карткою.",
+      "utilities": "Електрика й газ уздовж ділянки, підключень не підтверджено; води/каналізації немає в описі. Без комісії за карткою.",
+      "zoning": "6125286900:02:001:0722; кадастрові дані порталу: землі сільськогосподарського призначення, ОСГ. Не готова житлова ділянка за вашою умовою.",
+      "setback": "Незабудована ділянка / наявну житлову стіну не ідентифіковано: відступ майбутнього будинку 1–2 м не встановлений; потрібен план забудови. Історичний огляд: Будинок треба проєктувати з відступом від тротуару 1–2 м або більше; габарити й допустиме розміщення не встановлені.",
+      "driveway": "На фото ґрунтова колія вздовж поля; права й ширина проїзду не підтверджені.",
+      "privacy": "Забудова переважно вдалині; визначити суміжні ділянки за трьома фото не вдалося.",
+      "terrain": "Схил із видом у долину, поруч повітряні лінії. Висоти, водовідведення та межі обмежень не встановлені.",
+      "checkedAt": "2026-10-02T09:03:43.662363+03:00",
+      "qualified_all_criteria": false,
+      "linkVerification": [
+        {
+          "url": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846671/",
+          "label": "rieltor.ua",
+          "sourceType": "detail",
+          "verified": false,
+          "linkEnabled": false,
+          "removed": true,
+          "previouslyRemoved": false,
+          "checkedAt": "2026-09-29T09:03:28.478280+03:00",
+          "status": 410,
+          "requiresAuthentication": false,
+          "evidence": "sources/history/111c59fe29da09e04bf6.json",
+          "method": "Публічне HTTP-читання колектором поточного запуску",
+          "availability": "Сторінку знято або URL повертає 404/410; причина невідома, продаж не доведений.",
+          "finalUrl": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846671/"
+        },
+        {
+          "url": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:0722",
+          "label": "kadastrova-karta.com",
+          "sourceType": "cadastre",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "previouslyRemoved": false,
+          "checkedAt": "2026-09-29T09:09:21.463596+03:00",
+          "status": 200,
+          "requiresAuthentication": false,
+          "evidence": "sources/history/f165deaa9d554bc2ce1a.txt",
+          "method": "Публічне HTTP-читання поточного запуску",
+          "availability": "Зміст сторінки прочитано; відсутність позначки зняття не доводить фактичної непроданості.",
+          "finalUrl": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:0722"
+        },
+        {
+          "url": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846669/",
+          "label": "rieltor.ua",
+          "sourceType": "detail",
+          "verified": false,
+          "linkEnabled": false,
+          "removed": true,
+          "previouslyRemoved": true,
+          "checkedAt": "2026-09-29T09:03:30.488946+03:00",
+          "status": 410,
+          "requiresAuthentication": false,
+          "evidence": "sources/history/111c59fe29da09e04bf6.json",
+          "method": "Публічне HTTP-читання колектором поточного запуску",
+          "availability": "Сторінку знято або URL повертає 404/410; причина невідома, продаж не доведений.",
+          "finalUrl": "https://rieltor.ua/podgorodnoe-1698/areas-sale/view/12846669/"
+        }
+      ],
+      "measurements": {
+        "rail": {
+          "meters": 4849,
+          "name": "Тернопіль - Копичинці",
+          "url": "https://www.openstreetmap.org/way/1463703213",
+          "basis": "приблизний маркер оголошення",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
+          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
+          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
+        },
+        "cemetery": {
+          "meters": 285,
+          "name": "cemetery",
+          "url": "https://www.openstreetmap.org/way/171453310",
+          "basis": "приблизний маркер оголошення",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
+          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
+          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
+        },
+        "stop": {
+          "meters": 587,
+          "name": "Зупинка Підгороднє — Google Maps",
+          "url": "https://www.google.com/maps/search/?api=1&query=49.5381554,25.5219174",
+          "basis": "приблизний маркер оголошення",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
+          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
+          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
+        },
+        "kindergarten": {
+          "meters": 482,
+          "name": "Дошкільне відділення, Пасічна, 9",
+          "url": "https://pidgorodnyanska-gromada.gov.ua/pidgorodnyanska-pochatkova-shkola-z-doshkilnim-viddilennyam-13-47-16-06-06-2022/",
+          "basis": "приблизний маркер оголошення",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
+          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
+          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
+        }
+      },
+      "rowHousing": "Забудова переважно вдалині; визначити суміжні ділянки за трьома фото не вдалося.",
+      "photoCheckedAt": "2026-09-21",
+      "number": 126,
+      "rank": 6,
+      "previousCheckedAt": "2026-10-01T09:03:36.033254+03:00",
+      "satelliteCheckedAt": "2026-09-21",
+      "satelliteReview": "30.09.2026: свіжий супутник недоступний. Історична перевірка 2026-09-21: Забудова переважно вдалині; визначити суміжні ділянки за трьома фото не вдалося.",
+      "mapEvidence": {
+        "checkedAt": "2026-09-30T09:38:27+03:00",
+        "newSatelliteVerification": false,
+        "attemptEvidence": "sources/browser-availability.json",
+        "historicalEvidence": "sources/history/baseline-before-run.json"
+      },
+      "verificationAttemptAt": "2026-10-02T09:03:43.662363+03:00",
+      "availability": "removed_or_history",
+      "availabilityNote": "02.10.2026: сторінку явно знято або URL повернув 410; історичні факти збережено.",
+      "evidence": [
+        "sources/history/111c59fe29da09e04bf6.json",
+        "sources/history/f165deaa9d554bc2ce1a.txt",
+        "sources/history/7b8b66ccfbaebf92d107.json",
+        "sources/history/a7d02fb5f8bb404ab754.txt",
+        "sources/history/7979c2a9ca75e18f34c0.txt",
+        "sources/history/496bde75d356732093a2.txt",
+        "sources/history/a8a1d55cf904ac773c50.txt",
+        "sources/history/74683923e48ecaf2a3bc.json"
+      ],
+      "commission": "Джерело заявляє: без комісії.",
+      "setbackWidthMeters": null,
+      "setbackVerified": false,
+      "photoReviewDate": "2026-09-21T12:49:56.092201+03:00",
+      "photoReview": "Історичний огляд (нова галерея повністю не переглядалася): Фото цього запуску завантажено;  повний новий візуальний огляд для цього рядка не проводився. Історичний висновок: Попередній перегляд від 2026-09-21T12:49:56.092201+03:00. Повторний повний перегляд у цьому запуску не заявляється.",
+      "photoSources": [
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/231c2c9f99ae9c3f53a32fb64728adc6.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/a768ab7c2fdeb07d68ae09024d9fe443.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/e0e820ac384f8da1013c35551f3ed3ad.jpg"
+      ],
+      "mapQuery": "27,41 сотки, кадастр …0722, Підгороднє",
+      "allCriteriaEvidence": {
+        "qualified": false,
+        "checkedAt": "2026-10-01T09:30:03+03:00",
+        "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
+      },
+      "cadastreLinks": [
+        {
+          "number": "6125286900:02:001:0722",
+          "url": "https://kadastrova-karta.com/dilyanka/6125286900:02:001:0722",
+          "label": "6125286900:02:001:0722",
+          "checkedAt": "2026-10-02T09:03:42.763475+03:00",
+          "verified": true,
+          "evidence": "sources/85e807ed819c391a.txt",
+          "referenceOnly": true,
+          "status": 200,
+          "requiresAuthentication": false
+        }
+      ],
+      "cadastreNote": "RIELTOR верифікує номер, але кадастровий блок оголошення показує 01.03 — особисте селянське господарство. До купівлі під житлову забудову потрібна офіційна перевірка призначення та можливості його зміни.",
+      "historicalMapEvidence": true,
+      "factsCheckedAt": "2026-09-27T09:03:43.853121+03:00",
+      "photoEvidenceDate": "2026-09-23T09:27:42.486900+03:00",
+      "status": "Зняте оголошення / історія",
+      "landConflict": "26.09.2026 обидва RIELTOR-дублі заявляють 27,41 сотки, довідкова кадастрова сторінка — 0,2752 га / 27,52 сотки. Категорія ОСГ 01.03, не готова житлова ділянка.",
+      "priceCurrency": "USD"
+    },
+    {
+      "id": "pid-verbytskoho120",
+      "section": "removed",
+      "kind": "house",
+      "address": "Вербицького, 10 — номер із оголошення",
+      "district": "Підгороднє",
+      "price": 48000,
+      "area": 120,
+      "land": 3.7,
+      "coords": null,
+      "centerKm": null,
+      "numberKnown": false,
+      "mapPrecision": "адреса не встановлена",
+      "reason": "26.09.2026 актуальність детального оголошення не підтверджена; ціна й фото з попередньої перевірки. RIELTOR 12869535 повторно повертає HTTP 410 24.09.2026. Причина зняття невідома. Історичні $48 000 / 120 м² / 3,7 сотки збережені; не плутати з новою окремою недобудовою 285 м² / 20 соток за $65 000 на Вербицького.",
+      "sources": [
+        {
+          "url": "https://rieltor.ua/podgorodnoe-1698/houses-sale/view/12869535/",
+          "label": "rieltor.ua",
+          "sourceType": "detail",
+          "verified": false,
+          "linkEnabled": false,
+          "removed": true,
+          "previouslyRemoved": false,
+          "checkedAt": "2026-10-02T09:04:16.758489+03:00",
+          "status": 410,
+          "requiresAuthentication": false,
+          "evidence": "sources/live-pages.json",
+          "method": "Колектор: публічне HTTP-читання 02.10.2026",
+          "availability": "Сторінка явно знята з пошуку або повертає 410.",
+          "finalUrl": "https://rieltor.ua/podgorodnoe-1698/houses-sale/view/12869535/",
+          "attempts": [
+            {
+              "checkedAt": "2026-09-30T09:03:36.422800+03:00",
+              "status": 429
+            }
+          ]
+        }
+      ],
+      "photos": [
+        "sources/history/photos/1e6a870c83d9a79965ea.jpg",
+        "sources/history/photos/532977febc1465323b05.jpg",
+        "sources/history/photos/52457a300176baf2757a.jpg",
+        "sources/history/photos/72743dab7a7eed0c010f.jpg",
+        "sources/history/photos/76321035ba5f83f155eb.jpg",
+        "sources/history/photos/250c38ce2abfe755f7a9.jpg",
+        "sources/history/photos/8b8d7b5162c8987b6a2a.jpg",
+        "sources/history/photos/c527d8684ad815a60c61.jpg",
+        "sources/history/photos/1eb03137493ecc1bbd23.jpg",
+        "sources/history/photos/92eb9608fe40c1d7dec4.jpg",
+        "sources/history/photos/90ca8d6c9c5c87412024.jpg",
+        "sources/history/photos/0bc35f4dc5a21e4397bb.jpg",
+        "sources/history/photos/243926d9a59d02f337d5.jpg",
+        "sources/history/photos/10f068522b4f86ddef83.jpg",
+        "sources/history/photos/be1985b218176a86ceb9.jpg",
+        "sources/history/photos/0d24ccd8dcd249ae1e57.jpg",
+        "sources/history/photos/3c667708a3fbd0933eef.jpg"
+      ],
+      "thumbnail": "sources/history/photos/1e6a870c83d9a79965ea.jpg",
+      "qualified_all_criteria": false,
+      "checkedAt": "2026-10-02T09:04:16.758489+03:00",
+      "measurements": {},
+      "satelliteReview": "30.09.2026: свіжий супутник недоступний. Історична перевірка дата не встановлена: Суміжні багатоповерхівки та приватність двору не перевірено.",
+      "satelliteCheckedAt": null,
+      "setback": "Не встановлено: фото перелічені в галереї, але в цьому запуску візуально не завантажені; ширина відступу стіни від тротуару невідома.",
+      "infrastructure": "Історична перевірка від 2026-09-21; цього запуску маршрути не повторювались. Не встановлені обидва пішохідні маршрути від виходу з двору до зупинки та підтвердженого садочка ≤500 м. Відстань по прямій не обчислювалась без надійної точки.",
+      "terrain": "Низину, перехрестя та положення ділянки не перевірено. Супутник без висот не доводить відсутність низини.",
+      "privacy": "Суміжні багатоповерхівки та приватність двору не перевірено.",
+      "rowHousing": "Щільний ряд однотипних будинків не виключено.",
+      "driveway": "Асфальтований під’їзд заявлений. Заїзд через ворота не перевірено.",
+      "commission": "У rieltor.ua зазначено 5%.",
+      "zoning": "Не встановлено в кадастровому блоці.",
+      "utilities": "Заявлена власна свердловина; всі підключення не доведені.",
+      "commissionPercent": 5,
+      "totalWithCommission": 50400,
+      "landConflict": "3 сотки в картці; 0,037 га (3,7 сотки) в описі. Кадастрову площу не підтверджено.",
+      "previousCheckedAt": "2026-10-01T09:04:10.845077+03:00",
+      "verificationAttemptAt": "2026-10-02T09:04:16.758489+03:00",
+      "linkVerification": [
+        {
+          "url": "https://rieltor.ua/podgorodnoe-1698/houses-sale/view/12869535/",
+          "label": "rieltor.ua",
+          "sourceType": "detail",
+          "verified": false,
+          "linkEnabled": false,
+          "removed": false,
+          "previouslyRemoved": true,
+          "checkedAt": "2026-09-29T09:10:58.724570+03:00",
+          "status": 429,
+          "requiresAuthentication": false,
+          "evidence": "sources/history/0c2e5b9363ab47323ce9.json",
+          "method": "Публічне HTTP-читання поточного запуску",
+          "availability": "Технічне обмеження HTTP 429; не доказ продажу. Попередню позначку зняття не спростовано; технічна помилка не доводить відновлення.",
+          "finalUrl": "https://rieltor.ua/podgorodnoe-1698/houses-sale/view/12869535/"
+        }
+      ],
+      "availability": "unverified",
+      "availabilityNote": "02.10.2026: сторінку явно знято або URL повернув 410; історичні факти збережено.",
+      "evidence": [
+        "sources/history/0c2e5b9363ab47323ce9.json",
+        "sources/history/7b8b66ccfbaebf92d107.json",
+        "sources/history/9703786ead96dc3401b8.json",
+        "sources/history/74683923e48ecaf2a3bc.json"
+      ],
+      "setbackWidthMeters": null,
+      "setbackVerified": false,
+      "photoReviewDate": null,
+      "photoReview": "Історичний огляд (нова галерея повністю не переглядалася): Збережено фото попереднього звіту;  повний новий візуальний огляд для цього рядка не проводився. Історичний висновок: Попередній перегляд від None. Повторний повний перегляд у цьому запуску не заявляється.",
+      "photoSources": [
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141533628439.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141533828713.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141445698261.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141445677862.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141445701318.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141445700601.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141445702123.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141446618584.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141446626360.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141446633764.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141446623398.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141446636374.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141531605583.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141531648706.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141531546957.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141531590461.jpg",
+        "https://market-images.lunstatic.net/lun-ua/t.1.0.0/1600/1200/images/offers/1870141531559598.jpg"
+      ],
+      "mapQuery": "Вербицького 10, Підгородне, Тернопільська область",
+      "map": "https://www.google.com/maps/search/?api=1&query=%D0%92%D0%B5%D1%80%D0%B1%D0%B8%D1%86%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2010%2C%20%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D0%B5%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+      "satellite": "",
+      "allCriteriaEvidence": {
+        "qualified": false,
+        "checkedAt": "2026-10-01T09:30:03+03:00",
+        "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
+      },
+      "rank": 6,
+      "number": 127,
+      "historicalMapEvidence": true,
+      "mapEvidence": {
+        "checkedAt": "2026-09-30T09:38:27+03:00",
+        "newSatelliteVerification": false,
+        "attemptEvidence": "sources/browser-availability.json",
+        "historicalEvidence": "sources/history/baseline-before-run.json"
+      },
+      "factsCheckedAt": "2026-09-22T06:10:00.667Z",
+      "photoEvidenceDate": null,
+      "status": "Технічно не перевірено / історія",
+      "cadastreLinks": [],
+      "priceCurrency": "USD"
+    },
+    {
+      "id": "hai-shevchenka60",
+      "section": "removed",
+      "kind": "house",
+      "address": "Шевченка, будинок 60 м² — номер невідомий",
+      "district": "Великі Гаї",
+      "price": 60000,
+      "area": 60,
+      "land": 5,
+      "coords": null,
+      "centerKm": null,
+      "map": "https://www.google.com/maps/search/?api=1&query=%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%B0%2C%20%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%2060%20%D0%BC%C2%B2%20%E2%80%94%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%D0%BD%D0%B5%D0%B2%D1%96%D0%B4%D0%BE%D0%BC%D0%B8%D0%B9%2C%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D1%96%20%D0%93%D0%B0%D1%97%2C%20%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
+      "satellite": "",
+      "mapPrecision": "адреса двору не встановлена; назва вулиці/номер лише з оголошення",
+      "numberKnown": false,
+      "reason": "30.09: DIM.RIA 34942335 повідомляє «Оголошення видалено та не бере участі у пошуку» попри HTTP 200. Посилання вимкнено; продаж не доведений. Історія: візуалізація та незавершені стіни без даху/вікон, 60 м²; маршрути до садочка і зупинки не підтверджені.",
+      "sources": [
+        {
+          "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-shevchenko-ulitsa-34942335.html",
+          "label": "dom.ria.com",
+          "sourceType": "detail",
+          "verified": false,
+          "linkEnabled": false,
+          "removed": true,
+          "previouslyRemoved": false,
+          "checkedAt": "2026-10-02T09:04:24.965860+03:00",
+          "status": 200,
+          "requiresAuthentication": false,
+          "evidence": "sources/304859faccf5704c.txt",
+          "method": "Колектор: публічне HTTP-читання 02.10.2026",
+          "availability": "Сторінка явно знята з пошуку або повертає 410.",
+          "finalUrl": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-shevchenko-ulitsa-34942335.html",
+          "attempts": [
+            {
+              "checkedAt": "2026-09-30T09:03:41.826579+03:00",
+              "status": 200
+            }
+          ]
+        }
+      ],
+      "thumbnail": "sources/photos/98124aee35ec9012de28.jpg",
+      "photos": [
+        "sources/photos/552e188c78b1bc7ec8c5.jpg",
+        "sources/photos/1a46777b4b5c1666908b.jpg",
+        "sources/photos/98124aee35ec9012de28.jpg",
+        "sources/photos/f0cf72de2ee5261a3ecd.jpg",
+        "sources/photos/0df9ed2d748d7583bcf9.jpg",
+        "sources/photos/6a57c295e7174011d82d.jpg",
+        "sources/photos/48aff158f441ab4b8ad5.jpg"
+      ],
+      "checkedAt": "2026-10-02T09:04:24.965860+03:00",
+      "factsCheckedAt": "2026-09-29T09:02:14.861119+03:00",
+      "qualified_all_criteria": false,
+      "driveway": "Заїзд із вулиці не доведено; є ґрунтова територія будівництва.",
+      "setback": "На реальних фото стіни серед ділянки; лінію тротуару й ширину не встановлено.",
+      "setbackWidthMeters": null,
+      "setbackVerified": false,
+      "condition": "Перше зображення — візуалізація. Реальні фото показують незавершені стіни без даху і вікон; 60 м² — компроміс.",
+      "privacy": "За фото видимі лише окремі сусіди. Відсутність суміжних багатоповерхівок та огляду двору не доведено.",
+      "rowHousing": "Фотографії показують окрему споруду; повний квартал та приватність усіх меж не перевірені.",
+      "terrain": "Висотної перевірки немає; низина та кутове положення не виключені. Перше зображення — візуалізація. Реальні фото показують незавершені стіни без даху і вікон; 60 м² — компроміс.",
+      "location": "Шевченка, будинок 60 м² — номер невідомий Великі Гаї Тернопільська область. Точного виходу з двору не встановлено. Маркер порталу не використано як точну адресу.",
+      "commission": "Комісія 5%: $3,000; разом $63,000.",
+      "commissionPercent": 5.0,
+      "totalWithCommission": 63000.0,
+      "utilities": "В описі заявлені вода, електрика й септик. На реальних фото рання стадія будівництва; підключення та готовність до проживання документально не перевірені.",
+      "rail": "Не виміряно: немає точної адреси/меж.",
+      "cemetery": "Не виміряно: немає точної адреси/меж.",
+      "measurements": {},
+      "infrastructure": "Для Підгороднього повторно підтверджений ІСУО 59076 (Пасічна, 9), для Великих Гаїв — ІСУО 48390 (Галицька, 44-В). Це не встановлює найближчий маршрут від цього двору. Відстані по прямій та пішки не виміряні без точної точки виходу.",
+      "availability": "removed_or_history",
+      "availabilityNote": "02.10.2026: сторінку явно знято або URL повернув 410; історичні факти збережено.",
+      "satelliteReview": "30.09.2026: свіжий супутник недоступний. Історична перевірка дата не встановлена: За фото видимі лише окремі сусіди. Відсутність суміжних багатоповерхівок та огляду двору не доведено.",
+      "satelliteCheckedAt": null,
+      "photoReview": "24.09.2026 переглянуто 7 доступних локально збережених фото галереї. Перше зображення — візуалізація. Реальні фото показують незавершені стіни без даху і вікон; 60 м² — компроміс.",
+      "photoReviewDate": "2026-09-24T09:46:23+03:00",
+      "cadastreLinks": [],
+      "evidence": [
+        "sources/history/1ae6c648ab37aa9faf12.txt",
+        "sources/history/80292f1a863cf8204af6.txt",
+        "sources/history/d160b281466f5d9965db.txt",
+        "sources/history/74683923e48ecaf2a3bc.json"
+      ],
+      "mapEvidence": {
+        "checkedAt": "2026-09-30T09:38:27+03:00",
+        "newSatelliteVerification": false,
+        "attemptEvidence": "sources/browser-availability.json",
+        "historicalEvidence": "sources/history/baseline-before-run.json"
+      },
+      "allCriteriaEvidence": {
+        "qualified": false,
+        "checkedAt": "2026-10-01T09:30:03+03:00",
+        "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
+      },
+      "linkVerification": [
+        {
+          "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-shevchenko-ulitsa-34942335.html",
+          "label": "dom.ria.com",
+          "sourceType": "detail",
+          "verified": true,
+          "linkEnabled": true,
+          "removed": false,
+          "previouslyRemoved": false,
+          "checkedAt": "2026-09-29T09:02:14.861119+03:00",
+          "status": 200,
+          "requiresAuthentication": false,
+          "evidence": "sources/history/1ae6c648ab37aa9faf12.txt",
+          "method": "Публічне HTTP-читання колектором поточного запуску",
+          "availability": "Зміст сторінки прочитано; відсутність позначки зняття не доводить фактичної непроданості.",
+          "finalUrl": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-shevchenko-ulitsa-34942335.html"
+        }
+      ],
+      "status": "Зняте оголошення / історія",
+      "rank": 6,
+      "number": 128,
+      "previousCheckedAt": "2026-10-01T09:04:22.598215+03:00",
+      "verificationAttemptAt": "2026-10-02T09:04:24.965860+03:00",
+      "historicalMapEvidence": true,
+      "zoning": "Не підтверджено кадастровим блоком."
+    },
+    {
+      "id": "hai125",
+      "district": "Великі Гаї",
+      "address": "Івана Франка бічна, номер невідомий",
+      "price": 61560,
+      "area": 124.5,
+      "land": 8,
+      "reason": "DOM.RIA містить явну позначку видалення. Причина зняття невідома. Старі фото й €54 000 збережено як історію, обидва маршрути 500 м не доведені.",
+      "section": "removed",
+      "sources": [
+        {
+          "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa-33415017.html",
+          "label": "dom.ria.com",
+          "sourceType": "detail",
+          "verified": false,
+          "linkEnabled": false,
+          "removed": true,
+          "previouslyRemoved": true,
+          "checkedAt": "2026-10-02T09:04:26.125855+03:00",
+          "status": 200,
+          "requiresAuthentication": false,
+          "evidence": "sources/4d1b7ad7539b4aae.txt",
+          "method": "Колектор: публічне HTTP-читання 02.10.2026",
+          "availability": "Сторінка явно знята з пошуку або повертає 410.",
+          "finalUrl": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa-33415017.html",
+          "attempts": [
+            {
+              "checkedAt": "2026-09-30T09:03:42.991340+03:00",
+              "status": 200
+            }
+          ]
+        }
+      ],
+      "photos": [
+        "sources/photos/ade0afd40ec2c22173f0.jpg",
+        "sources/photos/18fbf7145aa7eb106590.jpg",
+        "sources/photos/72041bfe8fad76856768.jpg",
+        "sources/photos/542b80fa908cfb9ed19f.jpg",
+        "sources/photos/67ffc4ffdb23ac64c7de.jpg",
+        "sources/photos/67cec73cf65fffe0fe38.jpg",
+        "sources/photos/ef768106b60a34a5bc69.jpg",
+        "sources/photos/598a516213e3b4ee9749.jpg",
+        "sources/photos/006dad0f307d44cfac68.jpg",
+        "sources/photos/30f1ecb9018f4462df03.jpg",
+        "sources/photos/c394b10264469dbaee13.jpg",
+        "sources/photos/b91b024037cd1cb44a2d.jpg",
+        "sources/photos/6bbb3066352dc380d676.jpg",
+        "sources/photos/89e0b3cd6a0be361254a.jpg",
+        "sources/photos/b6210b7596f0b5b3ceea.jpg",
+        "sources/photos/02ce55718ae15b21a3e9.jpg",
+        "sources/photos/5aa19403012b909d0a0c.jpg",
+        "sources/photos/dfb4a0856c4710f36311.jpg",
+        "sources/photos/452ad12f9808bda883fe.jpg"
+      ],
+      "coords": [
+        49.52753068,
+        25.64443808
+      ],
+      "checkedAt": "2026-10-02T09:04:26.125855+03:00",
+      "availability": "removed_or_history",
+      "qualified_all_criteria": false,
+      "location": "Маркер порталу — приблизний; ідентичність конкретної ділянки на супутнику не доведено.",
+      "cemetery": "Оцінка від маркера, не межі ділянки.",
+      "mapQuery": "Івана Франка бічна, номер невідомий, Великі Гаї, Тернопільська область",
+      "map": "https://www.google.com/maps/search/?api=1&query=49.52753068%2C25.64443808",
+      "satellite": "https://www.google.com/maps/@49.52753068,25.64443808,18z/data=!3m1!1e3",
+      "measurements": {
+        "coords": [
+          49.52753068,
+          25.64443808
+        ],
+        "centerKm": 4.62,
+        "rail": {
+          "meters": 279,
+          "name": "Тернопіль - Гречани",
+          "url": "https://www.openstreetmap.org/way/585219541",
+          "coords": [
+            [
+              49.5321973,
+              25.6339708
+            ],
+            [
+              49.5306865,
+              25.6416946
+            ],
+            [
+              49.5305612,
+              25.6423351
+            ],
+            [
+              49.5290135,
+              25.6502489
+            ]
+          ],
+          "basis": "приблизний маркер оголошення",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
+          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
+          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
+        },
+        "cemetery": {
+          "meters": 865,
+          "name": "cemetery",
+          "url": "https://www.openstreetmap.org/way/249831621",
+          "coords": [
+            [
+              49.5193664,
+              25.6505593
+            ],
+            [
+              49.5193721,
+              25.6505614
+            ],
+            [
+              49.5197137,
+              25.6506798
+            ],
+            [
+              49.5199193,
+              25.650751
+            ],
+            [
+              49.5200447,
+              25.6507907
+            ],
+            [
+              49.5202666,
+              25.6508779
+            ],
+            [
+              49.5204273,
+              25.6509465
+            ],
+            [
+              49.5204801,
+              25.6508555
+            ],
+            [
+              49.5205447,
+              25.650566
+            ],
+            [
+              49.5206092,
+              25.6502765
+            ],
+            [
+              49.5206305,
+              25.6500801
+            ],
+            [
+              49.5206077,
+              25.6499469
+            ],
+            [
+              49.520506,
+              25.6497271
+            ],
+            [
+              49.5204499,
+              25.6496476
+            ],
+            [
+              49.5204635,
+              25.6494443
+            ],
+            [
+              49.5197063,
+              25.6491451
+            ],
+            [
+              49.5196456,
+              25.6492175
+            ],
+            [
+              49.5195925,
+              25.649318
+            ],
+            [
+              49.5195545,
+              25.6494863
+            ],
+            [
+              49.5194726,
+              25.6499679
+            ],
+            [
+              49.5193664,
+              25.6505593
+            ]
+          ],
+          "basis": "приблизний маркер оголошення",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
+          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
+          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
+        },
+        "stop": {
+          "meters": 460,
+          "name": "Перша зупинка",
+          "url": "https://www.openstreetmap.org/node/1403964647",
+          "coords": [
+            [
+              49.5242489,
+              25.6405477
+            ]
+          ],
+          "basis": "приблизний маркер оголошення",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
+          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
+          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
+        },
+        "kindergarten": {
+          "meters": 725,
+          "name": "Ясла-садок \"Країна дитинства\"",
+          "url": "https://www.openstreetmap.org/way/430870956",
+          "coords": [
+            [
+              49.5200946,
+              25.6451765
+            ],
+            [
+              49.5200024,
+              25.6458873
+            ],
+            [
+              49.5207755,
+              25.6462547
+            ],
+            [
+              49.5208973,
+              25.6462628
+            ],
+            [
+              49.5209513,
+              25.6462145
+            ],
+            [
+              49.5210697,
+              25.6457612
+            ],
+            [
+              49.5210053,
+              25.6457236
+            ],
+            [
+              49.5210366,
+              25.6455734
+            ],
+            [
+              49.5200946,
+              25.6451765
+            ]
+          ],
+          "basis": "приблизний маркер оголошення",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
+          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
+          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
+        }
+      },
+      "centerKm": 4.61,
+      "thumbnail": "sources/photos/ade0afd40ec2c22173f0.jpg",
+      "numberKnown": false,
+      "mapPrecision": "приблизний маркер вулиці",
+      "condition": "Старий будинок, ремонт та заміна котла. Ціну в EUR слід уточнити: на сторінці $62 178, розрахунок за м² — у євро.",
+      "driveway": "На фото огорожа та ворота вздовж асфальту; ширина автомобільного в’їзду не виміряна.",
+      "privacy": "Окремі садиби, дерева, без видимої суміжної висотки.",
+      "terrain": "Двір зарослий, будинок на цоколі; відсутність низини не підтверджена.",
+      "duplicates": "Поруч є оголошення 163,5 м² / 8,7 сотки за $110 000. Подібний тип старого фасаду й близькі маркери недостатні для об’єднання; збіг не доведено.",
+      "photoReviewDate": "2026-09-21",
+      "satelliteReview": "30.09.2026: свіжий супутник недоступний. Історична перевірка 2026-09-21: Окремі садиби, дерева, без видимої суміжної висотки.",
+      "linkVerification": [
+        {
+          "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa-33415017.html",
+          "label": "dom.ria.com",
+          "sourceType": "detail",
+          "verified": false,
+          "linkEnabled": false,
+          "removed": true,
+          "previouslyRemoved": true,
+          "checkedAt": "2026-09-29T09:03:50.759914+03:00",
+          "status": 200,
+          "requiresAuthentication": false,
+          "evidence": "sources/history/6d9ed138a70c2d76967f.txt",
+          "method": "Публічне HTTP-читання колектором поточного запуску",
+          "availability": "Сторінку знято або URL повертає 404/410; причина невідома, продаж не доведений.",
+          "finalUrl": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa-33415017.html"
+        }
+      ],
+      "setback": "Фото показують сад та смугу землі перед будинком за огорожею. Метраж від стіни до тротуару не встановлено.",
+      "kind": "house",
+      "number": 129,
+      "rank": 6,
+      "previousCheckedAt": "2026-10-01T09:04:23.643804+03:00",
+      "satelliteCheckedAt": "2026-09-21",
+      "mapEvidence": {
+        "checkedAt": "2026-09-30T09:38:27+03:00",
+        "newSatelliteVerification": false,
+        "attemptEvidence": "sources/browser-availability.json",
+        "historicalEvidence": "sources/history/baseline-before-run.json"
+      },
+      "verificationAttemptAt": "2026-10-02T09:04:26.125855+03:00",
+      "availabilityNote": "02.10.2026: сторінку явно знято або URL повернув 410; історичні факти збережено.",
+      "evidence": [
+        "sources/history/6d9ed138a70c2d76967f.txt",
+        "sources/history/e8cec644cdde6995d11e.txt",
+        "sources/history/ef89501c143af3713037.txt",
+        "sources/history/74683923e48ecaf2a3bc.json"
+      ],
+      "commission": "Не вказана / не встановлена.",
+      "zoning": "Не перевірено в кадастровому блоці.",
+      "utilities": "Старий будинок, ремонт та заміна котла. Ціну в EUR слід уточнити: на сторінці $62 178, розрахунок за м² — у євро.",
+      "setbackWidthMeters": null,
+      "setbackVerified": false,
+      "photoReview": "Історичний огляд (нова галерея повністю не переглядалася): Фото цього запуску завантажено;  повний новий візуальний огляд для цього рядка не проводився. Історичний висновок: Попередній перегляд від 2026-09-21. Повторний повний перегляд у цьому запуску не заявляється.",
+      "photoSources": [
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414242fl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414252xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414255xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414290xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414289xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414286xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414288xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414292xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414299xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414300xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414301xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414302xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414307xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322414308xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322418558xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322418557xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__322418556xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__341440501xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-ivana-franko-bokovaya-ulitsa__341440502xl.jpg"
+      ],
+      "allCriteriaEvidence": {
+        "qualified": false,
+        "checkedAt": "2026-10-01T09:30:03+03:00",
+        "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
+      },
+      "historicalMapEvidence": true,
+      "priceLabel": "€54 000 ≈ $61 560",
+      "currencyNote": "30.09: базова ціна €54000; портал показує $61560. Зміна USD-еквівалента є курсовим перерахунком, не підтвердженою зміною ціни в євро.",
+      "factsCheckedAt": "2026-09-23T09:01:54.738900+03:00",
+      "photoEvidenceDate": "2026-09-23T09:27:42.486900+03:00",
+      "status": "Зняте оголошення / історія",
+      "cadastreLinks": [],
+      "priceCurrency": "USD",
+      "originalCurrency": "EUR",
+      "originalPrice": 54000,
+      "priceConflict": "30.09: базова ціна €54000; портал показує $61560. Зміна USD-еквівалента є курсовим перерахунком, не підтвердженою зміною ціни в євро."
+    },
+    {
+      "id": "hai120",
+      "district": "Великі Гаї",
+      "address": "Назарія Яремчука, номер невідомий",
+      "price": 87000,
+      "area": 120,
+      "land": 4,
+      "reason": "DOM.RIA містить явну позначку видалення. Причина невідома; старі $87 000 / 120 м² / 4 сотки й фото збережено як історію. Точна адреса й маршрути не доведені.",
+      "section": "removed",
+      "sources": [
+        {
+          "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa-34888651.html",
+          "label": "dom.ria.com",
+          "sourceType": "detail",
+          "verified": false,
+          "linkEnabled": false,
+          "removed": true,
+          "previouslyRemoved": true,
+          "checkedAt": "2026-10-02T09:04:31.325407+03:00",
+          "status": 200,
+          "requiresAuthentication": false,
+          "evidence": "sources/339bbcc93345b993.txt",
+          "method": "Колектор: публічне HTTP-читання 02.10.2026",
+          "availability": "Сторінка явно знята з пошуку або повертає 410.",
+          "finalUrl": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa-34888651.html",
+          "attempts": [
+            {
+              "checkedAt": "2026-09-30T09:03:48.272012+03:00",
+              "status": 200
+            }
+          ]
+        }
+      ],
+      "photos": [
+        "sources/history/photos/5d731921c8f140bdd751.jpg",
+        "sources/history/photos/749ebbdad15f234cf567.jpg",
+        "sources/history/photos/2a768192c7e6af6ad287.jpg",
+        "sources/history/photos/5a83bdebb5fb8ea655f8.jpg",
+        "sources/history/photos/c767b7b042141dae8ae8.jpg",
+        "sources/history/photos/663b431a3fdb09312c9e.jpg",
+        "sources/history/photos/0195dd6c7f3dd89d01aa.jpg",
+        "sources/history/photos/884e5ebc12b66d7a471b.jpg",
+        "sources/history/photos/967f999397e8f46a2bff.jpg",
+        "sources/history/photos/48555845155776ea171f.jpg",
+        "sources/history/photos/905b19c3d62dda0dfa9a.jpg",
+        "sources/history/photos/13f5533a5ec99f3da65c.jpg",
+        "sources/history/photos/045e8748d1c25624399a.jpg",
+        "sources/history/photos/96957d776f939783c90a.jpg",
+        "sources/history/photos/1dc225d0d91d9775948e.jpg",
+        "sources/history/photos/9c402bbc1d5b88fab112.jpg",
+        "sources/history/photos/539a2b3edf74bba44e46.jpg",
+        "sources/history/photos/e6c8499bae8751495588.jpg",
+        "sources/history/photos/401fb6b68484e9a01783.jpg",
+        "sources/history/photos/0a49195ae45b4fcc1b6b.jpg",
+        "sources/history/photos/1735ca17d490750dbceb.jpg",
+        "sources/history/photos/1d6c9f4ba409f40240f6.jpg",
+        "sources/history/photos/daa061af294c4c331f25.jpg",
+        "sources/history/photos/900de8cb1f59b9e87be0.jpg",
+        "sources/history/photos/10117f6c8cf9323d6134.jpg",
+        "sources/history/photos/f792a596fb2ec31b7a93.jpg",
+        "sources/history/photos/49bb7df4903ef97f1a9e.jpg",
+        "sources/history/photos/b02edef4a747afbd551d.jpg"
+      ],
+      "coords": [
+        49.51456011382374,
+        25.68052128020716
+      ],
+      "checkedAt": "2026-10-02T09:04:31.325407+03:00",
+      "availability": "removed_or_history",
+      "qualified_all_criteria": false,
+      "location": "Маркер порталу — приблизний; ідентичність конкретної ділянки на супутнику не доведено.",
+      "cemetery": "Оцінка від маркера, не межі ділянки.",
+      "mapQuery": "Назарія Яремчука, номер невідомий, Великі Гаї, Тернопільська область",
+      "map": "https://www.google.com/maps/search/?api=1&query=49.51456011382374%2C25.68052128020716",
+      "satellite": "https://www.google.com/maps/@49.51456011382374,25.68052128020716,18z/data=!3m1!1e3",
+      "measurements": {
+        "coords": [
+          49.51456011382374,
+          25.68052128020716
+        ],
+        "centerKm": 7.57,
+        "rail": {
+          "meters": 907,
+          "name": "Тернопіль - Гречани",
+          "url": "https://www.openstreetmap.org/way/757311610",
+          "coords": [
+            [
+              49.5289798,
+              25.6504279
+            ],
+            [
+              49.523252,
+              25.6796731
+            ],
+            [
+              49.5231621,
+              25.6800903
+            ],
+            [
+              49.520149,
+              25.695594
+            ]
+          ],
+          "basis": "приблизний маркер оголошення",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
+          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
+          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
+        },
+        "cemetery": {
+          "meters": 2225,
+          "name": "cemetery",
+          "url": "https://www.openstreetmap.org/way/259585118",
+          "coords": [
+            [
+              49.5195834,
+              25.6489679
+            ],
+            [
+              49.5195686,
+              25.6491089
+            ],
+            [
+              49.5195414,
+              25.6491527
+            ],
+            [
+              49.5195093,
+              25.6492044
+            ],
+            [
+              49.5193838,
+              25.6499229
+            ],
+            [
+              49.5193285,
+              25.6502533
+            ],
+            [
+              49.5192804,
+              25.6505105
+            ],
+            [
+              49.519051,
+              25.650451
+            ],
+            [
+              49.5187474,
+              25.6503659
+            ],
+            [
+              49.5184164,
+              25.6502753
+            ],
+            [
+              49.5185911,
+              25.6495641
+            ],
+            [
+              49.5187349,
+              25.648972
+            ],
+            [
+              49.5187539,
+              25.6489235
+            ],
+            [
+              49.5188169,
+              25.64881
+            ],
+            [
+              49.5189548,
+              25.6486805
+            ],
+            [
+              49.519486,
+              25.6489258
+            ],
+            [
+              49.5195834,
+              25.6489679
+            ]
+          ],
+          "basis": "приблизний маркер оголошення",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
+          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
+          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
+        },
+        "stop": {
+          "meters": 957,
+          "name": "Гаї Великі",
+          "url": "https://www.openstreetmap.org/node/1612996369",
+          "coords": [
+            [
+              49.5231621,
+              25.6800903
+            ]
+          ],
+          "basis": "приблизний маркер оголошення",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
+          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
+          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
+        },
+        "kindergarten": {
+          "meters": 2569,
+          "name": "Ясла-садок \"Країна дитинства\"",
+          "url": "https://www.openstreetmap.org/way/430870956",
+          "coords": [
+            [
+              49.5200946,
+              25.6451765
+            ],
+            [
+              49.5200024,
+              25.6458873
+            ],
+            [
+              49.5207755,
+              25.6462547
+            ],
+            [
+              49.5208973,
+              25.6462628
+            ],
+            [
+              49.5209513,
+              25.6462145
+            ],
+            [
+              49.5210697,
+              25.6457612
+            ],
+            [
+              49.5210053,
+              25.6457236
+            ],
+            [
+              49.5210366,
+              25.6455734
+            ],
+            [
+              49.5200946,
+              25.6451765
+            ]
+          ],
+          "basis": "приблизний маркер оголошення",
+          "distanceType": "по прямій до найближчої знайденої геометрії OSM",
+          "checkedAt": "2026-09-21T12:49:56.092201+03:00",
+          "fromParcelBoundary": false,
+          "evidence": "sources/history/74683923e48ecaf2a3bc.json",
+          "originalEvidencePath": "sources/history/74683923e48ecaf2a3bc.json",
+          "historicalNote": "Історичний вимір із власною датою; не повторений 30.09.2026. Від точки/маркера, не від межі ділянки; не пішохідний маршрут від воріт."
+        }
+      },
+      "centerKm": 7.56,
+      "thumbnail": "sources/history/photos/5d731921c8f140bdd751.jpg",
+      "numberKnown": false,
+      "mapPrecision": "приблизний маркер вулиці",
+      "driveway": "На фото відкритий під’їзд і гаражні ворота.",
+      "rowHousing": "Щонайменше два близькі майже однакові котеджі видно на фото 3.",
+      "condition": "Сирі цегляні стіни; комісія 5%.",
+      "photoReviewDate": "2026-09-21",
+      "satelliteReview": "30.09.2026: свіжий супутник недоступний. Історична перевірка 2026-09-21: не встановлено",
+      "linkVerification": [
+        {
+          "url": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa-34888651.html",
+          "label": "dom.ria.com",
+          "sourceType": "detail",
+          "verified": false,
+          "linkEnabled": false,
+          "removed": true,
+          "previouslyRemoved": true,
+          "checkedAt": "2026-09-29T09:03:56.576036+03:00",
+          "status": 200,
+          "requiresAuthentication": false,
+          "evidence": "sources/history/7855cb28832d202dde0f.txt",
+          "method": "Публічне HTTP-читання колектором поточного запуску",
+          "availability": "Сторінку знято або URL повертає 404/410; причина невідома, продаж не доведений.",
+          "finalUrl": "https://dom.ria.com/uk/realty-prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa-34888651.html"
+        }
+      ],
+      "setback": "Ширину проміжку між стіною будинку і тротуаром не встановлено. Вимога 1–2 м залишається непідтвердженою.",
+      "kind": "house",
+      "number": 130,
+      "rank": 6,
+      "previousCheckedAt": "2026-10-01T09:04:29.015724+03:00",
+      "satelliteCheckedAt": "2026-09-21",
+      "mapEvidence": {
+        "checkedAt": "2026-09-30T09:38:27+03:00",
+        "newSatelliteVerification": false,
+        "attemptEvidence": "sources/browser-availability.json",
+        "historicalEvidence": "sources/history/baseline-before-run.json"
+      },
+      "verificationAttemptAt": "2026-10-02T09:04:31.325407+03:00",
+      "availabilityNote": "02.10.2026: сторінку явно знято або URL повернув 410; історичні факти збережено.",
+      "evidence": [
+        "sources/history/7855cb28832d202dde0f.txt",
+        "sources/history/a58dad4636d7841f7627.txt",
+        "sources/history/af71dfb9008ecb476520.txt",
+        "sources/history/74683923e48ecaf2a3bc.json"
+      ],
+      "commissionPercent": 5,
+      "totalWithCommission": 91350,
+      "commission": "5% · разом $91350.0",
+      "zoning": "Не перевірено в кадастровому блоці.",
+      "utilities": "Сирі цегляні стіни; комісія 5%.",
+      "setbackWidthMeters": null,
+      "setbackVerified": false,
+      "photoReview": "Історичний огляд (нова галерея повністю не переглядалася): Збережено фото попереднього звіту;  повний новий візуальний огляд для цього рядка не проводився. Історичний висновок: Попередній перегляд від 2026-09-21. Повторний повний перегляд у цьому запуску не заявляється.",
+      "photoSources": [
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344513485xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344513486xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344513487xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344513504xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344513524xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535141xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535145xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535146xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535152xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535156xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535159xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535163xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535179xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535193xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535194xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535195xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535196xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535197xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535198xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535199xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535202xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535203xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535205xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535220xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535221xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535219xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535222xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344535223xl.jpg",
+        "https://cdn.riastatic.com/photosnew/dom/photo/prodaja-dom-velikie-gai-nazariya-yaremchuka-ulitsa__344513485fl.jpg"
+      ],
+      "allCriteriaEvidence": {
+        "qualified": false,
+        "checkedAt": "2026-10-01T09:30:03+03:00",
+        "reason": "Принаймні одна обов’язкова умова не доведена або є встановлена невідповідність; див. причину, виміри й дату доказів."
+      },
+      "historicalMapEvidence": true,
+      "factsCheckedAt": "2026-09-21T13:27:22.570171+03:00",
+      "photoEvidenceDate": "2026-09-21",
+      "status": "Зняте оголошення / історія",
+      "cadastreLinks": [],
+      "priceCurrency": "USD",
+      "duplicates": "ВІСОН 22-464-298 має схожі типові фасади, але це може бути інший будинок комплексу. Тотожність не встановлена; не оголошено відновлення старої картки DIM.RIA."
     }
   ],
   "sources": [

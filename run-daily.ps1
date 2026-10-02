@@ -32,11 +32,16 @@ try {
     if ($code -ne 0) { throw "Codex exited with code $code. See $errorPath" }
     if (-not (Test-Path -LiteralPath $finalPath)) { throw 'Missing Codex result.' }
     if (-not $SelfTest) {
-        $htmlReport = Join-Path $runDir 'report.html'
         $jsonReport = Join-Path $runDir 'listings.json'
-        $sourcesReport = Join-Path $runDir 'sources.html'
-        if (-not (Test-Path -LiteralPath $htmlReport) -or -not (Test-Path -LiteralPath $jsonReport) -or -not (Test-Path -LiteralPath $sourcesReport)) { throw 'The daily analysis did not produce report.html, listings.json and sources.html; the previous report is preserved.' }
-        if ((Get-Item -LiteralPath $htmlReport).Length -lt 500) { throw 'The generated HTML report is unexpectedly short.' }
+        if (-not (Test-Path -LiteralPath $jsonReport)) { throw 'The daily analysis did not produce listings.json; the previous report is preserved.' }
+        & 'C:\Users\andri\AppData\Local\Programs\Python\Python310\python.exe' (Join-Path $taskRoot 'render_report.py') --input $jsonReport --out $runDir
+        if ($LASTEXITCODE -ne 0) { throw 'Page generation failed; the previous report is preserved.' }
+        $htmlReport = Join-Path $runDir 'index.html'
+        $pageNames = @('index.html','map.html','excluded.html','removed.html','cadastre.html','sources.html')
+        foreach ($pageName in $pageNames) {
+            $pagePath = Join-Path $runDir $pageName
+            if (-not (Test-Path -LiteralPath $pagePath) -or (Get-Item -LiteralPath $pagePath).Length -lt 500) { throw "Missing or short generated page: $pageName" }
+        }
         $reportData = Get-Content -LiteralPath $jsonReport -Raw -Encoding UTF8 | ConvertFrom-Json
         if (-not $reportData.listings -or -not $reportData.sources) { throw 'The report lacks listings or source coverage; the previous report is preserved.' }
         $overBudgetHouses = @($reportData.listings | Where-Object {
@@ -44,20 +49,21 @@ try {
         })
         if ($overBudgetHouses.Count -gt 0) { throw 'A house above the USD 110000 budget is active or qualified; the previous report is preserved.' }
         $htmlText = Get-Content -LiteralPath $htmlReport -Raw -Encoding UTF8
-        if ($htmlText -notmatch 'Актуальні сторінки' -or $htmlText -notmatch 'Що відсіяно або не включено' -or $htmlText -notmatch 'id="map"') { throw 'The report lacks the required tables or map.' }
+        $mapText = Get-Content -LiteralPath (Join-Path $runDir 'map.html') -Raw -Encoding UTF8
+        if ($htmlText -notmatch 'Актуальні сторінки' -or $mapText -notmatch 'id="map"') { throw 'The generated pages lack the active table or map.' }
         $previousBaseline = Join-Path $taskRoot 'baseline.json'
         if (Test-Path -LiteralPath $previousBaseline) { Copy-Item -LiteralPath $previousBaseline -Destination (Join-Path $runDir 'previous-baseline.json') -Force }
         $latestDir = Join-Path $taskRoot 'latest_report'
         New-Item -ItemType Directory -Path $latestDir -Force | Out-Null
         & 'C:\Users\andri\AppData\Local\Programs\Python\Python310\python.exe' (Join-Path $taskRoot 'publish-report-assets.py') --report $htmlReport --source-root $runDir --destination-root $latestDir
         if ($LASTEXITCODE -ne 0) { throw 'The generated report references local assets that could not be published; the previous report is preserved.' }
+        foreach ($pageName in $pageNames) { Copy-Item -LiteralPath (Join-Path $runDir $pageName) -Destination (Join-Path $latestDir $pageName) -Force }
         Copy-Item -LiteralPath $htmlReport -Destination (Join-Path $latestDir 'report.html') -Force
-        Copy-Item -LiteralPath $htmlReport -Destination (Join-Path $latestDir 'index.html') -Force
-        Copy-Item -LiteralPath $sourcesReport -Destination (Join-Path $latestDir 'sources.html') -Force
         $rootHtml = $htmlText.Replace('<head>', '<head><base href="latest_report/">')
         Set-Content -LiteralPath (Join-Path $taskRoot 'latest.html') -Value $rootHtml -Encoding UTF8 -NoNewline
         Set-Content -LiteralPath (Join-Path $taskRoot 'report.html') -Value $rootHtml -Encoding UTF8 -NoNewline
-        Copy-Item -LiteralPath $sourcesReport -Destination (Join-Path $taskRoot 'sources.html') -Force
+        $rootSources = (Get-Content -LiteralPath (Join-Path $runDir 'sources.html') -Raw -Encoding UTF8).Replace('<head>', '<head><base href="latest_report/">')
+        Set-Content -LiteralPath (Join-Path $taskRoot 'sources.html') -Value $rootSources -Encoding UTF8 -NoNewline
         Copy-Item -LiteralPath $jsonReport -Destination $previousBaseline -Force
         Copy-Item -LiteralPath $jsonReport -Destination (Join-Path $latestDir 'listings.json') -Force
         foreach ($pair in @(@('report.md','latest.md'), @('houses.geojson','houses.geojson'), @('changes.md','latest-changes.md'))) {
