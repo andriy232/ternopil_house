@@ -9,24 +9,27 @@ for r in rows:
  r['rank']=next((v for k,v in list(rank.items())[:6] if r['district'].startswith(k)),6 if any(k in r['district'] for k in ['Кутківці','Пронятин','Великі Гаї','Підгороднє','Передмістя']) else 7)
  r['centerKm']=r.get('centerKm') if r.get('coords') else None
 def fmt(v):return '—' if v is None else format(v,',').replace(',',' ') if isinstance(v,(int,float)) else str(v)
+def state_link(url,label,verified,removed=False,unverified_note='не перевірено'):
+ text=E(label)
+ if removed:return '<span class="muted">'+text+' — сторінку видалено</span>'
+ link='<a target="_blank" rel="noopener" href="'+E(url)+'">'+text+'</a>'
+ return link if verified else '<span class="muted">'+link+' — '+E(unverified_note)+'</span>'
 def links(r):
  out=[]
  for s in r.get('sources',[]):
   if not s.get('url'):continue
   label=s.get('label','Оголошення')
-  if s.get('verified') and not s.get('removed'):out.append('<a target="_blank" rel="noopener" href="'+E(s['url'])+'">'+E(label)+'</a>')
-  else:
-   ident=re.search(r'(?:view/|estate/)(\d+)|-(ID[^./]+)\.html|-(\d+)\.html|ann-([\d-]+)\.html',s['url'])
-   code=next((x for x in ident.groups() if x),'') if ident else ''
-   out.append('<span class="muted">'+E(label+' '+code+' — '+('сторінку видалено' if s.get('removed') else 'не перевірено'))+'</span>')
+  ident=re.search(r'(?:view/|estate/)(\d+)|-(ID[^./]+)\.html|-(\d+)\.html|ann-([\d-]+)\.html',s['url'])
+  code=next((x for x in ident.groups() if x),'') if ident else ''
+  out.append(state_link(s['url'],(label+' '+code).strip(),s.get('verified'),s.get('removed')))
  return ' · '.join(out)
 def cadastrelinks(r):
  out=[]
  for x in r.get('cadastreLinks',[]):
   if not x.get('url'):continue
-  label=E(x.get('label') or x.get('number') or 'Кадастрова сторінка')
-  if x.get('verified'):out.append('<a target="_blank" rel="noopener" href="'+E(x['url'])+'">'+label+'</a>')
-  else:out.append('<span class="muted">'+label+' — '+('потрібен вхід' if x.get('requiresAuthentication') else 'не перевірено')+'</span>')
+  label=x.get('label') or x.get('number') or 'Кадастрова сторінка'
+  note='потрібен вхід' if x.get('requiresAuthentication') else 'не перевірено'
+  out.append(state_link(x['url'],label,x.get('verified'),x.get('removed'),note))
  return ' · '.join(out)
 def measurement(r,key,label):
  x=r.get('measurements',{}).get(key)
@@ -81,8 +84,8 @@ def table(items):
 sources=D.get('sources',[])
 def sourcerow(s):
  title=E(s['name']);url=s.get('url','')
- if not s.get('removed') and s.get('verified'):title='<a target="_blank" rel="noopener" href="'+E(url)+'">'+title+'</a>'
- else:title+='<br><span class="small">'+E(url)+'</span>'
+ if url and not s.get('removed'):title=state_link(url,s['name'],s.get('verified'))
+ elif url:title+='<br><span class="small">'+E(url)+'</span>'
  proof='<br><a href="'+E(s['evidence'])+'">Збережений доказ</a>' if s.get('evidence') else ''
  return '<tr><td>'+title+'</td><td>'+E(s['coverage'])+proof+'</td><td>'+E(s['limitations'])+'<br><span class="small">'+E(s.get('checkedAt',''))+' · HTTP '+E(s.get('status','—'))+' · '+E(s.get('method',''))+'</span></td></tr>'
 sourcehtml='<p>'+E(D.get('summary',''))+'</p><ul>'+''.join('<li>'+E(x)+'</li>' for x in D.get('coverageLimitations',[]))+'</ul><div class="tablewrap"><table class="sources"><thead><tr><th>Сайт</th><th>Що перевірено</th><th>Доступ / обмеження</th></tr></thead><tbody>'+''.join(sourcerow(s) for s in sources)+'</tbody></table></div>'
@@ -193,8 +196,8 @@ md+=['- '+x for x in D.get('coverageLimitations',[])]+['']
 for title,items in [('Актуальні сторінки',active),('Що відсіяно або не включено',excluded),('Видалені оголошення',removed)]:
  md+=['## '+title,'','| № / Об’єкт | Ціна | м² / сотки | Висновок і setback |','|---|---:|---|---|']
  for r in items:
-  good=next((s for s in r['sources'] if s.get('verified') and not s.get('removed') and s.get('sourceType')!='cadastre'),None)
-  title='['+r['address']+']('+good['url']+')' if good else r['address']+' (сторінка не перевірена / видалена)'
+  source=next((s for s in r['sources'] if not s.get('removed') and s.get('sourceType')!='cadastre' and s.get('url')),None)
+  title='['+r['address']+']('+source['url']+')'+(' (не перевірена)' if source and not source.get('verified') else '') if source else r['address']+' (сторінка видалена)'
   md+=['| '+str(r['number'])+'. '+title+' | '+str(r.get('priceLabel') or '$'+fmt(r['price']))+' | '+fmt(r['area'])+' / '+fmt(r['land'])+' | '+r['reason']+' Відступ: '+r.get('setback','Не встановлено.')+' |']
  md+=['']
 md+=['[Актуальні сторінки](index.html) · [Карта](map.html) · [Відсіяно](excluded.html) · [Видалені оголошення](removed.html) · [Кадастр](cadastre.html) · [Джерела та дати](sources.html) · [Зміни](changes.md)']
