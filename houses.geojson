@@ -226,12 +226,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          25.55050374,
+          49.54308261
+        ]
+      },
+      "properties": {
+        "number": 16,
+        "id": "druzhba-troleybusna14a13-35004782",
+        "kind": "house",
+        "address": "Тролейбусна, 14А/13 — номер заявлений DIM.RIA",
+        "district": "Дружба",
+        "price": 198000,
+        "section": "excluded",
+        "mapPrecision": "маркер DIM.RIA; номер заявлений, точку воріт не підтверджено",
+        "reason": "Відсіяно: $198 000, на $88 000 понад ліміт. В описі також вказане котеджне містечко, тому приватність двору потребувала б окремої перевірки.",
+        "map": "https://www.google.com/maps/search/?api=1&query=49.54308261%2C25.55050374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5701358,
+          49.5505335
+        ]
+      },
+      "properties": {
+        "number": 17,
+        "id": "druzhba-tisna1b-34999262",
+        "kind": "house",
+        "address": "Тісна, 1Б",
+        "district": "Дружба",
+        "price": 350000,
+        "section": "excluded",
+        "mapPrecision": "маркер DIM.RIA; №1Б заявлений, точку воріт не підтверджено",
+        "reason": "Відсіяно: $350 000, що на $240 000 перевищує ліміт $110 000. Інші обов’язкові критерії не досліджувалися як вирішальні.",
+        "map": "https://www.google.com/maps/search/?api=1&query=49.5505335%2C25.5701358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           25.516691559329498,
           49.546993895723574
         ]
       },
       "properties": {
-        "number": 18,
+        "number": 20,
         "id": "land-pid-yur2",
         "kind": "land",
         "address": "Ділянка · Юркевича, 2 — адреса довідкового кадастру",
@@ -253,7 +297,7 @@
         ]
       },
       "properties": {
-        "number": 23,
+        "number": 25,
         "id": "land-st1633",
         "kind": "land",
         "address": "Ділянка · СТ у західній околиці, кадастр …1633",
@@ -275,7 +319,7 @@
         ]
       },
       "properties": {
-        "number": 26,
+        "number": 28,
         "id": "land-pid-nez19",
         "kind": "land",
         "address": "Ділянка · Незалежності, 19 — адреса довідкового кадастру",
@@ -297,7 +341,7 @@
         ]
       },
       "properties": {
-        "number": 27,
+        "number": 29,
         "id": "land-franka",
         "kind": "land",
         "address": "Ділянка · Івана Франка, номер невідомий",
@@ -319,7 +363,7 @@
         ]
       },
       "properties": {
-        "number": 34,
+        "number": 36,
         "id": "land-pid-yur3",
         "kind": "land",
         "address": "Ділянка · Юркевича, 3 — адреса у фото витягу 2016 року",
@@ -341,7 +385,7 @@
         ]
       },
       "properties": {
-        "number": 43,
+        "number": 45,
         "id": "land-lviv69",
         "kind": "land",
         "address": "Ділянка · Львівська / дорога Н02, кадастр …0592",
@@ -363,7 +407,7 @@
         ]
       },
       "properties": {
-        "number": 44,
+        "number": 46,
         "id": "land-pro150",
         "kind": "land",
         "address": "Ділянка · Проєктна, 150 — адреса довідкового кадастру",
@@ -385,7 +429,7 @@
         ]
       },
       "properties": {
-        "number": 49,
+        "number": 51,
         "id": "land-pid-polova678",
         "kind": "land",
         "address": "Ділянка · Польова, номер невідомий · кадастр …3178",
@@ -407,7 +451,7 @@
         ]
       },
       "properties": {
-        "number": 50,
+        "number": 52,
         "id": "land-pid-medova",
         "kind": "land",
         "address": "Ділянка · Медова, номер невідомий",
@@ -429,7 +473,7 @@
         ]
       },
       "properties": {
-        "number": 51,
+        "number": 53,
         "id": "land-pron7-electric",
         "kind": "land",
         "address": "Ділянка · Проєктна, 6,67 сотки за кадастровим блоком",
@@ -451,7 +495,7 @@
         ]
       },
       "properties": {
-        "number": 53,
+        "number": 56,
         "id": "land-haiolha",
         "kind": "land",
         "address": "Ділянка · Княгині Ольги, номер невідомий",
@@ -473,7 +517,7 @@
         ]
       },
       "properties": {
-        "number": 56,
+        "number": 60,
         "id": "land-haikashuba",
         "kind": "land",
         "address": "Ділянка · Отця Кашуби, номер невідомий",
@@ -495,7 +539,7 @@
         ]
       },
       "properties": {
-        "number": 60,
+        "number": 64,
         "id": "land-ter53",
         "kind": "land",
         "address": "Ділянка · Тернопільська, 53",
@@ -517,7 +561,7 @@
         ]
       },
       "properties": {
-        "number": 62,
+        "number": 66,
         "id": "proektna164",
         "kind": "house",
         "address": "Проєктна, 216 за Flatfy",
@@ -539,7 +583,7 @@
         ]
       },
       "properties": {
-        "number": 64,
+        "number": 68,
         "id": "hlybokadolyna",
         "kind": "house",
         "address": "Глибока Долина, 29",
@@ -561,7 +605,7 @@
         ]
       },
       "properties": {
-        "number": 67,
+        "number": 71,
         "id": "pid83",
         "kind": "house",
         "address": "Зелена, 28 за ВІСОН, СТ «Жовтневе» — номер не звірений на місці",
@@ -583,7 +627,7 @@
         ]
       },
       "properties": {
-        "number": 68,
+        "number": 72,
         "id": "land-dolyna-detail",
         "kind": "land",
         "address": "Ділянка · Глибока Долина, номер невідомий",
@@ -605,7 +649,7 @@
         ]
       },
       "properties": {
-        "number": 70,
+        "number": 74,
         "id": "land-pid52",
         "kind": "land",
         "address": "Ділянка · Підгороднє, заявлено 52 сотки — кадастр …3421",
@@ -627,7 +671,7 @@
         ]
       },
       "properties": {
-        "number": 79,
+        "number": 83,
         "id": "proektna260",
         "kind": "house",
         "address": "Проєктна, номер не вказано",
@@ -649,7 +693,7 @@
         ]
       },
       "properties": {
-        "number": 80,
+        "number": 84,
         "id": "hai188-alt",
         "kind": "house",
         "address": "Шевченка, 22 — за оголошенням",
@@ -671,7 +715,7 @@
         ]
       },
       "properties": {
-        "number": 86,
+        "number": 90,
         "id": "pid120",
         "kind": "house",
         "address": "Садова, 15-А / Озерна — конфлікт адреси в дублікатах",
@@ -688,12 +732,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          25.52000536,
+          49.53889209
+        ]
+      },
+      "properties": {
+        "number": 92,
+        "id": "pid-pryozerna3-34998892",
+        "kind": "house",
+        "address": "Приозерна, 3 — номер заявлений DIM.RIA",
+        "district": "Підгороднє",
+        "price": 85000,
+        "section": "excluded",
+        "mapPrecision": "маркер DIM.RIA; №3 заявлений, точку воріт не підтверджено",
+        "reason": "Перспективний за ціною, площею, землею та фото, але не включений до актуальних: точку воріт/межі ділянки й обидва пішохідні маршрути до 500 м не доведено. Маркер дає лише ≈160 м до зупинки та ≈164 м до офіційно підтвердженого садочка по прямій.",
+        "map": "https://www.google.com/maps/search/?api=1&query=49.53889209%2C25.52000536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           25.642342685986925,
           49.51928661888711
         ]
       },
       "properties": {
-        "number": 88,
+        "number": 93,
         "id": "vhai-lesi-34082264",
         "kind": "house",
         "address": "Лесі Українки, 16 — номер із дубліката, не звірений на місці",
@@ -715,7 +781,7 @@
         ]
       },
       "properties": {
-        "number": 89,
+        "number": 94,
         "id": "ternopilska",
         "kind": "house",
         "address": "Тернопільська, номер не вказано",
@@ -737,7 +803,7 @@
         ]
       },
       "properties": {
-        "number": 99,
+        "number": 104,
         "id": "hai164",
         "kind": "house",
         "address": "Івана Франка / Франка бічна, номер невідомий",
@@ -745,7 +811,7 @@
         "price": 110000,
         "section": "excluded",
         "mapPrecision": "приблизний маркер вулиці",
-        "reason": "DIM.RIA містить явну позначку видалення; OLX у цьому запуску повернув 403. Попередні $110 000 / 163,5 м² / 8,7 сотки й фото збережено як історію. Номер і обидва маршрути 500 м не доведені.",
+        "reason": "Жива повторна публікація 35012542: $110 000 / 163,5 м² / 8,75 сотки. Це та сама садиба, але номер, вихід із двору та обидва пішохідні маршрути до 500 м не доведені; фото не показують лінію тротуару.",
         "map": "https://www.google.com/maps/search/?api=1&query=49.52711983%2C25.64419496"
       }
     },
@@ -759,7 +825,7 @@
         ]
       },
       "properties": {
-        "number": 101,
+        "number": 106,
         "id": "kalyna147",
         "kind": "house",
         "address": "Калинова / KALYNA HILLS · 147 м²",
@@ -781,7 +847,7 @@
         ]
       },
       "properties": {
-        "number": 102,
+        "number": 107,
         "id": "pid-lesi229",
         "kind": "house",
         "address": "Северина Наливайка, 12 (дубль помилково підписаний «Лесі Українки»)",
@@ -803,7 +869,7 @@
         ]
       },
       "properties": {
-        "number": 104,
+        "number": 109,
         "id": "kalyna120",
         "kind": "house",
         "address": "Калинова / KALYNA HILLS · 120 м²",
@@ -825,7 +891,7 @@
         ]
       },
       "properties": {
-        "number": 105,
+        "number": 110,
         "id": "kalyna179",
         "kind": "house",
         "address": "Калинова / KALYNA HILLS · 179 м²",
@@ -847,7 +913,7 @@
         ]
       },
       "properties": {
-        "number": 106,
+        "number": 111,
         "id": "malynova",
         "kind": "house",
         "address": "Малинова, СТ Тернопільське",
@@ -869,7 +935,7 @@
         ]
       },
       "properties": {
-        "number": 107,
+        "number": 112,
         "id": "kalyna117",
         "kind": "house",
         "address": "Калинова / KALYNA HILLS · 117.5 м²",
@@ -891,7 +957,7 @@
         ]
       },
       "properties": {
-        "number": 118,
+        "number": 124,
         "id": "tiutiunnyka",
         "kind": "house",
         "address": "Генерала Тютюнника, 22",
@@ -913,7 +979,7 @@
         ]
       },
       "properties": {
-        "number": 119,
+        "number": 126,
         "id": "leontovycha",
         "kind": "house",
         "address": "Леонтовича, імовірно 21",
@@ -935,7 +1001,7 @@
         ]
       },
       "properties": {
-        "number": 122,
+        "number": 130,
         "id": "festyvalna",
         "kind": "house",
         "address": "Фестивальна, номер не вказано",
@@ -957,7 +1023,7 @@
         ]
       },
       "properties": {
-        "number": 124,
+        "number": 132,
         "id": "myk115",
         "kind": "house",
         "address": "Микулинецька, 115",
@@ -979,7 +1045,7 @@
         ]
       },
       "properties": {
-        "number": 126,
+        "number": 134,
         "id": "land-pid27",
         "kind": "land",
         "address": "Ділянка · 27,41 сотки, кадастр …0722",
@@ -1001,7 +1067,7 @@
         ]
       },
       "properties": {
-        "number": 129,
+        "number": 137,
         "id": "hai125",
         "kind": "house",
         "address": "Івана Франка бічна, номер невідомий",
@@ -1023,7 +1089,7 @@
         ]
       },
       "properties": {
-        "number": 130,
+        "number": 138,
         "id": "hai120",
         "kind": "house",
         "address": "Назарія Яремчука, номер невідомий",
