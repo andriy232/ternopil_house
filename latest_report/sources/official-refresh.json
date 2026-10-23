@@ -1,0 +1,443 @@
+[
+  {
+    "url": "https://te.isuo.org/koatuu/preschools-list/id/6110100000",
+    "checkedAt": "2026-10-23T09:11:28.365928+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/koatuu/preschools-list/id/6125200000",
+    "checkedAt": "2026-10-23T09:11:28.365928+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48212",
+    "checkedAt": "2026-10-23T09:11:28.365928+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48213",
+    "checkedAt": "2026-10-23T09:11:28.366930+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/59247",
+    "checkedAt": "2026-10-23T09:11:28.366930+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48201",
+    "checkedAt": "2026-10-23T09:11:28.366930+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48224",
+    "checkedAt": "2026-10-23T09:11:28.366930+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48216",
+    "checkedAt": "2026-10-23T09:11:28.367927+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48195",
+    "checkedAt": "2026-10-23T09:11:28.367927+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48223",
+    "checkedAt": "2026-10-23T09:11:28.368928+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48197",
+    "checkedAt": "2026-10-23T09:11:28.448411+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48208",
+    "checkedAt": "2026-10-23T09:11:28.448411+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48221",
+    "checkedAt": "2026-10-23T09:11:28.448411+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48196",
+    "checkedAt": "2026-10-23T09:11:28.448411+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48192",
+    "checkedAt": "2026-10-23T09:11:28.448411+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/58959",
+    "checkedAt": "2026-10-23T09:11:28.449410+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/59602",
+    "checkedAt": "2026-10-23T09:11:28.456378+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/58829",
+    "checkedAt": "2026-10-23T09:11:28.456378+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48391",
+    "checkedAt": "2026-10-23T09:11:28.456378+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48390",
+    "checkedAt": "2026-10-23T09:11:28.463377+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/59076",
+    "checkedAt": "2026-10-23T09:11:28.464377+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48389",
+    "checkedAt": "2026-10-23T09:11:28.468376+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48399",
+    "checkedAt": "2026-10-23T09:11:28.469379+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48405",
+    "checkedAt": "2026-10-23T09:11:28.470378+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48403",
+    "checkedAt": "2026-10-23T09:11:28.471977+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48397",
+    "checkedAt": "2026-10-23T09:11:28.487562+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48394",
+    "checkedAt": "2026-10-23T09:11:28.487562+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48388",
+    "checkedAt": "2026-10-23T09:11:28.487562+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/52775",
+    "checkedAt": "2026-10-23T09:11:28.487562+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48393",
+    "checkedAt": "2026-10-23T09:11:28.487562+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48396",
+    "checkedAt": "2026-10-23T09:11:28.488560+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48387",
+    "checkedAt": "2026-10-23T09:11:28.490560+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48193",
+    "checkedAt": "2026-10-23T09:11:28.491561+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48189",
+    "checkedAt": "2026-10-23T09:11:28.494560+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48191",
+    "checkedAt": "2026-10-23T09:11:28.494560+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48199",
+    "checkedAt": "2026-10-23T09:11:28.507089+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/53518",
+    "checkedAt": "2026-10-23T09:11:28.507089+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48218",
+    "checkedAt": "2026-10-23T09:11:28.508091+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48207",
+    "checkedAt": "2026-10-23T09:11:28.509088+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48215",
+    "checkedAt": "2026-10-23T09:11:28.510088+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48220",
+    "checkedAt": "2026-10-23T09:11:28.510088+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48211",
+    "checkedAt": "2026-10-23T09:11:28.511088+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48214",
+    "checkedAt": "2026-10-23T09:11:28.514088+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48219",
+    "checkedAt": "2026-10-23T09:11:28.515087+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48203",
+    "checkedAt": "2026-10-23T09:11:28.516089+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48204",
+    "checkedAt": "2026-10-23T09:11:28.525657+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48198",
+    "checkedAt": "2026-10-23T09:11:28.525657+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48222",
+    "checkedAt": "2026-10-23T09:11:28.526653+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48202",
+    "checkedAt": "2026-10-23T09:11:28.527653+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48205",
+    "checkedAt": "2026-10-23T09:11:28.528653+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48190",
+    "checkedAt": "2026-10-23T09:11:28.529652+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48206",
+    "checkedAt": "2026-10-23T09:11:28.531653+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48194",
+    "checkedAt": "2026-10-23T09:11:28.532655+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48209",
+    "checkedAt": "2026-10-23T09:11:28.532655+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48210",
+    "checkedAt": "2026-10-23T09:11:28.534802+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48217",
+    "checkedAt": "2026-10-23T09:11:28.538787+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/53475",
+    "checkedAt": "2026-10-23T09:11:28.539787+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48200",
+    "checkedAt": "2026-10-23T09:11:28.540785+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48188",
+    "checkedAt": "2026-10-23T09:11:28.541787+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/59206",
+    "checkedAt": "2026-10-23T09:11:28.546365+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48414",
+    "checkedAt": "2026-10-23T09:11:28.549345+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48398",
+    "checkedAt": "2026-10-23T09:11:28.551956+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  },
+  {
+    "url": "https://te.isuo.org/preschools/view/id/48411",
+    "checkedAt": "2026-10-23T09:11:28.551956+03:00",
+    "method": "Публічне HTTP-читання поточного запуску",
+    "status": null,
+    "error": "('Connection aborted.', PermissionError(13, 'Permission denied'))"
+  }
+]

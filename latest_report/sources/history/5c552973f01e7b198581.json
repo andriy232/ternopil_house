@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Баворів",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%91%D0%B0%D0%B2%D0%BE%D1%80%D1%96%D0%B2%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 190520795,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3166651,
+        "lat": "49.4398500",
+        "lon": "25.7145300",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.36366628930239936,
+        "addresstype": "village",
+        "name": "Баворів",
+        "display_name": "Баворів, Великогаївська сільська громада, Тернопільський район, Тернопільська область, 47743, Україна",
+        "boundingbox": [
+          "49.4305649",
+          "49.4472154",
+          "25.7054109",
+          "25.7283677"
+        ]
+      }
+    ],
+    "centerKm": 15.33,
+    "checkedAt": "2026-09-26T09:14:59.130746+03:00"
+  },
+  {
+    "name": "Товстолуг",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%A2%D0%BE%D0%B2%D1%81%D1%82%D0%BE%D0%BB%D1%83%D0%B3%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 190829297,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167568,
+        "lat": "49.4793300",
+        "lon": "25.7289500",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.32173239253715025,
+        "addresstype": "village",
+        "name": "Товстолуг",
+        "display_name": "Товстолуг, Великогаївська сільська громада, Тернопільський район, Тернопільська область, 47742, Україна",
+        "boundingbox": [
+          "49.4612151",
+          "49.4957714",
+          "25.7187518",
+          "25.7470648"
+        ]
+      }
+    ],
+    "centerKm": 12.73,
+    "checkedAt": "2026-09-26T09:15:00.441558+03:00"
+  },
+  {
+    "name": "Грабовець",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%93%D1%80%D0%B0%D0%B1%D0%BE%D0%B2%D0%B5%D1%86%D1%8C%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 189829649,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3166876,
+        "lat": "49.4470618",
+        "lon": "25.7354980",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3172483997907332,
+        "addresstype": "village",
+        "name": "Грабовець",
+        "display_name": "Грабовець, Великогаївська сільська громада, Тернопільський район, Тернопільська область, 47743, Україна",
+        "boundingbox": [
+          "49.4408931",
+          "49.4531941",
+          "25.7254241",
+          "25.7534708"
+        ]
+      }
+    ],
+    "centerKm": 15.62,
+    "checkedAt": "2026-09-26T09:15:01.762054+03:00"
+  },
+  {
+    "name": "Козівка",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9A%D0%BE%D0%B7%D1%96%D0%B2%D0%BA%D0%B0%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 189470037,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167057,
+        "lat": "49.4577000",
+        "lon": "25.1089100",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.33113623856093605,
+        "addresstype": "village",
+        "name": "Козівка",
+        "display_name": "Козівка, Козівська селищна громада, Тернопільський район, Тернопільська область, 47642, Україна",
+        "boundingbox": [
+          "49.4395845",
+          "49.4697352",
+          "25.0822633",
+          "25.1226291"
+        ]
+      }
+    ],
+    "centerKm": 36.67,
+    "checkedAt": "2026-09-26T09:15:03.535106+03:00"
+  },
+  {
+    "name": "Скоморохи",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%A1%D0%BA%D0%BE%D0%BC%D0%BE%D1%80%D0%BE%D1%85%D0%B8%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 191287905,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167486,
+        "lat": "49.4051076",
+        "lon": "25.7275685",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.42894012557242434,
+        "addresstype": "village",
+        "name": "Скоморохи",
+        "display_name": "Скоморохи, Великогаївська сільська громада, Тернопільський район, Тернопільська область, 47744, Україна",
+        "boundingbox": [
+          "49.3969805",
+          "49.4132213",
+          "25.7090602",
+          "25.7439249"
+        ]
+      }
+    ],
+    "centerKm": 19.11,
+    "checkedAt": "2026-09-26T09:15:04.819999+03:00"
+  },
+  {
+    "name": "Дичків",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%94%D0%B8%D1%87%D0%BA%D1%96%D0%B2%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 188855024,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3166911,
+        "lat": "49.5092306",
+        "lon": "25.7273577",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.33113623856093605,
+        "addresstype": "village",
+        "name": "Дичків",
+        "display_name": "Дичків, Великогаївська сільська громада, Тернопільський район, Тернопільська область, 47738, Україна",
+        "boundingbox": [
+          "49.4996459",
+          "49.5137941",
+          "25.7101033",
+          "25.7400683"
+        ]
+      }
+    ],
+    "centerKm": 10.77,
+    "checkedAt": "2026-09-26T09:15:06.335764+03:00"
+  },
+  {
+    "name": "Білоскірка",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%91%D1%96%D0%BB%D0%BE%D1%81%D0%BA%D1%96%D1%80%D0%BA%D0%B0%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 190949427,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3166724,
+        "lat": "49.4610268",
+        "lon": "25.7390438",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.31620884567581686,
+        "addresstype": "village",
+        "name": "Білоскірка",
+        "display_name": "Білоскірка, Великогаївська сільська громада, Тернопільський район, Тернопільська область, 47742, Україна",
+        "boundingbox": [
+          "49.4547347",
+          "49.4635774",
+          "25.7324152",
+          "25.7564755"
+        ]
+      }
+    ],
+    "centerKm": 14.65,
+    "checkedAt": "2026-09-26T09:15:08.082428+03:00"
+  },
+  {
+    "name": "Лучка",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9B%D1%83%D1%87%D0%BA%D0%B0%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 191136352,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167166,
+        "lat": "49.4161228",
+        "lon": "25.5947113",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.34328481186948456,
+        "addresstype": "village",
+        "name": "Лучка",
+        "display_name": "Лучка, Великоберезовицька селищна громада, Тернопільський район, Тернопільська область, 47732, Україна",
+        "boundingbox": [
+          "49.4039074",
+          "49.4246850",
+          "25.5906674",
+          "25.6240546"
+        ]
+      }
+    ],
+    "centerKm": 15.3,
+    "checkedAt": "2026-09-26T09:15:09.585772+03:00"
+  },
+  {
+    "name": "Мишковичі",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9C%D0%B8%D1%88%D0%BA%D0%BE%D0%B2%D0%B8%D1%87%D1%96%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 190917481,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167234,
+        "lat": "49.4483971",
+        "lon": "25.6015998",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.35323154899007886,
+        "addresstype": "village",
+        "name": "Мишковичі",
+        "display_name": "Мишковичі, Великоберезовицька селищна громада, Тернопільський район, Тернопільська область, 47732, Україна",
+        "boundingbox": [
+          "49.4317527",
+          "49.4591179",
+          "25.5957669",
+          "25.6271741"
+        ]
+      }
+    ],
+    "centerKm": 11.72,
+    "checkedAt": "2026-09-26T09:15:11.443005+03:00"
+  },
+  {
+    "name": "Настасів",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9D%D0%B0%D1%81%D1%82%D0%B0%D1%81%D1%96%D0%B2%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 189739767,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167269,
+        "lat": "49.4240600",
+        "lon": "25.5092200",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.34045234732906265,
+        "addresstype": "village",
+        "name": "Настасів",
+        "display_name": "Настасів, Великоберезовицька селищна громада, Тернопільський район, Тернопільська область, 47734, Україна",
+        "boundingbox": [
+          "49.4076525",
+          "49.4455086",
+          "25.4863255",
+          "25.5290974"
+        ]
+      }
+    ],
+    "centerKm": 15.68,
+    "checkedAt": "2026-09-26T09:15:12.767365+03:00"
+  },
+  {
+    "name": "Прошова",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9F%D1%80%D0%BE%D1%88%D0%BE%D0%B2%D0%B0%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 189743407,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167392,
+        "lat": "49.4228593",
+        "lon": "25.6815733",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.2946949388609965,
+        "addresstype": "village",
+        "name": "Прошова",
+        "display_name": "Прошова, Великогаївська сільська громада, Тернопільський район, Тернопільська область, 47744, Україна",
+        "boundingbox": [
+          "49.4143414",
+          "49.4296060",
+          "25.6685140",
+          "25.6945762"
+        ]
+      }
+    ],
+    "centerKm": 15.84,
+    "checkedAt": "2026-09-26T09:15:14.069925+03:00"
+  },
+  {
+    "name": "Малий Ходачків",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9C%D0%B0%D0%BB%D0%B8%D0%B9+%D0%A5%D0%BE%D0%B4%D0%B0%D1%87%D0%BA%D1%96%D0%B2%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 191042779,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167193,
+        "lat": "49.4906742",
+        "lon": "25.8291248",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.2869812649426343,
+        "addresstype": "village",
+        "name": "Малий Ходачків",
+        "display_name": "Малий Ходачків, Великобірківська селищна громада, Тернопільський район, Тернопільська область, 47741, Україна",
+        "boundingbox": [
+          "49.4719578",
+          "49.5032339",
+          "25.8102185",
+          "25.8613288"
+        ]
+      }
+    ],
+    "centerKm": 18.31,
+    "checkedAt": "2026-09-26T09:15:15.428773+03:00"
+  },
+  {
+    "name": "Мар’янівка",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9C%D0%B0%D1%80%E2%80%99%D1%8F%D0%BD%D1%96%D0%B2%D0%BA%D0%B0%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 190387385,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167210,
+        "lat": "49.4472716",
+        "lon": "25.4462461",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.31298735030903774,
+        "addresstype": "village",
+        "name": "Мар’янівка",
+        "display_name": "Мар’янівка, Великоберезовицька селищна громада, Тернопільський район, Тернопільська область, 47735, Україна",
+        "boundingbox": [
+          "49.4393095",
+          "49.4545518",
+          "25.4275183",
+          "25.4617215"
+        ]
+      }
+    ],
+    "centerKm": 15.97,
+    "checkedAt": "2026-09-26T09:15:16.788321+03:00"
+  },
+  {
+    "name": "Миролюбівка",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9C%D0%B8%D1%80%D0%BE%D0%BB%D1%8E%D0%B1%D1%96%D0%B2%D0%BA%D0%B0%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 190902358,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167226,
+        "lat": "49.4278300",
+        "lon": "25.5943700",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.33359242145229745,
+        "addresstype": "village",
+        "name": "Миролюбівка",
+        "display_name": "Миролюбівка, Великоберезовицька селищна громада, Тернопільський район, Тернопільська область, 47512, Україна",
+        "boundingbox": [
+          "49.4232293",
+          "49.4359214",
+          "25.5718941",
+          "25.6064910"
+        ]
+      }
+    ],
+    "centerKm": 14.0,
+    "checkedAt": "2026-09-26T09:15:18.783125+03:00"
+  },
+  {
+    "name": "Лозова",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%9B%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 189878121,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167156,
+        "lat": "49.6091100",
+        "lon": "25.6602900",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.3382445921771202,
+        "addresstype": "village",
+        "name": "Лозова",
+        "display_name": "Лозова, Байковецька сільська громада, Тернопільський район, Тернопільська область, 47710, Україна",
+        "boundingbox": [
+          "49.5986965",
+          "49.6179023",
+          "25.6467214",
+          "25.6659241"
+        ]
+      }
+    ],
+    "centerKm": 7.76,
+    "checkedAt": "2026-09-26T09:15:20.272443+03:00"
+  },
+  {
+    "name": "Чернелів-Руський",
+    "url": "https://nominatim.openstreetmap.org/search?q=%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D0%BB%D1%96%D0%B2-%D0%A0%D1%83%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9+%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%2C+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C%2C+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&format=jsonv2&limit=1",
+    "status": 200,
+    "data": [
+      {
+        "place_id": 191060859,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3167635,
+        "lat": "49.5462414",
+        "lon": "25.7539686",
+        "category": "boundary",
+        "type": "administrative",
+        "place_rank": 18,
+        "importance": 0.33478681080244976,
+        "addresstype": "village",
+        "name": "Чернелів-Руський",
+        "display_name": "Чернелів-Руський, Байковецька сільська громада, Тернопільський район, Тернопільська область, 47713, Україна",
+        "boundingbox": [
+          "49.5415700",
+          "49.5574558",
+          "25.7360542",
+          "25.7688114"
+        ]
+      }
+    ],
+    "centerKm": 11.51,
+    "checkedAt": "2026-09-26T09:15:21.557923+03:00"
+  }
+]

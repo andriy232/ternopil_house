@@ -1,11 +1,1 @@
-{
-  "checkedAt": "2026-09-24T09:46:23+03:00",
-  "getState": {
-    "apps": [],
-    "browsers": []
-  },
-  "createBrowserTab": "Browser is not available: iab",
-  "satelliteFreshlyVerified": false,
-  "firecrawl": "MCP tool call requires approval, but approval policy is never",
-  "limitation": "Не виконували обхід CAPTCHA/авторизації; альтернативні публічні HTTP та web.read використані для тексту."
-}
+{"checkedAt":"2026-10-23T09:11:00+03:00","method":"cua.getState","apps":[],"browsers":[],"newSatelliteVerification":false,"limitation":"У цьому запуску немає підключених браузерів або нативних програм. Супутник і пішохідні маршрути не відкриті; історичні висновки зберігають власні дати."}
